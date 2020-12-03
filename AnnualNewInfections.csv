@@ -1,0 +1,2941 @@
+Country/Region,Year,Sex,Value,Lower,Upper
+Global,2010,Both,310,200,500
+Global,2010,Female,150,97,240
+Global,2010,Male,160,100,250
+Global,2011,Both,270,170,430
+Global,2011,Female,130,85,210
+Global,2011,Male,140,88,220
+Global,2012,Both,240,150,380
+Global,2012,Female,120,75,190
+Global,2012,Male,120,78,190
+Global,2013,Both,220,140,350
+Global,2013,Female,110,69,170
+Global,2013,Male,110,71,180
+Global,2014,Both,200,130,320
+Global,2014,Female,100,63,160
+Global,2014,Male,100,66,160
+Global,2015,Both,190,120,290
+Global,2015,Female,91,58,140
+Global,2015,Male,95,60,150
+Global,2016,Both,180,110,280
+Global,2016,Female,86,54,140
+Global,2016,Male,90,56,140
+Global,2017,Both,170,110,270
+Global,2017,Female,83,52,130
+Global,2017,Male,86,54,140
+Global,2018,Both,160,99,250
+Global,2018,Female,77,49,120
+Global,2018,Male,80,50,130
+Global,2019,Both,150,94,240
+Global,2019,Female,73,46,120
+Global,2019,Male,76,48,120
+Afghanistan,2010,Both,<100,<100,<200
+Afghanistan,2010,Female,<100,<100,<100
+Afghanistan,2010,Male,<100,<100,<100
+Afghanistan,2011,Both,<100,<100,<200
+Afghanistan,2011,Female,<100,<100,<100
+Afghanistan,2011,Male,<100,<100,<100
+Afghanistan,2012,Both,<100,<100,<500
+Afghanistan,2012,Female,<100,<100,<100
+Afghanistan,2012,Male,<100,<100,<200
+Afghanistan,2013,Both,<100,<100,<500
+Afghanistan,2013,Female,<100,<100,<200
+Afghanistan,2013,Male,<100,<100,<200
+Afghanistan,2014,Both,<100,<100,<500
+Afghanistan,2014,Female,<100,<100,<200
+Afghanistan,2014,Male,<100,<100,<200
+Afghanistan,2015,Both,<100,<100,<500
+Afghanistan,2015,Female,<100,<100,<200
+Afghanistan,2015,Male,<100,<100,<200
+Afghanistan,2016,Both,<100,<100,<500
+Afghanistan,2016,Female,<100,<100,<200
+Afghanistan,2016,Male,<100,<100,<200
+Afghanistan,2017,Both,<100,<100,<500
+Afghanistan,2017,Female,<100,<100,<200
+Afghanistan,2017,Male,<100,<100,<200
+Afghanistan,2018,Both,<200,<100,<500
+Afghanistan,2018,Female,<100,<100,<200
+Afghanistan,2018,Male,<100,<100,<200
+Afghanistan,2019,Both,<200,<100,<500
+Afghanistan,2019,Female,<100,<100,<200
+Afghanistan,2019,Male,<100,<100,<200
+Angola,2010,Both,6,"4,9","7,5"
+Angola,2010,Female,3,"2,4","3,7"
+Angola,2010,Male,3,"2,5","3,8"
+Angola,2011,Both,"6,4","5,2","8,1"
+Angola,2011,Female,"3,2","2,6",4
+Angola,2011,Male,"3,2","2,6","4,1"
+Angola,2012,Both,"6,4","5,2","7,9"
+Angola,2012,Female,"3,2","2,6","3,9"
+Angola,2012,Male,"3,3","2,6",4
+Angola,2013,Both,"5,9","4,6","7,3"
+Angola,2013,Female,"2,9","2,3","3,6"
+Angola,2013,Male,3,"2,3","3,7"
+Angola,2014,Both,"5,4",4,"7,1"
+Angola,2014,Female,"2,6",2,"3,5"
+Angola,2014,Male,"2,7",2,"3,6"
+Angola,2015,Both,"5,5","3,9","7,1"
+Angola,2015,Female,"2,7","1,9","3,5"
+Angola,2015,Male,"2,8",2,"3,6"
+Angola,2016,Both,"5,8","4,1","7,6"
+Angola,2016,Female,"2,9",2,"3,8"
+Angola,2016,Male,"2,9","2,1","3,9"
+Angola,2017,Both,6,"4,4","7,8"
+Angola,2017,Female,3,"2,2","3,8"
+Angola,2017,Male,"3,1","2,2","3,9"
+Angola,2018,Both,"5,6","3,9","7,5"
+Angola,2018,Female,"2,8","1,9","3,7"
+Angola,2018,Male,"2,8",2,"3,8"
+Angola,2019,Both,"4,6","2,8","6,7"
+Angola,2019,Female,"2,3","1,4","3,3"
+Angola,2019,Male,"2,3","1,4","3,4"
+Australia,2010,Both,<100,<100,<100
+Australia,2010,Female,<100,<100,<100
+Australia,2010,Male,<100,<100,<100
+Australia,2011,Both,<100,<100,<100
+Australia,2011,Female,<100,<100,<100
+Australia,2011,Male,<100,<100,<100
+Australia,2012,Both,<100,<100,<100
+Australia,2012,Female,<100,<100,<100
+Australia,2012,Male,<100,<100,<100
+Australia,2013,Both,<100,<100,<100
+Australia,2013,Female,<100,<100,<100
+Australia,2013,Male,<100,<100,<100
+Australia,2014,Both,<100,<100,<100
+Australia,2014,Female,<100,<100,<100
+Australia,2014,Male,<100,<100,<100
+Australia,2015,Both,<100,<100,<100
+Australia,2015,Female,<100,<100,<100
+Australia,2015,Male,<100,<100,<100
+Australia,2016,Both,<100,<100,<100
+Australia,2016,Female,<100,<100,<100
+Australia,2016,Male,<100,<100,<100
+Australia,2017,Both,<100,<100,<100
+Australia,2017,Female,<100,<100,<100
+Australia,2017,Male,<100,<100,<100
+Australia,2018,Both,<100,<100,<100
+Australia,2018,Female,<100,<100,<100
+Australia,2018,Male,<100,<100,<100
+Australia,2019,Both,<100,<100,<100
+Australia,2019,Female,<100,<100,<100
+Australia,2019,Male,<100,<100,<100
+Azerbaijan,2010,Both,<100,<100,<100
+Azerbaijan,2010,Female,<100,<100,<100
+Azerbaijan,2010,Male,<100,<100,<100
+Azerbaijan,2011,Both,<100,<100,<100
+Azerbaijan,2011,Female,<100,<100,<100
+Azerbaijan,2011,Male,<100,<100,<100
+Azerbaijan,2012,Both,<100,<100,<100
+Azerbaijan,2012,Female,<100,<100,<100
+Azerbaijan,2012,Male,<100,<100,<100
+Azerbaijan,2013,Both,<100,<100,<100
+Azerbaijan,2013,Female,<100,<100,<100
+Azerbaijan,2013,Male,<100,<100,<100
+Azerbaijan,2014,Both,<100,<100,<100
+Azerbaijan,2014,Female,<100,<100,<100
+Azerbaijan,2014,Male,<100,<100,<100
+Azerbaijan,2015,Both,<100,<100,<100
+Azerbaijan,2015,Female,<100,<100,<100
+Azerbaijan,2015,Male,<100,<100,<100
+Azerbaijan,2016,Both,<100,<100,<100
+Azerbaijan,2016,Female,<100,<100,<100
+Azerbaijan,2016,Male,<100,<100,<100
+Azerbaijan,2017,Both,<100,<100,<100
+Azerbaijan,2017,Female,<100,<100,<100
+Azerbaijan,2017,Male,<100,<100,<100
+Azerbaijan,2018,Both,<100,<100,<100
+Azerbaijan,2018,Female,<100,<100,<100
+Azerbaijan,2018,Male,<100,<100,<100
+Azerbaijan,2019,Both,<100,<100,<100
+Azerbaijan,2019,Female,<100,<100,<100
+Azerbaijan,2019,Male,<100,<100,<100
+Burundi,2010,Both,"1,7","1,2","2,3"
+Burundi,2010,Female,850,610,"1,1"
+Burundi,2010,Male,870,620,"1,2"
+Burundi,2011,Both,"1,6","1,1","2,2"
+Burundi,2011,Female,800,550,"1,1"
+Burundi,2011,Male,810,560,"1,1"
+Burundi,2012,Both,"1,5","1,1",2
+Burundi,2012,Female,750,530,1
+Burundi,2012,Male,770,540,1
+Burundi,2013,Both,"1,4",910,"1,9"
+Burundi,2013,Female,680,<500,920
+Burundi,2013,Male,690,<500,950
+Burundi,2014,Both,"1,3",860,"1,7"
+Burundi,2014,Female,630,<500,860
+Burundi,2014,Male,640,<500,880
+Burundi,2015,Both,1,580,"1,5"
+Burundi,2015,Female,<500,<500,720
+Burundi,2015,Male,510,<500,740
+Burundi,2016,Both,800,<500,"1,3"
+Burundi,2016,Female,<500,<500,620
+Burundi,2016,Male,<500,<500,640
+Burundi,2017,Both,800,<500,"1,3"
+Burundi,2017,Female,<500,<500,640
+Burundi,2017,Male,<500,<500,650
+Burundi,2018,Both,800,<500,"1,2"
+Burundi,2018,Female,<500,<500,620
+Burundi,2018,Male,<500,<500,630
+Burundi,2019,Both,770,<500,"1,2"
+Burundi,2019,Female,<500,<500,570
+Burundi,2019,Male,<500,<500,590
+Benin,2010,Both,"1,2",640,"2,5"
+Benin,2010,Female,580,<500,"1,2"
+Benin,2010,Male,600,<500,"1,3"
+Benin,2011,Both,"1,1",610,"2,4"
+Benin,2011,Female,550,<500,"1,2"
+Benin,2011,Male,570,<500,"1,2"
+Benin,2012,Both,"1,1",580,"2,3"
+Benin,2012,Female,520,<500,"1,1"
+Benin,2012,Male,540,<500,"1,2"
+Benin,2013,Both,"1,1",580,"2,3"
+Benin,2013,Female,520,<500,"1,1"
+Benin,2013,Male,540,<500,"1,2"
+Benin,2014,Both,880,<500,"1,9"
+Benin,2014,Female,<500,<500,930
+Benin,2014,Male,<500,<500,970
+Benin,2015,Both,680,<500,"1,5"
+Benin,2015,Female,<500,<200,720
+Benin,2015,Male,<500,<200,750
+Benin,2016,Both,550,<500,"1,2"
+Benin,2016,Female,<500,<200,590
+Benin,2016,Male,<500,<200,610
+Benin,2017,Both,540,<500,"1,2"
+Benin,2017,Female,<500,<200,570
+Benin,2017,Male,<500,<200,600
+Benin,2018,Both,<500,<500,1
+Benin,2018,Female,<500,<200,510
+Benin,2018,Male,<500,<200,530
+Benin,2019,Both,<500,<500,930
+Benin,2019,Female,<500,<200,<500
+Benin,2019,Male,<500,<200,<500
+Burkina Faso,2010,Both,2,"1,2","2,8"
+Burkina Faso,2010,Female,980,610,"1,3"
+Burkina Faso,2010,Male,1,640,"1,4"
+Burkina Faso,2011,Both,"2,1","1,4","2,8"
+Burkina Faso,2011,Female,1,660,"1,4"
+Burkina Faso,2011,Male,"1,1",690,"1,4"
+Burkina Faso,2012,Both,"1,7",960,"2,4"
+Burkina Faso,2012,Female,810,<500,"1,2"
+Burkina Faso,2012,Male,850,<500,"1,2"
+Burkina Faso,2013,Both,"1,6",840,"2,2"
+Burkina Faso,2013,Female,770,<500,"1,1"
+Burkina Faso,2013,Male,800,<500,"1,1"
+Burkina Faso,2014,Both,"1,2",610,2
+Burkina Faso,2014,Female,610,<500,960
+Burkina Faso,2014,Male,630,<500,1
+Burkina Faso,2015,Both,940,<500,"1,7"
+Burkina Faso,2015,Female,<500,<500,820
+Burkina Faso,2015,Male,<500,<500,860
+Burkina Faso,2016,Both,780,<500,"1,3"
+Burkina Faso,2016,Female,<500,<500,640
+Burkina Faso,2016,Male,<500,<500,670
+Burkina Faso,2017,Both,670,<500,"1,3"
+Burkina Faso,2017,Female,<500,<500,610
+Burkina Faso,2017,Male,<500,<500,640
+Burkina Faso,2018,Both,970,540,"1,6"
+Burkina Faso,2018,Female,<500,<500,810
+Burkina Faso,2018,Male,<500,<500,840
+Burkina Faso,2019,Both,880,530,"1,6"
+Burkina Faso,2019,Female,<500,<500,800
+Burkina Faso,2019,Male,<500,<500,840
+Belarus,2010,Both,<100,<100,<100
+Belarus,2010,Female,<100,<100,<100
+Belarus,2010,Male,<100,<100,<100
+Belarus,2011,Both,<100,<100,<100
+Belarus,2011,Female,<100,<100,<100
+Belarus,2011,Male,<100,<100,<100
+Belarus,2012,Both,<100,<100,<100
+Belarus,2012,Female,<100,<100,<100
+Belarus,2012,Male,<100,<100,<100
+Belarus,2013,Both,<100,<100,<100
+Belarus,2013,Female,<100,<100,<100
+Belarus,2013,Male,<100,<100,<100
+Belarus,2014,Both,<100,<100,<100
+Belarus,2014,Female,<100,<100,<100
+Belarus,2014,Male,<100,<100,<100
+Belarus,2015,Both,<100,<100,<100
+Belarus,2015,Female,<100,<100,<100
+Belarus,2015,Male,<100,<100,<100
+Belarus,2016,Both,<100,<100,<100
+Belarus,2016,Female,<100,<100,<100
+Belarus,2016,Male,<100,<100,<100
+Belarus,2017,Both,<100,<100,<100
+Belarus,2017,Female,<100,<100,<100
+Belarus,2017,Male,<100,<100,<100
+Belarus,2018,Both,<100,<100,<100
+Belarus,2018,Female,<100,<100,<100
+Belarus,2018,Male,<100,<100,<100
+Belarus,2019,Both,<100,<100,<100
+Belarus,2019,Female,<100,<100,<100
+Belarus,2019,Male,<100,<100,<100
+Bolivia (Plurinational State of),2010,Both,<100,<100,<100
+Bolivia (Plurinational State of),2010,Female,<100,<100,<100
+Bolivia (Plurinational State of),2010,Male,<100,<100,<100
+Bolivia (Plurinational State of),2011,Both,<100,<100,<200
+Bolivia (Plurinational State of),2011,Female,<100,<100,<100
+Bolivia (Plurinational State of),2011,Male,<100,<100,<100
+Bolivia (Plurinational State of),2012,Both,<100,<100,<100
+Bolivia (Plurinational State of),2012,Female,<100,<100,<100
+Bolivia (Plurinational State of),2012,Male,<100,<100,<100
+Bolivia (Plurinational State of),2013,Both,<100,<100,<100
+Bolivia (Plurinational State of),2013,Female,<100,<100,<100
+Bolivia (Plurinational State of),2013,Male,<100,<100,<100
+Bolivia (Plurinational State of),2014,Both,<100,<100,<100
+Bolivia (Plurinational State of),2014,Female,<100,<100,<100
+Bolivia (Plurinational State of),2014,Male,<100,<100,<100
+Bolivia (Plurinational State of),2015,Both,<100,<100,<100
+Bolivia (Plurinational State of),2015,Female,<100,<100,<100
+Bolivia (Plurinational State of),2015,Male,<100,<100,<100
+Bolivia (Plurinational State of),2016,Both,<100,<100,<100
+Bolivia (Plurinational State of),2016,Female,<100,<100,<100
+Bolivia (Plurinational State of),2016,Male,<100,<100,<100
+Bolivia (Plurinational State of),2017,Both,<100,<100,<100
+Bolivia (Plurinational State of),2017,Female,<100,<100,<100
+Bolivia (Plurinational State of),2017,Male,<100,<100,<100
+Bolivia (Plurinational State of),2018,Both,<100,<100,<100
+Bolivia (Plurinational State of),2018,Female,<100,<100,<100
+Bolivia (Plurinational State of),2018,Male,<100,<100,<100
+Bolivia (Plurinational State of),2019,Both,<100,<100,<100
+Bolivia (Plurinational State of),2019,Female,<100,<100,<100
+Bolivia (Plurinational State of),2019,Male,<100,<100,<100
+Central African Republic,2010,Both,"1,8","1,3","2,3"
+Central African Republic,2010,Female,870,630,"1,2"
+Central African Republic,2010,Male,890,650,"1,2"
+Central African Republic,2011,Both,"1,6","1,1","2,1"
+Central African Republic,2011,Female,770,550,1
+Central African Republic,2011,Male,800,560,"1,1"
+Central African Republic,2012,Both,"1,4",980,"1,9"
+Central African Republic,2012,Female,690,<500,940
+Central African Republic,2012,Male,710,<500,960
+Central African Republic,2013,Both,"1,5","1,1",2
+Central African Republic,2013,Female,730,540,990
+Central African Republic,2013,Male,750,550,1
+Central African Republic,2014,Both,"1,2",760,"1,7"
+Central African Republic,2014,Female,570,<500,820
+Central African Republic,2014,Male,590,<500,840
+Central African Republic,2015,Both,910,600,"1,4"
+Central African Republic,2015,Female,<500,<500,680
+Central African Republic,2015,Male,<500,<500,700
+Central African Republic,2016,Both,670,<500,"1,2"
+Central African Republic,2016,Female,<500,<200,570
+Central African Republic,2016,Male,<500,<500,590
+Central African Republic,2017,Both,810,<500,"1,3"
+Central African Republic,2017,Female,<500,<500,640
+Central African Republic,2017,Male,<500,<500,660
+Central African Republic,2018,Both,730,<500,"1,2"
+Central African Republic,2018,Female,<500,<200,580
+Central African Republic,2018,Male,<500,<500,590
+Central African Republic,2019,Both,540,<500,"1,1"
+Central African Republic,2019,Female,<500,<200,530
+Central African Republic,2019,Male,<500,<200,540
+Chile,2010,Both,<100,<100,<100
+Chile,2010,Female,<100,<100,<100
+Chile,2010,Male,<100,<100,<100
+Chile,2011,Both,<100,<100,<100
+Chile,2011,Female,<100,<100,<100
+Chile,2011,Male,<100,<100,<100
+Chile,2012,Both,<100,<100,<100
+Chile,2012,Female,<100,<100,<100
+Chile,2012,Male,<100,<100,<100
+Chile,2013,Both,<100,<100,<100
+Chile,2013,Female,<100,<100,<100
+Chile,2013,Male,<100,<100,<100
+Chile,2014,Both,<100,<100,<100
+Chile,2014,Female,<100,<100,<100
+Chile,2014,Male,<100,<100,<100
+Chile,2015,Both,<100,<100,<100
+Chile,2015,Female,<100,<100,<100
+Chile,2015,Male,<100,<100,<100
+Chile,2016,Both,<100,<100,<100
+Chile,2016,Female,<100,<100,<100
+Chile,2016,Male,<100,<100,<100
+Chile,2017,Both,<100,<100,<100
+Chile,2017,Female,<100,<100,<100
+Chile,2017,Male,<100,<100,<100
+Chile,2018,Both,<100,<100,<100
+Chile,2018,Female,<100,<100,<100
+Chile,2018,Male,<100,<100,<100
+Chile,2019,Both,<100,<100,<100
+Chile,2019,Female,<100,<100,<100
+Chile,2019,Male,<100,<100,<100
+CÃÂÃÂ´te d'Ivoire,2010,Both,"6,6","4,8","8,4"
+CÃÂÃÂ´te d'Ivoire,2010,Female,"3,3","2,4","4,2"
+CÃÂÃÂ´te d'Ivoire,2010,Male,"3,4","2,4","4,3"
+CÃÂÃÂ´te d'Ivoire,2011,Both,"6,4","4,6","7,8"
+CÃÂÃÂ´te d'Ivoire,2011,Female,"3,2","2,2","3,9"
+CÃÂÃÂ´te d'Ivoire,2011,Male,"3,2","2,3",4
+CÃÂÃÂ´te d'Ivoire,2012,Both,"5,5","3,9","6,9"
+CÃÂÃÂ´te d'Ivoire,2012,Female,"2,7","1,9","3,4"
+CÃÂÃÂ´te d'Ivoire,2012,Male,"2,8",2,"3,5"
+CÃÂÃÂ´te d'Ivoire,2013,Both,"4,6",3,"5,9"
+CÃÂÃÂ´te d'Ivoire,2013,Female,"2,3","1,5","2,9"
+CÃÂÃÂ´te d'Ivoire,2013,Male,"2,3","1,5",3
+CÃÂÃÂ´te d'Ivoire,2014,Both,"3,9","2,6",5
+CÃÂÃÂ´te d'Ivoire,2014,Female,"1,9","1,3","2,5"
+CÃÂÃÂ´te d'Ivoire,2014,Male,2,"1,3","2,5"
+CÃÂÃÂ´te d'Ivoire,2015,Both,"3,6","2,3","4,8"
+CÃÂÃÂ´te d'Ivoire,2015,Female,"1,8","1,1","2,4"
+CÃÂÃÂ´te d'Ivoire,2015,Male,"1,8","1,2","2,4"
+CÃÂÃÂ´te d'Ivoire,2016,Both,"3,2",2,"4,5"
+CÃÂÃÂ´te d'Ivoire,2016,Female,"1,6",970,"2,2"
+CÃÂÃÂ´te d'Ivoire,2016,Male,"1,6",1,"2,3"
+CÃÂÃÂ´te d'Ivoire,2017,Both,"2,7","1,6","3,7"
+CÃÂÃÂ´te d'Ivoire,2017,Female,"1,3",770,"1,8"
+CÃÂÃÂ´te d'Ivoire,2017,Male,"1,3",790,"1,9"
+CÃÂÃÂ´te d'Ivoire,2018,Both,"2,6","1,4","3,8"
+CÃÂÃÂ´te d'Ivoire,2018,Female,"1,3",710,"1,9"
+CÃÂÃÂ´te d'Ivoire,2018,Male,"1,3",730,"1,9"
+CÃÂÃÂ´te d'Ivoire,2019,Both,"1,9",860,"2,9"
+CÃÂÃÂ´te d'Ivoire,2019,Female,940,<500,"1,4"
+CÃÂÃÂ´te d'Ivoire,2019,Male,960,<500,"1,5"
+Cameroon,2010,Both,"6,8","4,7","8,8"
+Cameroon,2010,Female,"3,4","2,3","4,3"
+Cameroon,2010,Male,"3,5","2,4","4,4"
+Cameroon,2011,Both,"6,9","4,7","8,4"
+Cameroon,2011,Female,"3,4","2,3","4,2"
+Cameroon,2011,Male,"3,5","2,4","4,3"
+Cameroon,2012,Both,"6,1",4,"7,8"
+Cameroon,2012,Female,3,2,"3,8"
+Cameroon,2012,Male,"3,1",2,"3,9"
+Cameroon,2013,Both,"4,8","3,5","6,3"
+Cameroon,2013,Female,"2,4","1,7","3,1"
+Cameroon,2013,Male,"2,4","1,8","3,2"
+Cameroon,2014,Both,"4,4",3,"6,1"
+Cameroon,2014,Female,"2,2","1,5",3
+Cameroon,2014,Male,"2,2","1,5","3,1"
+Cameroon,2015,Both,"3,1","2,4","4,1"
+Cameroon,2015,Female,"1,5","1,2",2
+Cameroon,2015,Male,"1,5","1,2","2,1"
+Cameroon,2016,Both,"3,1","2,5","4,9"
+Cameroon,2016,Female,"1,6","1,2","2,4"
+Cameroon,2016,Male,"1,6","1,3","2,5"
+Cameroon,2017,Both,"2,8","2,1","4,2"
+Cameroon,2017,Female,"1,4",1,"2,1"
+Cameroon,2017,Male,"1,4","1,1","2,1"
+Cameroon,2018,Both,"2,7",2,"4,2"
+Cameroon,2018,Female,"1,3",970,"2,1"
+Cameroon,2018,Male,"1,4",1,"2,1"
+Cameroon,2019,Both,"3,3","1,8","4,6"
+Cameroon,2019,Female,"1,6",890,"2,3"
+Cameroon,2019,Male,"1,7",920,"2,4"
+Democratic Republic of the Congo,2010,Both,14,11,17
+Democratic Republic of the Congo,2010,Female,"6,7","5,2","8,4"
+Democratic Republic of the Congo,2010,Male,"6,9","5,4","8,7"
+Democratic Republic of the Congo,2011,Both,13,10,17
+Democratic Republic of the Congo,2011,Female,"6,4","4,9","8,2"
+Democratic Republic of the Congo,2011,Male,"6,6","5,1","8,4"
+Democratic Republic of the Congo,2012,Both,13,"9,9",16
+Democratic Republic of the Congo,2012,Female,"6,2","4,9","7,9"
+Democratic Republic of the Congo,2012,Male,"6,4",5,"8,1"
+Democratic Republic of the Congo,2013,Both,11,"8,3",14
+Democratic Republic of the Congo,2013,Female,"5,6","4,1","7,1"
+Democratic Republic of the Congo,2013,Male,"5,7","4,2","7,3"
+Democratic Republic of the Congo,2014,Both,10,"7,4",14
+Democratic Republic of the Congo,2014,Female,"5,1","3,6","6,7"
+Democratic Republic of the Congo,2014,Male,"5,3","3,7","6,9"
+Democratic Republic of the Congo,2015,Both,"9,3","6,2",13
+Democratic Republic of the Congo,2015,Female,"4,6",3,"6,2"
+Democratic Republic of the Congo,2015,Male,"4,7","3,1","6,3"
+Democratic Republic of the Congo,2016,Both,"8,4","5,4",11
+Democratic Republic of the Congo,2016,Female,"4,1","2,7","5,7"
+Democratic Republic of the Congo,2016,Male,"4,3","2,7","5,8"
+Democratic Republic of the Congo,2017,Both,"8,4","5,3",11
+Democratic Republic of the Congo,2017,Female,"4,1","2,6","5,6"
+Democratic Republic of the Congo,2017,Male,"4,2","2,7","5,7"
+Democratic Republic of the Congo,2018,Both,"8,5","5,7",12
+Democratic Republic of the Congo,2018,Female,"4,2","2,8","5,8"
+Democratic Republic of the Congo,2018,Male,"4,3","2,9",6
+Democratic Republic of the Congo,2019,Both,"7,7","4,8",11
+Democratic Republic of the Congo,2019,Female,"3,8","2,4","5,4"
+Democratic Republic of the Congo,2019,Male,"3,9","2,5","5,5"
+Congo,2010,Both,"1,4","1,1","1,8"
+Congo,2010,Female,700,530,870
+Congo,2010,Male,720,540,900
+Congo,2011,Both,"1,3",940,"1,6"
+Congo,2011,Female,620,<500,810
+Congo,2011,Male,640,<500,830
+Congo,2012,Both,"1,3",960,"1,7"
+Congo,2012,Female,650,<500,840
+Congo,2012,Male,670,<500,860
+Congo,2013,Both,"1,3",890,"1,6"
+Congo,2013,Female,620,<500,810
+Congo,2013,Male,640,<500,830
+Congo,2014,Both,"1,3",880,"1,7"
+Congo,2014,Female,640,<500,820
+Congo,2014,Male,660,<500,850
+Congo,2015,Both,"1,3",880,"1,8"
+Congo,2015,Female,630,<500,880
+Congo,2015,Male,650,<500,910
+Congo,2016,Both,"1,4",950,"1,9"
+Congo,2016,Female,670,<500,930
+Congo,2016,Male,690,<500,950
+Congo,2017,Both,"1,4",930,2
+Congo,2017,Female,680,<500,1
+Congo,2017,Male,700,<500,1
+Congo,2018,Both,"1,4",940,"2,2"
+Congo,2018,Female,710,<500,"1,1"
+Congo,2018,Male,730,<500,"1,1"
+Congo,2019,Both,"1,5",930,"2,4"
+Congo,2019,Female,720,<500,"1,2"
+Congo,2019,Male,740,<500,"1,2"
+Costa Rica,2010,Both,<100,<100,<100
+Costa Rica,2010,Female,<100,<100,<100
+Costa Rica,2010,Male,<100,<100,<100
+Costa Rica,2011,Both,<100,<100,<100
+Costa Rica,2011,Female,<100,<100,<100
+Costa Rica,2011,Male,<100,<100,<100
+Costa Rica,2012,Both,<100,<100,<100
+Costa Rica,2012,Female,<100,<100,<100
+Costa Rica,2012,Male,<100,<100,<100
+Costa Rica,2013,Both,<100,<100,<100
+Costa Rica,2013,Female,<100,<100,<100
+Costa Rica,2013,Male,<100,<100,<100
+Costa Rica,2014,Both,<100,<100,<100
+Costa Rica,2014,Female,<100,<100,<100
+Costa Rica,2014,Male,<100,<100,<100
+Costa Rica,2015,Both,<100,<100,<100
+Costa Rica,2015,Female,<100,<100,<100
+Costa Rica,2015,Male,<100,<100,<100
+Costa Rica,2016,Both,<100,<100,<100
+Costa Rica,2016,Female,<100,<100,<100
+Costa Rica,2016,Male,<100,<100,<100
+Costa Rica,2017,Both,<100,<100,<100
+Costa Rica,2017,Female,<100,<100,<100
+Costa Rica,2017,Male,<100,<100,<100
+Costa Rica,2018,Both,<100,<100,<100
+Costa Rica,2018,Female,<100,<100,<100
+Costa Rica,2018,Male,<100,<100,<100
+Costa Rica,2019,Both,<100,<100,<100
+Costa Rica,2019,Female,<100,<100,<100
+Costa Rica,2019,Male,<100,<100,<100
+Cuba,2010,Both,<100,<100,<100
+Cuba,2010,Female,<100,<100,<100
+Cuba,2010,Male,<100,<100,<100
+Cuba,2011,Both,<100,<100,<100
+Cuba,2011,Female,<100,<100,<100
+Cuba,2011,Male,<100,<100,<100
+Cuba,2012,Both,<100,<100,<100
+Cuba,2012,Female,<100,<100,<100
+Cuba,2012,Male,<100,<100,<100
+Cuba,2013,Both,<100,<100,<100
+Cuba,2013,Female,<100,<100,<100
+Cuba,2013,Male,<100,<100,<100
+Cuba,2014,Both,<100,<100,<100
+Cuba,2014,Female,<100,<100,<100
+Cuba,2014,Male,<100,<100,<100
+Cuba,2015,Both,<100,<100,<100
+Cuba,2015,Female,<100,<100,<100
+Cuba,2015,Male,<100,<100,<100
+Cuba,2016,Both,<100,<100,<100
+Cuba,2016,Female,<100,<100,<100
+Cuba,2016,Male,<100,<100,<100
+Cuba,2017,Both,<100,<100,<100
+Cuba,2017,Female,<100,<100,<100
+Cuba,2017,Male,<100,<100,<100
+Cuba,2018,Both,<100,<100,<100
+Cuba,2018,Female,<100,<100,<100
+Cuba,2018,Male,<100,<100,<100
+Cuba,2019,Both,<100,<100,<100
+Cuba,2019,Female,<100,<100,<100
+Cuba,2019,Male,<100,<100,<100
+Djibouti,2010,Both,<200,<100,<500
+Djibouti,2010,Female,<100,<100,<200
+Djibouti,2010,Male,<100,<100,<200
+Djibouti,2011,Both,<200,<100,<200
+Djibouti,2011,Female,<100,<100,<100
+Djibouti,2011,Male,<100,<100,<100
+Djibouti,2012,Both,<200,<100,<200
+Djibouti,2012,Female,<100,<100,<100
+Djibouti,2012,Male,<100,<100,<100
+Djibouti,2013,Both,<100,<100,<200
+Djibouti,2013,Female,<100,<100,<100
+Djibouti,2013,Male,<100,<100,<100
+Djibouti,2014,Both,<100,<100,<200
+Djibouti,2014,Female,<100,<100,<100
+Djibouti,2014,Male,<100,<100,<100
+Djibouti,2015,Both,<100,<100,<200
+Djibouti,2015,Female,<100,<100,<100
+Djibouti,2015,Male,<100,<100,<100
+Djibouti,2016,Both,<100,<100,<100
+Djibouti,2016,Female,<100,<100,<100
+Djibouti,2016,Male,<100,<100,<100
+Djibouti,2017,Both,<100,<100,<100
+Djibouti,2017,Female,<100,<100,<100
+Djibouti,2017,Male,<100,<100,<100
+Djibouti,2018,Both,<100,<100,<100
+Djibouti,2018,Female,<100,<100,<100
+Djibouti,2018,Male,<100,<100,<100
+Djibouti,2019,Both,<100,<100,<100
+Djibouti,2019,Female,<100,<100,<100
+Djibouti,2019,Male,<100,<100,<100
+Dominican Republic,2010,Both,<500,<200,<500
+Dominican Republic,2010,Female,<200,<100,<200
+Dominican Republic,2010,Male,<200,<100,<200
+Dominican Republic,2011,Both,<200,<200,<500
+Dominican Republic,2011,Female,<100,<100,<200
+Dominican Republic,2011,Male,<100,<100,<200
+Dominican Republic,2012,Both,<200,<200,<500
+Dominican Republic,2012,Female,<100,<100,<100
+Dominican Republic,2012,Male,<100,<100,<200
+Dominican Republic,2013,Both,<200,<100,<500
+Dominican Republic,2013,Female,<100,<100,<200
+Dominican Republic,2013,Male,<100,<100,<200
+Dominican Republic,2014,Both,<100,<100,<200
+Dominican Republic,2014,Female,<100,<100,<100
+Dominican Republic,2014,Male,<100,<100,<100
+Dominican Republic,2015,Both,<200,<100,<200
+Dominican Republic,2015,Female,<100,<100,<100
+Dominican Republic,2015,Male,<100,<100,<100
+Dominican Republic,2016,Both,<100,<100,<200
+Dominican Republic,2016,Female,<100,<100,<100
+Dominican Republic,2016,Male,<100,<100,<100
+Dominican Republic,2017,Both,<100,<100,<200
+Dominican Republic,2017,Female,<100,<100,<100
+Dominican Republic,2017,Male,<100,<100,<100
+Dominican Republic,2018,Both,<100,<100,<200
+Dominican Republic,2018,Female,<100,<100,<100
+Dominican Republic,2018,Male,<100,<100,<100
+Dominican Republic,2019,Both,<100,<100,<200
+Dominican Republic,2019,Female,<100,<100,<100
+Dominican Republic,2019,Male,<100,<100,<100
+Algeria,2010,Both,<100,<100,<100
+Algeria,2010,Female,<100,<100,<100
+Algeria,2010,Male,<100,<100,<100
+Algeria,2011,Both,<100,<100,<100
+Algeria,2011,Female,<100,<100,<100
+Algeria,2011,Male,<100,<100,<100
+Algeria,2012,Both,<100,<100,<200
+Algeria,2012,Female,<100,<100,<100
+Algeria,2012,Male,<100,<100,<100
+Algeria,2013,Both,<100,<100,<200
+Algeria,2013,Female,<100,<100,<100
+Algeria,2013,Male,<100,<100,<100
+Algeria,2014,Both,<100,<100,<200
+Algeria,2014,Female,<100,<100,<100
+Algeria,2014,Male,<100,<100,<100
+Algeria,2015,Both,<200,<100,<200
+Algeria,2015,Female,<100,<100,<100
+Algeria,2015,Male,<100,<100,<100
+Algeria,2016,Both,<200,<100,<200
+Algeria,2016,Female,<100,<100,<100
+Algeria,2016,Male,<100,<100,<100
+Algeria,2017,Both,<200,<100,<200
+Algeria,2017,Female,<100,<100,<100
+Algeria,2017,Male,<100,<100,<200
+Algeria,2018,Both,<200,<100,<500
+Algeria,2018,Female,<100,<100,<200
+Algeria,2018,Male,<100,<100,<200
+Algeria,2019,Both,<200,<100,<500
+Algeria,2019,Female,<100,<100,<200
+Algeria,2019,Male,<100,<100,<200
+Ecuador,2010,Both,<200,<100,<500
+Ecuador,2010,Female,<100,<100,<200
+Ecuador,2010,Male,<100,<100,<200
+Ecuador,2011,Both,<200,<100,<500
+Ecuador,2011,Female,<100,<100,<200
+Ecuador,2011,Male,<100,<100,<200
+Ecuador,2012,Both,<200,<100,<500
+Ecuador,2012,Female,<100,<100,<200
+Ecuador,2012,Male,<100,<100,<200
+Ecuador,2013,Both,<200,<100,<500
+Ecuador,2013,Female,<100,<100,<200
+Ecuador,2013,Male,<100,<100,<200
+Ecuador,2014,Both,<200,<100,<500
+Ecuador,2014,Female,<100,<100,<200
+Ecuador,2014,Male,<100,<100,<200
+Ecuador,2015,Both,<200,<100,<500
+Ecuador,2015,Female,<100,<100,<200
+Ecuador,2015,Male,<100,<100,<200
+Ecuador,2016,Both,<200,<100,<500
+Ecuador,2016,Female,<100,<100,<200
+Ecuador,2016,Male,<100,<100,<200
+Ecuador,2017,Both,<200,<100,<500
+Ecuador,2017,Female,<100,<100,<200
+Ecuador,2017,Male,<100,<100,<200
+Ecuador,2018,Both,<200,<100,<500
+Ecuador,2018,Female,<100,<100,<200
+Ecuador,2018,Male,<100,<100,<200
+Ecuador,2019,Both,<100,<100,<200
+Ecuador,2019,Female,<100,<100,<100
+Ecuador,2019,Male,<100,<100,<100
+Egypt,2010,Both,<100,<100,<100
+Egypt,2010,Female,<100,<100,<100
+Egypt,2010,Male,<100,<100,<100
+Egypt,2011,Both,<100,<100,<100
+Egypt,2011,Female,<100,<100,<100
+Egypt,2011,Male,<100,<100,<100
+Egypt,2012,Both,<100,<100,<100
+Egypt,2012,Female,<100,<100,<100
+Egypt,2012,Male,<100,<100,<100
+Egypt,2013,Both,<100,<100,<100
+Egypt,2013,Female,<100,<100,<100
+Egypt,2013,Male,<100,<100,<100
+Egypt,2014,Both,<100,<100,<200
+Egypt,2014,Female,<100,<100,<100
+Egypt,2014,Male,<100,<100,<100
+Egypt,2015,Both,<100,<100,<200
+Egypt,2015,Female,<100,<100,<100
+Egypt,2015,Male,<100,<100,<100
+Egypt,2016,Both,<200,<100,<200
+Egypt,2016,Female,<100,<100,<100
+Egypt,2016,Male,<100,<100,<100
+Egypt,2017,Both,<200,<100,<200
+Egypt,2017,Female,<100,<100,<100
+Egypt,2017,Male,<100,<100,<100
+Egypt,2018,Both,<200,<200,<500
+Egypt,2018,Female,<100,<100,<200
+Egypt,2018,Male,<100,<100,<200
+Egypt,2019,Both,<200,<200,<500
+Egypt,2019,Female,<100,<100,<200
+Egypt,2019,Male,<100,<100,<200
+Eritrea,2010,Both,<500,<200,<500
+Eritrea,2010,Female,<200,<100,<200
+Eritrea,2010,Male,<200,<100,<200
+Eritrea,2011,Both,<500,<200,<500
+Eritrea,2011,Female,<200,<100,<200
+Eritrea,2011,Male,<200,<100,<200
+Eritrea,2012,Both,<200,<100,<500
+Eritrea,2012,Female,<100,<100,<200
+Eritrea,2012,Male,<100,<100,<200
+Eritrea,2013,Both,<200,<100,<500
+Eritrea,2013,Female,<100,<100,<200
+Eritrea,2013,Male,<100,<100,<200
+Eritrea,2014,Both,<200,<100,<500
+Eritrea,2014,Female,<100,<100,<200
+Eritrea,2014,Male,<100,<100,<200
+Eritrea,2015,Both,<200,<100,<500
+Eritrea,2015,Female,<100,<100,<200
+Eritrea,2015,Male,<100,<100,<200
+Eritrea,2016,Both,<200,<100,<500
+Eritrea,2016,Female,<100,<100,<200
+Eritrea,2016,Male,<100,<100,<200
+Eritrea,2017,Both,<200,<100,<500
+Eritrea,2017,Female,<100,<100,<200
+Eritrea,2017,Male,<100,<100,<200
+Eritrea,2018,Both,<200,<100,<200
+Eritrea,2018,Female,<100,<100,<100
+Eritrea,2018,Male,<100,<100,<100
+Eritrea,2019,Both,<200,<100,<200
+Eritrea,2019,Female,<100,<100,<100
+Eritrea,2019,Male,<100,<100,<100
+Spain,2010,Both,<100,<100,<100
+Spain,2010,Female,<100,<100,<100
+Spain,2010,Male,<100,<100,<100
+Spain,2011,Both,<100,<100,<100
+Spain,2011,Female,<100,<100,<100
+Spain,2011,Male,<100,<100,<100
+Spain,2012,Both,<100,<100,<100
+Spain,2012,Female,<100,<100,<100
+Spain,2012,Male,<100,<100,<100
+Spain,2013,Both,<100,<100,<100
+Spain,2013,Female,<100,<100,<100
+Spain,2013,Male,<100,<100,<100
+Spain,2014,Both,<100,<100,<100
+Spain,2014,Female,<100,<100,<100
+Spain,2014,Male,<100,<100,<100
+Spain,2015,Both,<100,<100,<100
+Spain,2015,Female,<100,<100,<100
+Spain,2015,Male,<100,<100,<100
+Spain,2016,Both,<100,<100,<100
+Spain,2016,Female,<100,<100,<100
+Spain,2016,Male,<100,<100,<100
+Spain,2017,Both,<100,<100,<100
+Spain,2017,Female,<100,<100,<100
+Spain,2017,Male,<100,<100,<100
+Spain,2018,Both,<100,<100,<100
+Spain,2018,Female,<100,<100,<100
+Spain,2018,Male,<100,<100,<100
+Spain,2019,Both,<100,<100,<100
+Spain,2019,Female,<100,<100,<100
+Spain,2019,Male,<100,<100,<100
+Ethiopia,2010,Both,"8,1","3,9",14
+Ethiopia,2010,Female,4,"1,9","7,1"
+Ethiopia,2010,Male,"4,1",2,"7,3"
+Ethiopia,2011,Both,"6,9","3,3",12
+Ethiopia,2011,Female,"3,4","1,6",6
+Ethiopia,2011,Male,"3,5","1,7","6,2"
+Ethiopia,2012,Both,"5,5","2,6","9,7"
+Ethiopia,2012,Female,"2,7","1,3","4,8"
+Ethiopia,2012,Male,"2,8","1,3","4,9"
+Ethiopia,2013,Both,"4,6","2,2","8,1"
+Ethiopia,2013,Female,"2,2","1,1",4
+Ethiopia,2013,Male,"2,3","1,1","4,1"
+Ethiopia,2014,Both,"4,3","2,1","7,7"
+Ethiopia,2014,Female,"2,1",1,"3,8"
+Ethiopia,2014,Male,"2,2","1,1","3,9"
+Ethiopia,2015,Both,"3,8","1,9","6,8"
+Ethiopia,2015,Female,"1,9",910,"3,4"
+Ethiopia,2015,Male,2,940,"3,5"
+Ethiopia,2016,Both,4,"1,9","7,1"
+Ethiopia,2016,Female,2,940,"3,5"
+Ethiopia,2016,Male,2,980,"3,6"
+Ethiopia,2017,Both,"3,9","1,9","6,9"
+Ethiopia,2017,Female,"1,9",920,"3,4"
+Ethiopia,2017,Male,2,950,"3,5"
+Ethiopia,2018,Both,"2,9","1,4","5,2"
+Ethiopia,2018,Female,"1,4",690,"2,6"
+Ethiopia,2018,Male,"1,5",720,"2,7"
+Ethiopia,2019,Both,"3,2","1,6","5,7"
+Ethiopia,2019,Female,"1,6",760,"2,8"
+Ethiopia,2019,Male,"1,6",790,"2,9"
+Gabon,2010,Both,630,<500,850
+Gabon,2010,Female,<500,<200,<500
+Gabon,2010,Male,<500,<500,<500
+Gabon,2011,Both,600,<500,850
+Gabon,2011,Female,<500,<200,<500
+Gabon,2011,Male,<500,<200,<500
+Gabon,2012,Both,550,<500,780
+Gabon,2012,Female,<500,<200,<500
+Gabon,2012,Male,<500,<200,<500
+Gabon,2013,Both,<500,<500,690
+Gabon,2013,Female,<500,<200,<500
+Gabon,2013,Male,<500,<200,<500
+Gabon,2014,Both,<500,<500,730
+Gabon,2014,Female,<500,<200,<500
+Gabon,2014,Male,<500,<200,<500
+Gabon,2015,Both,<500,<200,670
+Gabon,2015,Female,<500,<100,<500
+Gabon,2015,Male,<500,<200,<500
+Gabon,2016,Both,<500,<200,600
+Gabon,2016,Female,<200,<100,<500
+Gabon,2016,Male,<200,<100,<500
+Gabon,2017,Both,<500,<200,640
+Gabon,2017,Female,<200,<100,<500
+Gabon,2017,Male,<200,<100,<500
+Gabon,2018,Both,<500,<200,650
+Gabon,2018,Female,<200,<100,<500
+Gabon,2018,Male,<200,<100,<500
+Gabon,2019,Both,<500,<200,580
+Gabon,2019,Female,<200,<100,<500
+Gabon,2019,Male,<200,<100,<500
+Ghana,2010,Both,"4,5",3,"6,2"
+Ghana,2010,Female,"2,2","1,5",3
+Ghana,2010,Male,"2,3","1,5","3,2"
+Ghana,2011,Both,"4,4","2,7","6,1"
+Ghana,2011,Female,"2,1","1,3",3
+Ghana,2011,Male,"2,3","1,4","3,1"
+Ghana,2012,Both,"4,2","2,5",6
+Ghana,2012,Female,"2,1","1,2","2,9"
+Ghana,2012,Male,"2,2","1,3","3,1"
+Ghana,2013,Both,"4,5","2,7","6,5"
+Ghana,2013,Female,"2,2","1,3","3,2"
+Ghana,2013,Male,"2,3","1,4","3,3"
+Ghana,2014,Both,"4,3","2,6","6,5"
+Ghana,2014,Female,"2,1","1,2","3,2"
+Ghana,2014,Male,"2,2","1,3","3,3"
+Ghana,2015,Both,"4,3","2,4","6,4"
+Ghana,2015,Female,"2,1","1,2","3,1"
+Ghana,2015,Male,"2,2","1,2","3,3"
+Ghana,2016,Both,"3,6","1,7",6
+Ghana,2016,Female,"1,8",830,"2,9"
+Ghana,2016,Male,"1,9",880,"3,1"
+Ghana,2017,Both,"3,4","1,5","5,7"
+Ghana,2017,Female,"1,6",720,"2,8"
+Ghana,2017,Male,"1,7",750,"2,9"
+Ghana,2018,Both,"3,1","1,5","5,9"
+Ghana,2018,Female,"1,5",710,"2,9"
+Ghana,2018,Male,"1,6",740,3
+Ghana,2019,Both,3,"1,3","5,7"
+Ghana,2019,Female,"1,4",630,"2,8"
+Ghana,2019,Male,"1,5",670,"2,9"
+Guinea,2010,Both,"1,9","1,5","2,3"
+Guinea,2010,Female,920,740,"1,1"
+Guinea,2010,Male,940,760,"1,2"
+Guinea,2011,Both,"1,8","1,4","2,2"
+Guinea,2011,Female,890,700,"1,1"
+Guinea,2011,Male,910,710,"1,1"
+Guinea,2012,Both,"1,7","1,3","2,1"
+Guinea,2012,Female,830,660,1
+Guinea,2012,Male,850,670,"1,1"
+Guinea,2013,Both,890,560,"1,3"
+Guinea,2013,Female,<500,<500,640
+Guinea,2013,Male,<500,<500,650
+Guinea,2014,Both,930,670,"1,2"
+Guinea,2014,Female,<500,<500,610
+Guinea,2014,Male,<500,<500,620
+Guinea,2015,Both,"1,5","1,2","1,9"
+Guinea,2015,Female,760,570,950
+Guinea,2015,Male,770,590,970
+Guinea,2016,Both,"1,3",940,"1,7"
+Guinea,2016,Female,640,<500,830
+Guinea,2016,Male,650,<500,850
+Guinea,2017,Both,"1,3",960,"1,7"
+Guinea,2017,Female,660,<500,850
+Guinea,2017,Male,680,<500,870
+Guinea,2018,Both,"1,1",740,"1,5"
+Guinea,2018,Female,530,<500,750
+Guinea,2018,Male,540,<500,770
+Guinea,2019,Both,700,560,920
+Guinea,2019,Female,<500,<500,<500
+Guinea,2019,Male,<500,<500,<500
+Gambia,2010,Both,<500,<200,<500
+Gambia,2010,Female,<200,<100,<200
+Gambia,2010,Male,<200,<100,<200
+Gambia,2011,Both,<500,<200,<500
+Gambia,2011,Female,<200,<100,<200
+Gambia,2011,Male,<200,<100,<500
+Gambia,2012,Both,<500,<200,<500
+Gambia,2012,Female,<200,<100,<200
+Gambia,2012,Male,<200,<200,<200
+Gambia,2013,Both,<500,<500,<500
+Gambia,2013,Female,<200,<200,<500
+Gambia,2013,Male,<200,<200,<500
+Gambia,2014,Both,<500,<500,<500
+Gambia,2014,Female,<200,<200,<500
+Gambia,2014,Male,<200,<200,<500
+Gambia,2015,Both,<500,<500,<500
+Gambia,2015,Female,<200,<100,<500
+Gambia,2015,Male,<200,<200,<500
+Gambia,2016,Both,<500,<500,<500
+Gambia,2016,Female,<200,<200,<500
+Gambia,2016,Male,<200,<200,<500
+Gambia,2017,Both,<500,<500,<500
+Gambia,2017,Female,<200,<200,<500
+Gambia,2017,Male,<200,<200,<500
+Gambia,2018,Both,<500,<500,<500
+Gambia,2018,Female,<200,<200,<500
+Gambia,2018,Male,<200,<200,<500
+Gambia,2019,Both,<500,<500,520
+Gambia,2019,Female,<200,<200,<500
+Gambia,2019,Male,<200,<200,<500
+Guinea-Bissau,2010,Both,650,540,780
+Guinea-Bissau,2010,Female,<500,<500,<500
+Guinea-Bissau,2010,Male,<500,<500,<500
+Guinea-Bissau,2011,Both,640,510,760
+Guinea-Bissau,2011,Female,<500,<500,<500
+Guinea-Bissau,2011,Male,<500,<500,<500
+Guinea-Bissau,2012,Both,590,<500,700
+Guinea-Bissau,2012,Female,<500,<500,<500
+Guinea-Bissau,2012,Male,<500,<500,<500
+Guinea-Bissau,2013,Both,500,<500,620
+Guinea-Bissau,2013,Female,<500,<200,<500
+Guinea-Bissau,2013,Male,<500,<200,<500
+Guinea-Bissau,2014,Both,<500,<500,<500
+Guinea-Bissau,2014,Female,<200,<200,<500
+Guinea-Bissau,2014,Male,<500,<200,<500
+Guinea-Bissau,2015,Both,<500,<500,530
+Guinea-Bissau,2015,Female,<500,<200,<500
+Guinea-Bissau,2015,Male,<500,<200,<500
+Guinea-Bissau,2016,Both,<500,<500,<500
+Guinea-Bissau,2016,Female,<200,<200,<500
+Guinea-Bissau,2016,Male,<200,<200,<500
+Guinea-Bissau,2017,Both,<500,<500,<500
+Guinea-Bissau,2017,Female,<200,<200,<500
+Guinea-Bissau,2017,Male,<200,<200,<500
+Guinea-Bissau,2018,Both,<500,<500,530
+Guinea-Bissau,2018,Female,<500,<200,<500
+Guinea-Bissau,2018,Male,<500,<200,<500
+Guinea-Bissau,2019,Both,<500,<500,<500
+Guinea-Bissau,2019,Female,<200,<200,<500
+Guinea-Bissau,2019,Male,<200,<200,<500
+Equatorial Guinea,2010,Both,530,<500,670
+Equatorial Guinea,2010,Female,<500,<500,<500
+Equatorial Guinea,2010,Male,<500,<500,<500
+Equatorial Guinea,2011,Both,580,<500,720
+Equatorial Guinea,2011,Female,<500,<500,<500
+Equatorial Guinea,2011,Male,<500,<500,<500
+Equatorial Guinea,2012,Both,570,<500,740
+Equatorial Guinea,2012,Female,<500,<500,<500
+Equatorial Guinea,2012,Male,<500,<500,<500
+Equatorial Guinea,2013,Both,<500,<500,640
+Equatorial Guinea,2013,Female,<500,<200,<500
+Equatorial Guinea,2013,Male,<500,<200,<500
+Equatorial Guinea,2014,Both,<500,<500,610
+Equatorial Guinea,2014,Female,<500,<200,<500
+Equatorial Guinea,2014,Male,<500,<200,<500
+Equatorial Guinea,2015,Both,<500,<500,730
+Equatorial Guinea,2015,Female,<500,<200,<500
+Equatorial Guinea,2015,Male,<500,<200,<500
+Equatorial Guinea,2016,Both,<500,<500,680
+Equatorial Guinea,2016,Female,<500,<200,<500
+Equatorial Guinea,2016,Male,<500,<200,<500
+Equatorial Guinea,2017,Both,<500,<500,750
+Equatorial Guinea,2017,Female,<500,<200,<500
+Equatorial Guinea,2017,Male,<500,<200,<500
+Equatorial Guinea,2018,Both,520,<500,850
+Equatorial Guinea,2018,Female,<500,<200,<500
+Equatorial Guinea,2018,Male,<500,<200,<500
+Equatorial Guinea,2019,Both,550,<500,930
+Equatorial Guinea,2019,Female,<500,<200,<500
+Equatorial Guinea,2019,Male,<500,<200,<500
+Guatemala,2010,Both,<500,<200,<500
+Guatemala,2010,Female,<200,<100,<200
+Guatemala,2010,Male,<200,<100,<200
+Guatemala,2011,Both,<200,<200,<500
+Guatemala,2011,Female,<100,<100,<200
+Guatemala,2011,Male,<100,<100,<200
+Guatemala,2012,Both,<200,<200,<500
+Guatemala,2012,Female,<100,<100,<200
+Guatemala,2012,Male,<100,<100,<200
+Guatemala,2013,Both,<200,<100,<500
+Guatemala,2013,Female,<100,<100,<200
+Guatemala,2013,Male,<100,<100,<200
+Guatemala,2014,Both,<200,<100,<200
+Guatemala,2014,Female,<100,<100,<100
+Guatemala,2014,Male,<100,<100,<100
+Guatemala,2015,Both,<200,<200,<200
+Guatemala,2015,Female,<100,<100,<100
+Guatemala,2015,Male,<100,<100,<200
+Guatemala,2016,Both,<200,<100,<200
+Guatemala,2016,Female,<100,<100,<100
+Guatemala,2016,Male,<100,<100,<100
+Guatemala,2017,Both,<200,<100,<200
+Guatemala,2017,Female,<100,<100,<100
+Guatemala,2017,Male,<100,<100,<100
+Guatemala,2018,Both,<100,<100,<200
+Guatemala,2018,Female,<100,<100,<100
+Guatemala,2018,Male,<100,<100,<100
+Guatemala,2019,Both,<100,<100,<200
+Guatemala,2019,Female,<100,<100,<100
+Guatemala,2019,Male,<100,<100,<100
+Guyana,2010,Both,<100,<100,<100
+Guyana,2010,Female,<100,<100,<100
+Guyana,2010,Male,<100,<100,<100
+Guyana,2011,Both,<100,<100,<100
+Guyana,2011,Female,<100,<100,<100
+Guyana,2011,Male,<100,<100,<100
+Guyana,2012,Both,<100,<100,<100
+Guyana,2012,Female,<100,<100,<100
+Guyana,2012,Male,<100,<100,<100
+Guyana,2013,Both,<100,<100,<100
+Guyana,2013,Female,<100,<100,<100
+Guyana,2013,Male,<100,<100,<100
+Guyana,2014,Both,<100,<100,<100
+Guyana,2014,Female,<100,<100,<100
+Guyana,2014,Male,<100,<100,<100
+Guyana,2015,Both,<100,<100,<100
+Guyana,2015,Female,<100,<100,<100
+Guyana,2015,Male,<100,<100,<100
+Guyana,2016,Both,<100,<100,<100
+Guyana,2016,Female,<100,<100,<100
+Guyana,2016,Male,<100,<100,<100
+Guyana,2017,Both,<100,<100,<100
+Guyana,2017,Female,<100,<100,<100
+Guyana,2017,Male,<100,<100,<100
+Guyana,2018,Both,<100,<100,<100
+Guyana,2018,Female,<100,<100,<100
+Guyana,2018,Male,<100,<100,<100
+Guyana,2019,Both,<100,<100,<100
+Guyana,2019,Female,<100,<100,<100
+Guyana,2019,Male,<100,<100,<100
+Honduras,2010,Both,<100,<100,<100
+Honduras,2010,Female,<100,<100,<100
+Honduras,2010,Male,<100,<100,<100
+Honduras,2011,Both,<100,<100,<100
+Honduras,2011,Female,<100,<100,<100
+Honduras,2011,Male,<100,<100,<100
+Honduras,2012,Both,<100,<100,<100
+Honduras,2012,Female,<100,<100,<100
+Honduras,2012,Male,<100,<100,<100
+Honduras,2013,Both,<100,<100,<100
+Honduras,2013,Female,<100,<100,<100
+Honduras,2013,Male,<100,<100,<100
+Honduras,2014,Both,<100,<100,<100
+Honduras,2014,Female,<100,<100,<100
+Honduras,2014,Male,<100,<100,<100
+Honduras,2015,Both,<100,<100,<100
+Honduras,2015,Female,<100,<100,<100
+Honduras,2015,Male,<100,<100,<100
+Honduras,2016,Both,<100,<100,<100
+Honduras,2016,Female,<100,<100,<100
+Honduras,2016,Male,<100,<100,<100
+Honduras,2017,Both,<100,<100,<100
+Honduras,2017,Female,<100,<100,<100
+Honduras,2017,Male,<100,<100,<100
+Honduras,2018,Both,<100,<100,<100
+Honduras,2018,Female,<100,<100,<100
+Honduras,2018,Male,<100,<100,<100
+Honduras,2019,Both,<100,<100,<100
+Honduras,2019,Female,<100,<100,<100
+Honduras,2019,Male,<100,<100,<100
+Haiti,2010,Both,"1,6","1,2",2
+Haiti,2010,Female,780,570,990
+Haiti,2010,Male,820,600,1
+Haiti,2011,Both,"1,3",860,"1,7"
+Haiti,2011,Female,640,<500,840
+Haiti,2011,Male,670,<500,880
+Haiti,2012,Both,"1,1",770,"1,4"
+Haiti,2012,Female,510,<500,700
+Haiti,2012,Male,540,<500,740
+Haiti,2013,Both,890,690,"1,3"
+Haiti,2013,Female,<500,<500,620
+Haiti,2013,Male,<500,<500,660
+Haiti,2014,Both,1,640,"1,4"
+Haiti,2014,Female,<500,<500,670
+Haiti,2014,Male,510,<500,700
+Haiti,2015,Both,950,610,"1,3"
+Haiti,2015,Female,<500,<500,650
+Haiti,2015,Male,<500,<500,680
+Haiti,2016,Both,970,600,"1,3"
+Haiti,2016,Female,<500,<500,650
+Haiti,2016,Male,<500,<500,680
+Haiti,2017,Both,880,530,"1,2"
+Haiti,2017,Female,<500,<500,600
+Haiti,2017,Male,<500,<500,630
+Haiti,2018,Both,770,500,"1,1"
+Haiti,2018,Female,<500,<500,560
+Haiti,2018,Male,<500,<500,590
+Haiti,2019,Both,720,<500,"1,1"
+Haiti,2019,Female,<500,<500,540
+Haiti,2019,Male,<500,<500,560
+Iran (Islamic Republic of),2010,Both,<200,<100,<500
+Iran (Islamic Republic of),2010,Female,<100,<100,<200
+Iran (Islamic Republic of),2010,Male,<100,<100,<200
+Iran (Islamic Republic of),2011,Both,<200,<100,<500
+Iran (Islamic Republic of),2011,Female,<100,<100,<200
+Iran (Islamic Republic of),2011,Male,<100,<100,<200
+Iran (Islamic Republic of),2012,Both,<200,<100,<500
+Iran (Islamic Republic of),2012,Female,<100,<100,<200
+Iran (Islamic Republic of),2012,Male,<100,<100,<200
+Iran (Islamic Republic of),2013,Both,<200,<100,<500
+Iran (Islamic Republic of),2013,Female,<100,<100,<200
+Iran (Islamic Republic of),2013,Male,<100,<100,<200
+Iran (Islamic Republic of),2014,Both,<200,<100,<500
+Iran (Islamic Republic of),2014,Female,<100,<100,<200
+Iran (Islamic Republic of),2014,Male,<100,<100,<200
+Iran (Islamic Republic of),2015,Both,<200,<100,<500
+Iran (Islamic Republic of),2015,Female,<100,<100,<200
+Iran (Islamic Republic of),2015,Male,<100,<100,<200
+Iran (Islamic Republic of),2016,Both,<200,<100,<500
+Iran (Islamic Republic of),2016,Female,<100,<100,<200
+Iran (Islamic Republic of),2016,Male,<100,<100,<200
+Iran (Islamic Republic of),2017,Both,<100,<100,<500
+Iran (Islamic Republic of),2017,Female,<100,<100,<200
+Iran (Islamic Republic of),2017,Male,<100,<100,<200
+Iran (Islamic Republic of),2018,Both,<100,<100,<500
+Iran (Islamic Republic of),2018,Female,<100,<100,<200
+Iran (Islamic Republic of),2018,Male,<100,<100,<200
+Iran (Islamic Republic of),2019,Both,<100,<100,<500
+Iran (Islamic Republic of),2019,Female,<100,<100,<200
+Iran (Islamic Republic of),2019,Male,<100,<100,<200
+Italy,2010,Both,<100,<100,<100
+Italy,2010,Female,<100,<100,<100
+Italy,2010,Male,<100,<100,<100
+Italy,2011,Both,<100,<100,<100
+Italy,2011,Female,<100,<100,<100
+Italy,2011,Male,<100,<100,<100
+Italy,2012,Both,<100,<100,<100
+Italy,2012,Female,<100,<100,<100
+Italy,2012,Male,<100,<100,<100
+Italy,2013,Both,<100,<100,<100
+Italy,2013,Female,<100,<100,<100
+Italy,2013,Male,<100,<100,<100
+Italy,2014,Both,<100,<100,<100
+Italy,2014,Female,<100,<100,<100
+Italy,2014,Male,<100,<100,<100
+Italy,2015,Both,<100,<100,<100
+Italy,2015,Female,<100,<100,<100
+Italy,2015,Male,<100,<100,<100
+Italy,2016,Both,<100,<100,<100
+Italy,2016,Female,<100,<100,<100
+Italy,2016,Male,<100,<100,<100
+Italy,2017,Both,<100,<100,<100
+Italy,2017,Female,<100,<100,<100
+Italy,2017,Male,<100,<100,<100
+Italy,2018,Both,<100,<100,<100
+Italy,2018,Female,<100,<100,<100
+Italy,2018,Male,<100,<100,<100
+Italy,2019,Both,<100,<100,<100
+Italy,2019,Female,<100,<100,<100
+Italy,2019,Male,<100,<100,<100
+Jamaica,2010,Both,<100,<100,<200
+Jamaica,2010,Female,<100,<100,<100
+Jamaica,2010,Male,<100,<100,<100
+Jamaica,2011,Both,<200,<100,<200
+Jamaica,2011,Female,<100,<100,<100
+Jamaica,2011,Male,<100,<100,<100
+Jamaica,2012,Both,<200,<100,<200
+Jamaica,2012,Female,<100,<100,<100
+Jamaica,2012,Male,<100,<100,<100
+Jamaica,2013,Both,<100,<100,<200
+Jamaica,2013,Female,<100,<100,<100
+Jamaica,2013,Male,<100,<100,<100
+Jamaica,2014,Both,<100,<100,<200
+Jamaica,2014,Female,<100,<100,<100
+Jamaica,2014,Male,<100,<100,<100
+Jamaica,2015,Both,<100,<100,<200
+Jamaica,2015,Female,<100,<100,<100
+Jamaica,2015,Male,<100,<100,<100
+Jamaica,2016,Both,<100,<100,<200
+Jamaica,2016,Female,<100,<100,<100
+Jamaica,2016,Male,<100,<100,<100
+Jamaica,2017,Both,<100,<100,<200
+Jamaica,2017,Female,<100,<100,<100
+Jamaica,2017,Male,<100,<100,<100
+Jamaica,2018,Both,<100,<100,<200
+Jamaica,2018,Female,<100,<100,<100
+Jamaica,2018,Male,<100,<100,<100
+Jamaica,2019,Both,<100,<100,<200
+Jamaica,2019,Female,<100,<100,<100
+Jamaica,2019,Male,<100,<100,<100
+Kazakhstan,2010,Both,<100,<100,<100
+Kazakhstan,2010,Female,<100,<100,<100
+Kazakhstan,2010,Male,<100,<100,<100
+Kazakhstan,2011,Both,<100,<100,<100
+Kazakhstan,2011,Female,<100,<100,<100
+Kazakhstan,2011,Male,<100,<100,<100
+Kazakhstan,2012,Both,<100,<100,<100
+Kazakhstan,2012,Female,<100,<100,<100
+Kazakhstan,2012,Male,<100,<100,<100
+Kazakhstan,2013,Both,<100,<100,<100
+Kazakhstan,2013,Female,<100,<100,<100
+Kazakhstan,2013,Male,<100,<100,<100
+Kazakhstan,2014,Both,<100,<100,<100
+Kazakhstan,2014,Female,<100,<100,<100
+Kazakhstan,2014,Male,<100,<100,<100
+Kazakhstan,2015,Both,<100,<100,<100
+Kazakhstan,2015,Female,<100,<100,<100
+Kazakhstan,2015,Male,<100,<100,<100
+Kazakhstan,2016,Both,<100,<100,<100
+Kazakhstan,2016,Female,<100,<100,<100
+Kazakhstan,2016,Male,<100,<100,<100
+Kazakhstan,2017,Both,<100,<100,<100
+Kazakhstan,2017,Female,<100,<100,<100
+Kazakhstan,2017,Male,<100,<100,<100
+Kazakhstan,2018,Both,<100,<100,<100
+Kazakhstan,2018,Female,<100,<100,<100
+Kazakhstan,2018,Male,<100,<100,<100
+Kazakhstan,2019,Both,<100,<100,<100
+Kazakhstan,2019,Female,<100,<100,<100
+Kazakhstan,2019,Male,<100,<100,<100
+Kenya,2010,Both,18,11,30
+Kenya,2010,Female,"9,1","5,4",15
+Kenya,2010,Male,"9,3","5,6",15
+Kenya,2011,Both,14,"8,4",23
+Kenya,2011,Female,7,"4,2",11
+Kenya,2011,Male,"7,2","4,3",12
+Kenya,2012,Both,16,"9,3",26
+Kenya,2012,Female,"7,7","4,6",13
+Kenya,2012,Male,"7,9","4,7",13
+Kenya,2013,Both,15,"8,8",24
+Kenya,2013,Female,"7,3","4,3",12
+Kenya,2013,Male,"7,5","4,5",12
+Kenya,2014,Both,13,"7,8",22
+Kenya,2014,Female,"6,5","3,9",11
+Kenya,2014,Male,"6,6",4,11
+Kenya,2015,Both,"9,2","5,5",15
+Kenya,2015,Female,"4,6","2,7","7,5"
+Kenya,2015,Male,"4,7","2,8","7,7"
+Kenya,2016,Both,"8,5","5,1",14
+Kenya,2016,Female,"4,2","2,5","6,9"
+Kenya,2016,Male,"4,3","2,6","7,1"
+Kenya,2017,Both,9,"5,4",15
+Kenya,2017,Female,"4,5","2,7","7,3"
+Kenya,2017,Male,"4,6","2,7","7,5"
+Kenya,2018,Both,"7,5","4,5",12
+Kenya,2018,Female,"3,7","2,2","6,1"
+Kenya,2018,Male,"3,8","2,3","6,3"
+Kenya,2019,Both,"6,8","4,1",11
+Kenya,2019,Female,"3,4",2,"5,5"
+Kenya,2019,Male,"3,4","2,1","5,7"
+Kyrgyzstan,2010,Both,<100,<100,<100
+Kyrgyzstan,2010,Female,<100,<100,<100
+Kyrgyzstan,2010,Male,<100,<100,<100
+Kyrgyzstan,2011,Both,<100,<100,<100
+Kyrgyzstan,2011,Female,<100,<100,<100
+Kyrgyzstan,2011,Male,<100,<100,<100
+Kyrgyzstan,2012,Both,<200,<200,<200
+Kyrgyzstan,2012,Female,<100,<100,<100
+Kyrgyzstan,2012,Male,<100,<100,<100
+Kyrgyzstan,2013,Both,<100,<100,<100
+Kyrgyzstan,2013,Female,<100,<100,<100
+Kyrgyzstan,2013,Male,<100,<100,<100
+Kyrgyzstan,2014,Both,<100,<100,<100
+Kyrgyzstan,2014,Female,<100,<100,<100
+Kyrgyzstan,2014,Male,<100,<100,<100
+Kyrgyzstan,2015,Both,<100,<100,<100
+Kyrgyzstan,2015,Female,<100,<100,<100
+Kyrgyzstan,2015,Male,<100,<100,<100
+Kyrgyzstan,2016,Both,<100,<100,<100
+Kyrgyzstan,2016,Female,<100,<100,<100
+Kyrgyzstan,2016,Male,<100,<100,<100
+Kyrgyzstan,2017,Both,<100,<100,<100
+Kyrgyzstan,2017,Female,<100,<100,<100
+Kyrgyzstan,2017,Male,<100,<100,<100
+Kyrgyzstan,2018,Both,<100,<100,<100
+Kyrgyzstan,2018,Female,<100,<100,<100
+Kyrgyzstan,2018,Male,<100,<100,<100
+Kyrgyzstan,2019,Both,<100,<100,<100
+Kyrgyzstan,2019,Female,<100,<100,<100
+Kyrgyzstan,2019,Male,<100,<100,<100
+Cambodia,2010,Both,<500,<500,<500
+Cambodia,2010,Female,<200,<200,<500
+Cambodia,2010,Male,<200,<200,<500
+Cambodia,2011,Both,<500,<500,<500
+Cambodia,2011,Female,<200,<200,<200
+Cambodia,2011,Male,<200,<200,<500
+Cambodia,2012,Both,<500,<200,<500
+Cambodia,2012,Female,<200,<100,<200
+Cambodia,2012,Male,<200,<200,<200
+Cambodia,2013,Both,<500,<200,<500
+Cambodia,2013,Female,<200,<100,<200
+Cambodia,2013,Male,<200,<100,<200
+Cambodia,2014,Both,<200,<200,<500
+Cambodia,2014,Female,<100,<100,<200
+Cambodia,2014,Male,<100,<100,<200
+Cambodia,2015,Both,<200,<100,<200
+Cambodia,2015,Female,<100,<100,<100
+Cambodia,2015,Male,<100,<100,<100
+Cambodia,2016,Both,<200,<100,<200
+Cambodia,2016,Female,<100,<100,<100
+Cambodia,2016,Male,<100,<100,<100
+Cambodia,2017,Both,<100,<100,<200
+Cambodia,2017,Female,<100,<100,<100
+Cambodia,2017,Male,<100,<100,<100
+Cambodia,2018,Both,<100,<100,<200
+Cambodia,2018,Female,<100,<100,<100
+Cambodia,2018,Male,<100,<100,<100
+Cambodia,2019,Both,<100,<100,<100
+Cambodia,2019,Female,<100,<100,<100
+Cambodia,2019,Male,<100,<100,<100
+Lao People's Democratic Republic,2010,Both,<100,<100,<100
+Lao People's Democratic Republic,2010,Female,<100,<100,<100
+Lao People's Democratic Republic,2010,Male,<100,<100,<100
+Lao People's Democratic Republic,2011,Both,<100,<100,<100
+Lao People's Democratic Republic,2011,Female,<100,<100,<100
+Lao People's Democratic Republic,2011,Male,<100,<100,<100
+Lao People's Democratic Republic,2012,Both,<100,<100,<100
+Lao People's Democratic Republic,2012,Female,<100,<100,<100
+Lao People's Democratic Republic,2012,Male,<100,<100,<100
+Lao People's Democratic Republic,2013,Both,<100,<100,<100
+Lao People's Democratic Republic,2013,Female,<100,<100,<100
+Lao People's Democratic Republic,2013,Male,<100,<100,<100
+Lao People's Democratic Republic,2014,Both,<100,<100,<100
+Lao People's Democratic Republic,2014,Female,<100,<100,<100
+Lao People's Democratic Republic,2014,Male,<100,<100,<100
+Lao People's Democratic Republic,2015,Both,<100,<100,<100
+Lao People's Democratic Republic,2015,Female,<100,<100,<100
+Lao People's Democratic Republic,2015,Male,<100,<100,<100
+Lao People's Democratic Republic,2016,Both,<100,<100,<100
+Lao People's Democratic Republic,2016,Female,<100,<100,<100
+Lao People's Democratic Republic,2016,Male,<100,<100,<100
+Lao People's Democratic Republic,2017,Both,<100,<100,<100
+Lao People's Democratic Republic,2017,Female,<100,<100,<100
+Lao People's Democratic Republic,2017,Male,<100,<100,<100
+Lao People's Democratic Republic,2018,Both,<100,<100,<100
+Lao People's Democratic Republic,2018,Female,<100,<100,<100
+Lao People's Democratic Republic,2018,Male,<100,<100,<100
+Lao People's Democratic Republic,2019,Both,<100,<100,<100
+Lao People's Democratic Republic,2019,Female,<100,<100,<100
+Lao People's Democratic Republic,2019,Male,<100,<100,<100
+Liberia,2010,Both,790,560,"1,1"
+Liberia,2010,Female,<500,<500,530
+Liberia,2010,Male,<500,<500,560
+Liberia,2011,Both,700,<500,980
+Liberia,2011,Female,<500,<500,<500
+Liberia,2011,Male,<500,<500,510
+Liberia,2012,Both,660,<500,940
+Liberia,2012,Female,<500,<500,<500
+Liberia,2012,Male,<500,<500,<500
+Liberia,2013,Both,680,<500,980
+Liberia,2013,Female,<500,<500,<500
+Liberia,2013,Male,<500,<500,500
+Liberia,2014,Both,650,<500,890
+Liberia,2014,Female,<500,<500,<500
+Liberia,2014,Male,<500,<500,<500
+Liberia,2015,Both,500,<500,770
+Liberia,2015,Female,<500,<200,<500
+Liberia,2015,Male,<500,<200,<500
+Liberia,2016,Both,<500,<500,710
+Liberia,2016,Female,<500,<200,<500
+Liberia,2016,Male,<500,<200,<500
+Liberia,2017,Both,<500,<500,660
+Liberia,2017,Female,<200,<200,<500
+Liberia,2017,Male,<200,<200,<500
+Liberia,2018,Both,<500,<500,<500
+Liberia,2018,Female,<200,<200,<500
+Liberia,2018,Male,<200,<200,<500
+Liberia,2019,Both,<500,<500,<500
+Liberia,2019,Female,<200,<200,<500
+Liberia,2019,Male,<200,<200,<500
+Libya,2010,Both,<100,<100,<100
+Libya,2010,Female,<100,<100,<100
+Libya,2010,Male,<100,<100,<100
+Libya,2011,Both,<100,<100,<100
+Libya,2011,Female,<100,<100,<100
+Libya,2011,Male,<100,<100,<100
+Libya,2012,Both,<100,<100,<100
+Libya,2012,Female,<100,<100,<100
+Libya,2012,Male,<100,<100,<100
+Libya,2013,Both,<100,<100,<100
+Libya,2013,Female,<100,<100,<100
+Libya,2013,Male,<100,<100,<100
+Libya,2014,Both,<100,<100,<100
+Libya,2014,Female,<100,<100,<100
+Libya,2014,Male,<100,<100,<100
+Libya,2015,Both,<100,<100,<100
+Libya,2015,Female,<100,<100,<100
+Libya,2015,Male,<100,<100,<100
+Libya,2016,Both,<100,<100,<100
+Libya,2016,Female,<100,<100,<100
+Libya,2016,Male,<100,<100,<100
+Libya,2017,Both,<100,<100,<100
+Libya,2017,Female,<100,<100,<100
+Libya,2017,Male,<100,<100,<100
+Libya,2018,Both,<100,<100,<100
+Libya,2018,Female,<100,<100,<100
+Libya,2018,Male,<100,<100,<100
+Libya,2019,Both,<100,<100,<100
+Libya,2019,Female,<100,<100,<100
+Libya,2019,Male,<100,<100,<100
+Lesotho,2010,Both,"2,5","1,9","2,9"
+Lesotho,2010,Female,"1,2",940,"1,4"
+Lesotho,2010,Male,"1,2",960,"1,5"
+Lesotho,2011,Both,"1,9","1,4","2,2"
+Lesotho,2011,Female,920,680,"1,1"
+Lesotho,2011,Male,940,700,"1,1"
+Lesotho,2012,Both,"1,8","1,4","2,2"
+Lesotho,2012,Female,900,670,"1,1"
+Lesotho,2012,Male,920,690,"1,1"
+Lesotho,2013,Both,"1,5",1,"1,9"
+Lesotho,2013,Female,760,500,950
+Lesotho,2013,Male,780,520,980
+Lesotho,2014,Both,"1,2",810,"1,6"
+Lesotho,2014,Female,610,<500,800
+Lesotho,2014,Male,630,<500,830
+Lesotho,2015,Both,1,620,"1,4"
+Lesotho,2015,Female,500,<500,700
+Lesotho,2015,Male,520,<500,720
+Lesotho,2016,Both,"1,1",550,"1,4"
+Lesotho,2016,Female,520,<500,710
+Lesotho,2016,Male,540,<500,730
+Lesotho,2017,Both,"1,1",580,"1,4"
+Lesotho,2017,Female,540,<500,700
+Lesotho,2017,Male,550,<500,730
+Lesotho,2018,Both,810,<500,"1,1"
+Lesotho,2018,Female,<500,<500,560
+Lesotho,2018,Male,<500,<500,580
+Lesotho,2019,Both,790,<500,"1,1"
+Lesotho,2019,Female,<500,<200,550
+Lesotho,2019,Male,<500,<500,560
+Morocco,2010,Both,<100,<100,<200
+Morocco,2010,Female,<100,<100,<100
+Morocco,2010,Male,<100,<100,<100
+Morocco,2011,Both,<100,<100,<200
+Morocco,2011,Female,<100,<100,<100
+Morocco,2011,Male,<100,<100,<100
+Morocco,2012,Both,<100,<100,<100
+Morocco,2012,Female,<100,<100,<100
+Morocco,2012,Male,<100,<100,<100
+Morocco,2013,Both,<100,<100,<100
+Morocco,2013,Female,<100,<100,<100
+Morocco,2013,Male,<100,<100,<100
+Morocco,2014,Both,<100,<100,<100
+Morocco,2014,Female,<100,<100,<100
+Morocco,2014,Male,<100,<100,<100
+Morocco,2015,Both,<100,<100,<100
+Morocco,2015,Female,<100,<100,<100
+Morocco,2015,Male,<100,<100,<100
+Morocco,2016,Both,<100,<100,<100
+Morocco,2016,Female,<100,<100,<100
+Morocco,2016,Male,<100,<100,<100
+Morocco,2017,Both,<100,<100,<100
+Morocco,2017,Female,<100,<100,<100
+Morocco,2017,Male,<100,<100,<100
+Morocco,2018,Both,<100,<100,<100
+Morocco,2018,Female,<100,<100,<100
+Morocco,2018,Male,<100,<100,<100
+Morocco,2019,Both,<100,<100,<100
+Morocco,2019,Female,<100,<100,<100
+Morocco,2019,Male,<100,<100,<100
+Republic of Moldova,2010,Both,<100,<100,<100
+Republic of Moldova,2010,Female,<100,<100,<100
+Republic of Moldova,2010,Male,<100,<100,<100
+Republic of Moldova,2011,Both,<100,<100,<100
+Republic of Moldova,2011,Female,<100,<100,<100
+Republic of Moldova,2011,Male,<100,<100,<100
+Republic of Moldova,2012,Both,<100,<100,<100
+Republic of Moldova,2012,Female,<100,<100,<100
+Republic of Moldova,2012,Male,<100,<100,<100
+Republic of Moldova,2013,Both,<100,<100,<100
+Republic of Moldova,2013,Female,<100,<100,<100
+Republic of Moldova,2013,Male,<100,<100,<100
+Republic of Moldova,2014,Both,<100,<100,<100
+Republic of Moldova,2014,Female,<100,<100,<100
+Republic of Moldova,2014,Male,<100,<100,<100
+Republic of Moldova,2015,Both,<100,<100,<100
+Republic of Moldova,2015,Female,<100,<100,<100
+Republic of Moldova,2015,Male,<100,<100,<100
+Republic of Moldova,2016,Both,<100,<100,<100
+Republic of Moldova,2016,Female,<100,<100,<100
+Republic of Moldova,2016,Male,<100,<100,<100
+Republic of Moldova,2017,Both,<100,<100,<100
+Republic of Moldova,2017,Female,<100,<100,<100
+Republic of Moldova,2017,Male,<100,<100,<100
+Republic of Moldova,2018,Both,<100,<100,<100
+Republic of Moldova,2018,Female,<100,<100,<100
+Republic of Moldova,2018,Male,<100,<100,<100
+Republic of Moldova,2019,Both,<100,<100,<100
+Republic of Moldova,2019,Female,<100,<100,<100
+Republic of Moldova,2019,Male,<100,<100,<100
+Madagascar,2010,Both,<200,<200,<500
+Madagascar,2010,Female,<100,<100,<200
+Madagascar,2010,Male,<100,<100,<200
+Madagascar,2011,Both,<200,<200,<500
+Madagascar,2011,Female,<100,<100,<200
+Madagascar,2011,Male,<100,<100,<200
+Madagascar,2012,Both,<500,<200,<500
+Madagascar,2012,Female,<200,<100,<200
+Madagascar,2012,Male,<200,<100,<200
+Madagascar,2013,Both,<500,<500,<500
+Madagascar,2013,Female,<200,<200,<200
+Madagascar,2013,Male,<200,<200,<200
+Madagascar,2014,Both,<500,<500,<500
+Madagascar,2014,Female,<200,<200,<200
+Madagascar,2014,Male,<200,<200,<200
+Madagascar,2015,Both,<500,<500,<500
+Madagascar,2015,Female,<200,<200,<500
+Madagascar,2015,Male,<200,<200,<500
+Madagascar,2016,Both,<500,<500,520
+Madagascar,2016,Female,<500,<200,<500
+Madagascar,2016,Male,<500,<200,<500
+Madagascar,2017,Both,<500,<500,570
+Madagascar,2017,Female,<500,<200,<500
+Madagascar,2017,Male,<500,<200,<500
+Madagascar,2018,Both,<500,<500,610
+Madagascar,2018,Female,<500,<200,<500
+Madagascar,2018,Male,<500,<200,<500
+Madagascar,2019,Both,<500,<500,670
+Madagascar,2019,Female,<500,<200,<500
+Madagascar,2019,Male,<500,<200,<500
+Myanmar,2010,Both,"1,5","1,1",2
+Myanmar,2010,Female,740,550,990
+Myanmar,2010,Male,760,560,1
+Myanmar,2011,Both,"1,4","1,1","1,8"
+Myanmar,2011,Female,670,570,890
+Myanmar,2011,Male,690,580,910
+Myanmar,2012,Both,"1,5","1,3","1,8"
+Myanmar,2012,Female,740,630,900
+Myanmar,2012,Male,760,640,920
+Myanmar,2013,Both,"1,5","1,2","1,7"
+Myanmar,2013,Female,720,610,850
+Myanmar,2013,Male,740,620,870
+Myanmar,2014,Both,"1,3","1,1","1,5"
+Myanmar,2014,Female,650,550,750
+Myanmar,2014,Male,660,570,770
+Myanmar,2015,Both,"1,2","1,1","1,4"
+Myanmar,2015,Female,610,520,700
+Myanmar,2015,Male,620,540,720
+Myanmar,2016,Both,"1,1",930,"1,2"
+Myanmar,2016,Female,530,<500,610
+Myanmar,2016,Male,540,<500,620
+Myanmar,2017,Both,1,880,"1,2"
+Myanmar,2017,Female,510,<500,580
+Myanmar,2017,Male,520,<500,600
+Myanmar,2018,Both,920,750,"1,1"
+Myanmar,2018,Female,<500,<500,520
+Myanmar,2018,Male,<500,<500,540
+Myanmar,2019,Both,840,670,1
+Myanmar,2019,Female,<500,<500,<500
+Myanmar,2019,Male,<500,<500,510
+Mozambique,2010,Both,30,19,52
+Mozambique,2010,Female,15,"9,1",26
+Mozambique,2010,Male,15,"9,4",27
+Mozambique,2011,Both,25,15,43
+Mozambique,2011,Female,12,"7,5",21
+Mozambique,2011,Male,13,"7,7",22
+Mozambique,2012,Both,20,12,35
+Mozambique,2012,Female,"9,8",6,17
+Mozambique,2012,Male,10,"6,2",18
+Mozambique,2013,Both,19,12,34
+Mozambique,2013,Female,"9,6","5,9",17
+Mozambique,2013,Male,"9,8","6,1",17
+Mozambique,2014,Both,18,11,31
+Mozambique,2014,Female,"8,9","5,5",15
+Mozambique,2014,Male,"9,1","5,6",16
+Mozambique,2015,Both,17,11,30
+Mozambique,2015,Female,"8,5","5,2",15
+Mozambique,2015,Male,"8,8","5,4",15
+Mozambique,2016,Both,18,11,31
+Mozambique,2016,Female,"8,8","5,4",15
+Mozambique,2016,Male,"9,1","5,6",16
+Mozambique,2017,Both,16,"9,9",28
+Mozambique,2017,Female,"7,9","4,9",14
+Mozambique,2017,Male,"8,2",5,14
+Mozambique,2018,Both,16,"9,6",27
+Mozambique,2018,Female,"7,7","4,7",13
+Mozambique,2018,Male,"7,9","4,9",14
+Mozambique,2019,Both,15,"9,3",26
+Mozambique,2019,Female,"7,4","4,6",13
+Mozambique,2019,Male,"7,6","4,7",13
+Mauritius,2010,Both,<100,<100,<100
+Mauritius,2010,Female,<100,<100,<100
+Mauritius,2010,Male,<100,<100,<100
+Mauritius,2011,Both,<100,<100,<100
+Mauritius,2011,Female,<100,<100,<100
+Mauritius,2011,Male,<100,<100,<100
+Mauritius,2012,Both,<100,<100,<100
+Mauritius,2012,Female,<100,<100,<100
+Mauritius,2012,Male,<100,<100,<100
+Mauritius,2013,Both,<100,<100,<100
+Mauritius,2013,Female,<100,<100,<100
+Mauritius,2013,Male,<100,<100,<100
+Mauritius,2014,Both,<100,<100,<100
+Mauritius,2014,Female,<100,<100,<100
+Mauritius,2014,Male,<100,<100,<100
+Mauritius,2015,Both,<100,<100,<100
+Mauritius,2015,Female,<100,<100,<100
+Mauritius,2015,Male,<100,<100,<100
+Mauritius,2016,Both,<100,<100,<100
+Mauritius,2016,Female,<100,<100,<100
+Mauritius,2016,Male,<100,<100,<100
+Mauritius,2017,Both,<100,<100,<100
+Mauritius,2017,Female,<100,<100,<100
+Mauritius,2017,Male,<100,<100,<100
+Mauritius,2018,Both,<100,<100,<100
+Mauritius,2018,Female,<100,<100,<100
+Mauritius,2018,Male,<100,<100,<100
+Mauritius,2019,Both,<100,<100,<100
+Mauritius,2019,Female,<100,<100,<100
+Mauritius,2019,Male,<100,<100,<100
+Malawi,2010,Both,15,11,17
+Malawi,2010,Female,"7,2","5,5","8,6"
+Malawi,2010,Male,"7,4","5,6","8,8"
+Malawi,2011,Both,11,"7,1",13
+Malawi,2011,Female,"5,3","3,5","6,5"
+Malawi,2011,Male,"5,4","3,6","6,6"
+Malawi,2012,Both,"7,7","4,6",10
+Malawi,2012,Female,"3,8","2,3",5
+Malawi,2012,Male,"3,9","2,3","5,2"
+Malawi,2013,Both,"7,2","3,9","9,5"
+Malawi,2013,Female,"3,5","1,9","4,7"
+Malawi,2013,Male,"3,6",2,"4,8"
+Malawi,2014,Both,"6,2","3,4","8,5"
+Malawi,2014,Female,"3,1","1,7","4,2"
+Malawi,2014,Male,"3,2","1,7","4,3"
+Malawi,2015,Both,"5,2","3,1","7,3"
+Malawi,2015,Female,"2,6","1,5","3,6"
+Malawi,2015,Male,"2,6","1,6","3,7"
+Malawi,2016,Both,"4,2","2,8","6,3"
+Malawi,2016,Female,"2,1","1,4","3,1"
+Malawi,2016,Male,"2,1","1,4","3,2"
+Malawi,2017,Both,"3,1","2,5","4,7"
+Malawi,2017,Female,"1,5","1,2","2,3"
+Malawi,2017,Male,"1,5","1,2","2,4"
+Malawi,2018,Both,"2,7","2,3","3,9"
+Malawi,2018,Female,"1,3","1,1","1,9"
+Malawi,2018,Male,"1,4","1,2",2
+Malawi,2019,Both,"2,5",2,"4,1"
+Malawi,2019,Female,"1,2",1,2
+Malawi,2019,Male,"1,3",1,"2,1"
+Malaysia,2010,Both,<100,<100,<100
+Malaysia,2010,Female,<100,<100,<100
+Malaysia,2010,Male,<100,<100,<100
+Malaysia,2011,Both,<100,<100,<100
+Malaysia,2011,Female,<100,<100,<100
+Malaysia,2011,Male,<100,<100,<100
+Malaysia,2012,Both,<100,<100,<100
+Malaysia,2012,Female,<100,<100,<100
+Malaysia,2012,Male,<100,<100,<100
+Malaysia,2013,Both,<100,<100,<100
+Malaysia,2013,Female,<100,<100,<100
+Malaysia,2013,Male,<100,<100,<100
+Malaysia,2014,Both,<100,<100,<100
+Malaysia,2014,Female,<100,<100,<100
+Malaysia,2014,Male,<100,<100,<100
+Malaysia,2015,Both,<100,<100,<100
+Malaysia,2015,Female,<100,<100,<100
+Malaysia,2015,Male,<100,<100,<100
+Malaysia,2016,Both,<100,<100,<100
+Malaysia,2016,Female,<100,<100,<100
+Malaysia,2016,Male,<100,<100,<100
+Malaysia,2017,Both,<100,<100,<100
+Malaysia,2017,Female,<100,<100,<100
+Malaysia,2017,Male,<100,<100,<100
+Malaysia,2018,Both,<100,<100,<100
+Malaysia,2018,Female,<100,<100,<100
+Malaysia,2018,Male,<100,<100,<100
+Malaysia,2019,Both,<100,<100,<100
+Malaysia,2019,Female,<100,<100,<100
+Malaysia,2019,Male,<100,<100,<100
+Namibia,2010,Both,"1,6","1,1",2
+Namibia,2010,Female,800,570,990
+Namibia,2010,Male,800,570,1
+Namibia,2011,Both,"1,6","1,2","1,9"
+Namibia,2011,Female,810,580,960
+Namibia,2011,Male,820,580,960
+Namibia,2012,Both,"1,6","1,2","1,9"
+Namibia,2012,Female,800,600,960
+Namibia,2012,Male,810,600,970
+Namibia,2013,Both,"1,4",940,"1,7"
+Namibia,2013,Female,680,<500,830
+Namibia,2013,Male,680,<500,840
+Namibia,2014,Both,860,<500,"1,1"
+Namibia,2014,Female,<500,<500,570
+Namibia,2014,Male,<500,<500,580
+Namibia,2015,Both,630,<500,900
+Namibia,2015,Female,<500,<200,<500
+Namibia,2015,Male,<500,<200,<500
+Namibia,2016,Both,520,<500,780
+Namibia,2016,Female,<500,<200,<500
+Namibia,2016,Male,<500,<200,<500
+Namibia,2017,Both,<500,<500,770
+Namibia,2017,Female,<500,<200,<500
+Namibia,2017,Male,<500,<200,<500
+Namibia,2018,Both,<500,<500,740
+Namibia,2018,Female,<500,<200,<500
+Namibia,2018,Male,<500,<200,<500
+Namibia,2019,Both,<500,<500,690
+Namibia,2019,Female,<500,<200,<500
+Namibia,2019,Male,<500,<200,<500
+Niger,2010,Both,<500,<500,<500
+Niger,2010,Female,<200,<200,<500
+Niger,2010,Male,<200,<200,<500
+Niger,2011,Both,<500,<500,540
+Niger,2011,Female,<500,<200,<500
+Niger,2011,Male,<500,<200,<500
+Niger,2012,Both,<500,<500,570
+Niger,2012,Female,<500,<200,<500
+Niger,2012,Male,<500,<200,<500
+Niger,2013,Both,<500,<500,530
+Niger,2013,Female,<500,<200,<500
+Niger,2013,Male,<500,<200,<500
+Niger,2014,Both,<500,<500,<500
+Niger,2014,Female,<200,<200,<500
+Niger,2014,Male,<200,<200,<500
+Niger,2015,Both,<500,<500,540
+Niger,2015,Female,<500,<200,<500
+Niger,2015,Male,<500,<200,<500
+Niger,2016,Both,<500,<200,<500
+Niger,2016,Female,<200,<100,<200
+Niger,2016,Male,<200,<100,<200
+Niger,2017,Both,<500,<500,570
+Niger,2017,Female,<500,<200,<500
+Niger,2017,Male,<500,<200,<500
+Niger,2018,Both,<500,<500,550
+Niger,2018,Female,<500,<200,<500
+Niger,2018,Male,<500,<200,<500
+Niger,2019,Both,<500,<500,560
+Niger,2019,Female,<500,<200,<500
+Niger,2019,Male,<500,<200,<500
+Nigeria,2010,Both,28,16,47
+Nigeria,2010,Female,14,"7,6",23
+Nigeria,2010,Male,15,"8,1",24
+Nigeria,2011,Both,27,15,45
+Nigeria,2011,Female,13,"7,2",22
+Nigeria,2011,Male,14,"7,7",23
+Nigeria,2012,Both,25,14,42
+Nigeria,2012,Female,12,"6,7",20
+Nigeria,2012,Male,13,"7,1",21
+Nigeria,2013,Both,21,12,36
+Nigeria,2013,Female,10,"5,7",17
+Nigeria,2013,Male,11,"6,1",18
+Nigeria,2014,Both,19,11,32
+Nigeria,2014,Female,"9,3","5,2",16
+Nigeria,2014,Male,"9,9","5,5",17
+Nigeria,2015,Both,20,11,33
+Nigeria,2015,Female,"9,5","5,3",16
+Nigeria,2015,Male,10,"5,6",17
+Nigeria,2016,Both,19,11,32
+Nigeria,2016,Female,"9,3","5,2",16
+Nigeria,2016,Male,"9,8","5,5",17
+Nigeria,2017,Both,20,11,34
+Nigeria,2017,Female,"9,9","5,5",17
+Nigeria,2017,Male,11,"5,9",18
+Nigeria,2018,Both,22,12,37
+Nigeria,2018,Female,11,"5,9",18
+Nigeria,2018,Male,11,"6,2",19
+Nigeria,2019,Both,22,12,37
+Nigeria,2019,Female,11,"5,9",18
+Nigeria,2019,Male,11,"6,3",19
+Nicaragua,2010,Both,<100,<100,<100
+Nicaragua,2010,Female,<100,<100,<100
+Nicaragua,2010,Male,<100,<100,<100
+Nicaragua,2011,Both,<100,<100,<100
+Nicaragua,2011,Female,<100,<100,<100
+Nicaragua,2011,Male,<100,<100,<100
+Nicaragua,2012,Both,<100,<100,<100
+Nicaragua,2012,Female,<100,<100,<100
+Nicaragua,2012,Male,<100,<100,<100
+Nicaragua,2013,Both,<100,<100,<100
+Nicaragua,2013,Female,<100,<100,<100
+Nicaragua,2013,Male,<100,<100,<100
+Nicaragua,2014,Both,<100,<100,<100
+Nicaragua,2014,Female,<100,<100,<100
+Nicaragua,2014,Male,<100,<100,<100
+Nicaragua,2015,Both,<100,<100,<100
+Nicaragua,2015,Female,<100,<100,<100
+Nicaragua,2015,Male,<100,<100,<100
+Nicaragua,2016,Both,<100,<100,<100
+Nicaragua,2016,Female,<100,<100,<100
+Nicaragua,2016,Male,<100,<100,<100
+Nicaragua,2017,Both,<100,<100,<100
+Nicaragua,2017,Female,<100,<100,<100
+Nicaragua,2017,Male,<100,<100,<100
+Nicaragua,2018,Both,<100,<100,<100
+Nicaragua,2018,Female,<100,<100,<100
+Nicaragua,2018,Male,<100,<100,<100
+Nicaragua,2019,Both,<100,<100,<100
+Nicaragua,2019,Female,<100,<100,<100
+Nicaragua,2019,Male,<100,<100,<100
+Netherlands,2010,Both,<100,<100,<100
+Netherlands,2010,Female,<100,<100,<100
+Netherlands,2010,Male,<100,<100,<100
+Netherlands,2011,Both,<100,<100,<100
+Netherlands,2011,Female,<100,<100,<100
+Netherlands,2011,Male,<100,<100,<100
+Netherlands,2012,Both,<100,<100,<100
+Netherlands,2012,Female,<100,<100,<100
+Netherlands,2012,Male,<100,<100,<100
+Netherlands,2013,Both,<100,<100,<100
+Netherlands,2013,Female,<100,<100,<100
+Netherlands,2013,Male,<100,<100,<100
+Netherlands,2014,Both,<100,<100,<100
+Netherlands,2014,Female,<100,<100,<100
+Netherlands,2014,Male,<100,<100,<100
+Netherlands,2015,Both,<100,<100,<100
+Netherlands,2015,Female,<100,<100,<100
+Netherlands,2015,Male,<100,<100,<100
+Netherlands,2016,Both,<100,<100,<100
+Netherlands,2016,Female,<100,<100,<100
+Netherlands,2016,Male,<100,<100,<100
+Netherlands,2017,Both,<100,<100,<100
+Netherlands,2017,Female,<100,<100,<100
+Netherlands,2017,Male,<100,<100,<100
+Netherlands,2018,Both,<100,<100,<100
+Netherlands,2018,Female,<100,<100,<100
+Netherlands,2018,Male,<100,<100,<100
+Netherlands,2019,Both,<100,<100,<100
+Netherlands,2019,Female,<100,<100,<100
+Netherlands,2019,Male,<100,<100,<100
+Nepal,2010,Both,<500,<200,<500
+Nepal,2010,Female,<100,<100,<200
+Nepal,2010,Male,<200,<100,<200
+Nepal,2011,Both,<200,<200,<500
+Nepal,2011,Female,<100,<100,<100
+Nepal,2011,Male,<100,<100,<200
+Nepal,2012,Both,<200,<200,<200
+Nepal,2012,Female,<100,<100,<100
+Nepal,2012,Male,<100,<100,<100
+Nepal,2013,Both,<200,<200,<200
+Nepal,2013,Female,<100,<100,<100
+Nepal,2013,Male,<100,<100,<100
+Nepal,2014,Both,<200,<100,<200
+Nepal,2014,Female,<100,<100,<100
+Nepal,2014,Male,<100,<100,<100
+Nepal,2015,Both,<100,<100,<200
+Nepal,2015,Female,<100,<100,<100
+Nepal,2015,Male,<100,<100,<100
+Nepal,2016,Both,<100,<100,<200
+Nepal,2016,Female,<100,<100,<100
+Nepal,2016,Male,<100,<100,<100
+Nepal,2017,Both,<100,<100,<100
+Nepal,2017,Female,<100,<100,<100
+Nepal,2017,Male,<100,<100,<100
+Nepal,2018,Both,<100,<100,<100
+Nepal,2018,Female,<100,<100,<100
+Nepal,2018,Male,<100,<100,<100
+Nepal,2019,Both,<100,<100,<100
+Nepal,2019,Female,<100,<100,<100
+Nepal,2019,Male,<100,<100,<100
+Pakistan,2010,Both,780,650,920
+Pakistan,2010,Female,<500,<500,<500
+Pakistan,2010,Male,<500,<500,<500
+Pakistan,2011,Both,850,700,1
+Pakistan,2011,Female,<500,<500,<500
+Pakistan,2011,Male,<500,<500,520
+Pakistan,2012,Both,940,800,"1,1"
+Pakistan,2012,Female,<500,<500,520
+Pakistan,2012,Male,<500,<500,570
+Pakistan,2013,Both,1,840,"1,2"
+Pakistan,2013,Female,<500,<500,570
+Pakistan,2013,Male,530,<500,610
+Pakistan,2014,Both,"1,1",940,"1,3"
+Pakistan,2014,Female,530,<500,610
+Pakistan,2014,Male,580,<500,660
+Pakistan,2015,Both,"1,2",1,"1,3"
+Pakistan,2015,Female,560,<500,650
+Pakistan,2015,Male,610,530,700
+Pakistan,2016,Both,"1,3","1,1","1,5"
+Pakistan,2016,Female,610,520,700
+Pakistan,2016,Male,660,570,760
+Pakistan,2017,Both,"1,3","1,1","1,5"
+Pakistan,2017,Female,630,540,740
+Pakistan,2017,Male,690,590,810
+Pakistan,2018,Both,"1,4","1,2","1,6"
+Pakistan,2018,Female,670,570,760
+Pakistan,2018,Male,720,620,820
+Pakistan,2019,Both,"1,5","1,3","1,7"
+Pakistan,2019,Female,700,610,810
+Pakistan,2019,Male,760,660,870
+Peru,2010,Both,<500,<200,<500
+Peru,2010,Female,<100,<100,<200
+Peru,2010,Male,<200,<100,<200
+Peru,2011,Both,<500,<200,<500
+Peru,2011,Female,<200,<100,<200
+Peru,2011,Male,<200,<200,<200
+Peru,2012,Both,<500,<200,<500
+Peru,2012,Female,<200,<100,<200
+Peru,2012,Male,<200,<100,<200
+Peru,2013,Both,<200,<200,<500
+Peru,2013,Female,<100,<100,<200
+Peru,2013,Male,<100,<100,<200
+Peru,2014,Both,<200,<200,<500
+Peru,2014,Female,<100,<100,<200
+Peru,2014,Male,<100,<100,<200
+Peru,2015,Both,<200,<200,<500
+Peru,2015,Female,<100,<100,<100
+Peru,2015,Male,<100,<100,<200
+Peru,2016,Both,<200,<100,<200
+Peru,2016,Female,<100,<100,<100
+Peru,2016,Male,<100,<100,<100
+Peru,2017,Both,<200,<200,<200
+Peru,2017,Female,<100,<100,<100
+Peru,2017,Male,<100,<100,<200
+Peru,2018,Both,<200,<100,<200
+Peru,2018,Female,<100,<100,<100
+Peru,2018,Male,<100,<100,<100
+Peru,2019,Both,<200,<100,<200
+Peru,2019,Female,<100,<100,<100
+Peru,2019,Male,<100,<100,<100
+Philippines,2010,Both,<100,<100,<100
+Philippines,2010,Female,<100,<100,<100
+Philippines,2010,Male,<100,<100,<100
+Philippines,2011,Both,<100,<100,<100
+Philippines,2011,Female,<100,<100,<100
+Philippines,2011,Male,<100,<100,<100
+Philippines,2012,Both,<100,<100,<100
+Philippines,2012,Female,<100,<100,<100
+Philippines,2012,Male,<100,<100,<100
+Philippines,2013,Both,<100,<100,<100
+Philippines,2013,Female,<100,<100,<100
+Philippines,2013,Male,<100,<100,<100
+Philippines,2014,Both,<100,<100,<100
+Philippines,2014,Female,<100,<100,<100
+Philippines,2014,Male,<100,<100,<100
+Philippines,2015,Both,<100,<100,<100
+Philippines,2015,Female,<100,<100,<100
+Philippines,2015,Male,<100,<100,<100
+Philippines,2016,Both,<100,<100,<200
+Philippines,2016,Female,<100,<100,<100
+Philippines,2016,Male,<100,<100,<100
+Philippines,2017,Both,<200,<100,<200
+Philippines,2017,Female,<100,<100,<100
+Philippines,2017,Male,<100,<100,<100
+Philippines,2018,Both,<200,<100,<200
+Philippines,2018,Female,<100,<100,<100
+Philippines,2018,Male,<100,<100,<100
+Philippines,2019,Both,<200,<100,<200
+Philippines,2019,Female,<100,<100,<100
+Philippines,2019,Male,<100,<100,<100
+Papua New Guinea,2010,Both,500,<500,610
+Papua New Guinea,2010,Female,<500,<200,<500
+Papua New Guinea,2010,Male,<500,<500,<500
+Papua New Guinea,2011,Both,<500,<500,600
+Papua New Guinea,2011,Female,<500,<200,<500
+Papua New Guinea,2011,Male,<500,<200,<500
+Papua New Guinea,2012,Both,<500,<500,580
+Papua New Guinea,2012,Female,<500,<200,<500
+Papua New Guinea,2012,Male,<500,<200,<500
+Papua New Guinea,2013,Both,<500,<500,540
+Papua New Guinea,2013,Female,<500,<200,<500
+Papua New Guinea,2013,Male,<500,<200,<500
+Papua New Guinea,2014,Both,<500,<500,520
+Papua New Guinea,2014,Female,<200,<200,<500
+Papua New Guinea,2014,Male,<500,<200,<500
+Papua New Guinea,2015,Both,<500,<500,560
+Papua New Guinea,2015,Female,<500,<200,<500
+Papua New Guinea,2015,Male,<500,<200,<500
+Papua New Guinea,2016,Both,<500,<500,560
+Papua New Guinea,2016,Female,<500,<200,<500
+Papua New Guinea,2016,Male,<500,<200,<500
+Papua New Guinea,2017,Both,<500,<500,540
+Papua New Guinea,2017,Female,<500,<200,<500
+Papua New Guinea,2017,Male,<500,<200,<500
+Papua New Guinea,2018,Both,<500,<500,510
+Papua New Guinea,2018,Female,<200,<200,<500
+Papua New Guinea,2018,Male,<500,<200,<500
+Papua New Guinea,2019,Both,<500,<500,<500
+Papua New Guinea,2019,Female,<200,<200,<500
+Papua New Guinea,2019,Male,<200,<200,<500
+Paraguay,2010,Both,<100,<100,<200
+Paraguay,2010,Female,<100,<100,<100
+Paraguay,2010,Male,<100,<100,<100
+Paraguay,2011,Both,<100,<100,<100
+Paraguay,2011,Female,<100,<100,<100
+Paraguay,2011,Male,<100,<100,<100
+Paraguay,2012,Both,<100,<100,<100
+Paraguay,2012,Female,<100,<100,<100
+Paraguay,2012,Male,<100,<100,<100
+Paraguay,2013,Both,<100,<100,<100
+Paraguay,2013,Female,<100,<100,<100
+Paraguay,2013,Male,<100,<100,<100
+Paraguay,2014,Both,<100,<100,<100
+Paraguay,2014,Female,<100,<100,<100
+Paraguay,2014,Male,<100,<100,<100
+Paraguay,2015,Both,<100,<100,<200
+Paraguay,2015,Female,<100,<100,<100
+Paraguay,2015,Male,<100,<100,<100
+Paraguay,2016,Both,<100,<100,<100
+Paraguay,2016,Female,<100,<100,<100
+Paraguay,2016,Male,<100,<100,<100
+Paraguay,2017,Both,<100,<100,<100
+Paraguay,2017,Female,<100,<100,<100
+Paraguay,2017,Male,<100,<100,<100
+Paraguay,2018,Both,<100,<100,<100
+Paraguay,2018,Female,<100,<100,<100
+Paraguay,2018,Male,<100,<100,<100
+Paraguay,2019,Both,<100,<100,<100
+Paraguay,2019,Female,<100,<100,<100
+Paraguay,2019,Male,<100,<100,<100
+Romania,2010,Both,<100,<100,<100
+Romania,2010,Female,<100,<100,<100
+Romania,2010,Male,<100,<100,<100
+Romania,2011,Both,<100,<100,<100
+Romania,2011,Female,<100,<100,<100
+Romania,2011,Male,<100,<100,<100
+Romania,2012,Both,<100,<100,<100
+Romania,2012,Female,<100,<100,<100
+Romania,2012,Male,<100,<100,<100
+Romania,2013,Both,<100,<100,<100
+Romania,2013,Female,<100,<100,<100
+Romania,2013,Male,<100,<100,<100
+Romania,2014,Both,<100,<100,<100
+Romania,2014,Female,<100,<100,<100
+Romania,2014,Male,<100,<100,<100
+Romania,2015,Both,<100,<100,<100
+Romania,2015,Female,<100,<100,<100
+Romania,2015,Male,<100,<100,<100
+Romania,2016,Both,<100,<100,<100
+Romania,2016,Female,<100,<100,<100
+Romania,2016,Male,<100,<100,<100
+Romania,2017,Both,<100,<100,<100
+Romania,2017,Female,<100,<100,<100
+Romania,2017,Male,<100,<100,<100
+Romania,2018,Both,<100,<100,<100
+Romania,2018,Female,<100,<100,<100
+Romania,2018,Male,<100,<100,<100
+Romania,2019,Both,<100,<100,<100
+Romania,2019,Female,<100,<100,<100
+Romania,2019,Male,<100,<100,<100
+Rwanda,2010,Both,"2,5","1,7","3,1"
+Rwanda,2010,Female,"1,2",850,"1,5"
+Rwanda,2010,Male,"1,2",860,"1,5"
+Rwanda,2011,Both,"1,5","1,2","1,9"
+Rwanda,2011,Female,740,610,970
+Rwanda,2011,Male,740,620,980
+Rwanda,2012,Both,"1,5",990,2
+Rwanda,2012,Female,720,<500,990
+Rwanda,2012,Male,730,500,1
+Rwanda,2013,Both,"1,1",760,"1,6"
+Rwanda,2013,Female,560,<500,790
+Rwanda,2013,Male,570,<500,800
+Rwanda,2014,Both,860,660,"1,3"
+Rwanda,2014,Female,<500,<500,630
+Rwanda,2014,Male,<500,<500,640
+Rwanda,2015,Both,690,590,990
+Rwanda,2015,Female,<500,<500,<500
+Rwanda,2015,Male,<500,<500,500
+Rwanda,2016,Both,800,510,"1,2"
+Rwanda,2016,Female,<500,<500,600
+Rwanda,2016,Male,<500,<500,610
+Rwanda,2017,Both,810,<500,"1,2"
+Rwanda,2017,Female,<500,<500,610
+Rwanda,2017,Male,<500,<500,620
+Rwanda,2018,Both,740,<500,"1,1"
+Rwanda,2018,Female,<500,<500,560
+Rwanda,2018,Male,<500,<500,570
+Rwanda,2019,Both,500,<500,850
+Rwanda,2019,Female,<500,<200,<500
+Rwanda,2019,Male,<500,<200,<500
+Sudan,2010,Both,720,580,880
+Sudan,2010,Female,<500,<500,<500
+Sudan,2010,Male,<500,<500,<500
+Sudan,2011,Both,720,580,860
+Sudan,2011,Female,<500,<500,<500
+Sudan,2011,Male,<500,<500,<500
+Sudan,2012,Both,710,590,880
+Sudan,2012,Female,<500,<500,<500
+Sudan,2012,Male,<500,<500,<500
+Sudan,2013,Both,700,560,830
+Sudan,2013,Female,<500,<500,<500
+Sudan,2013,Male,<500,<500,<500
+Sudan,2014,Both,680,540,830
+Sudan,2014,Female,<500,<500,<500
+Sudan,2014,Male,<500,<500,<500
+Sudan,2015,Both,670,520,810
+Sudan,2015,Female,<500,<500,<500
+Sudan,2015,Male,<500,<500,<500
+Sudan,2016,Both,660,520,790
+Sudan,2016,Female,<500,<500,<500
+Sudan,2016,Male,<500,<500,<500
+Sudan,2017,Both,640,<500,790
+Sudan,2017,Female,<500,<500,<500
+Sudan,2017,Male,<500,<500,<500
+Sudan,2018,Both,640,<500,770
+Sudan,2018,Female,<500,<500,<500
+Sudan,2018,Male,<500,<500,<500
+Sudan,2019,Both,640,<500,800
+Sudan,2019,Female,<500,<500,<500
+Sudan,2019,Male,<500,<500,<500
+Senegal,2010,Both,780,650,940
+Senegal,2010,Female,<500,<500,<500
+Senegal,2010,Male,<500,<500,<500
+Senegal,2011,Both,740,630,910
+Senegal,2011,Female,<500,<500,<500
+Senegal,2011,Male,<500,<500,<500
+Senegal,2012,Both,670,560,810
+Senegal,2012,Female,<500,<500,<500
+Senegal,2012,Male,<500,<500,<500
+Senegal,2013,Both,580,<500,710
+Senegal,2013,Female,<500,<500,<500
+Senegal,2013,Male,<500,<500,<500
+Senegal,2014,Both,590,<500,710
+Senegal,2014,Female,<500,<500,<500
+Senegal,2014,Male,<500,<500,<500
+Senegal,2015,Both,<500,<500,640
+Senegal,2015,Female,<500,<200,<500
+Senegal,2015,Male,<500,<200,<500
+Senegal,2016,Both,<500,<500,590
+Senegal,2016,Female,<500,<200,<500
+Senegal,2016,Male,<500,<200,<500
+Senegal,2017,Both,<500,<500,570
+Senegal,2017,Female,<500,<200,<500
+Senegal,2017,Male,<500,<200,<500
+Senegal,2018,Both,<500,<500,500
+Senegal,2018,Female,<200,<200,<500
+Senegal,2018,Male,<200,<200,<500
+Senegal,2019,Both,<500,<500,<500
+Senegal,2019,Female,<200,<200,<500
+Senegal,2019,Male,<200,<200,<500
+Sierra Leone,2010,Both,"1,8","1,4","2,3"
+Sierra Leone,2010,Female,910,680,"1,2"
+Sierra Leone,2010,Male,920,690,"1,2"
+Sierra Leone,2011,Both,"1,8","1,3","2,2"
+Sierra Leone,2011,Female,890,650,"1,1"
+Sierra Leone,2011,Male,900,660,"1,1"
+Sierra Leone,2012,Both,"1,7","1,2","2,1"
+Sierra Leone,2012,Female,830,590,"1,1"
+Sierra Leone,2012,Male,850,600,"1,1"
+Sierra Leone,2013,Both,"1,8","1,3","2,2"
+Sierra Leone,2013,Female,870,620,"1,1"
+Sierra Leone,2013,Male,890,630,"1,1"
+Sierra Leone,2014,Both,"1,6","1,1","2,1"
+Sierra Leone,2014,Female,810,550,"1,1"
+Sierra Leone,2014,Male,820,560,"1,1"
+Sierra Leone,2015,Both,"1,5",920,2
+Sierra Leone,2015,Female,740,<500,1
+Sierra Leone,2015,Male,750,<500,1
+Sierra Leone,2016,Both,"1,4",860,"1,9"
+Sierra Leone,2016,Female,690,<500,920
+Sierra Leone,2016,Male,700,<500,930
+Sierra Leone,2017,Both,"1,3",750,"1,8"
+Sierra Leone,2017,Female,660,<500,890
+Sierra Leone,2017,Male,670,<500,900
+Sierra Leone,2018,Both,"1,2",670,"1,7"
+Sierra Leone,2018,Female,610,<500,860
+Sierra Leone,2018,Male,620,<500,880
+Sierra Leone,2019,Both,"1,3",690,"1,8"
+Sierra Leone,2019,Female,630,<500,880
+Sierra Leone,2019,Male,640,<500,890
+El Salvador,2010,Both,<100,<100,<200
+El Salvador,2010,Female,<100,<100,<100
+El Salvador,2010,Male,<100,<100,<100
+El Salvador,2011,Both,<100,<100,<200
+El Salvador,2011,Female,<100,<100,<100
+El Salvador,2011,Male,<100,<100,<100
+El Salvador,2012,Both,<100,<100,<100
+El Salvador,2012,Female,<100,<100,<100
+El Salvador,2012,Male,<100,<100,<100
+El Salvador,2013,Both,<100,<100,<100
+El Salvador,2013,Female,<100,<100,<100
+El Salvador,2013,Male,<100,<100,<100
+El Salvador,2014,Both,<100,<100,<100
+El Salvador,2014,Female,<100,<100,<100
+El Salvador,2014,Male,<100,<100,<100
+El Salvador,2015,Both,<100,<100,<100
+El Salvador,2015,Female,<100,<100,<100
+El Salvador,2015,Male,<100,<100,<100
+El Salvador,2016,Both,<100,<100,<100
+El Salvador,2016,Female,<100,<100,<100
+El Salvador,2016,Male,<100,<100,<100
+El Salvador,2017,Both,<100,<100,<100
+El Salvador,2017,Female,<100,<100,<100
+El Salvador,2017,Male,<100,<100,<100
+El Salvador,2018,Both,<100,<100,<100
+El Salvador,2018,Female,<100,<100,<100
+El Salvador,2018,Male,<100,<100,<100
+El Salvador,2019,Both,<100,<100,<100
+El Salvador,2019,Female,<100,<100,<100
+El Salvador,2019,Male,<100,<100,<100
+Somalia,2010,Both,<500,<500,<500
+Somalia,2010,Female,<200,<200,<200
+Somalia,2010,Male,<200,<200,<200
+Somalia,2011,Both,<500,<200,<500
+Somalia,2011,Female,<200,<100,<200
+Somalia,2011,Male,<200,<100,<200
+Somalia,2012,Both,<500,<200,<500
+Somalia,2012,Female,<200,<100,<200
+Somalia,2012,Male,<200,<100,<200
+Somalia,2013,Both,<500,<200,<500
+Somalia,2013,Female,<200,<100,<200
+Somalia,2013,Male,<200,<100,<200
+Somalia,2014,Both,<200,<200,<500
+Somalia,2014,Female,<100,<100,<200
+Somalia,2014,Male,<100,<100,<200
+Somalia,2015,Both,<200,<200,<500
+Somalia,2015,Female,<100,<100,<200
+Somalia,2015,Male,<100,<100,<200
+Somalia,2016,Both,<200,<200,<200
+Somalia,2016,Female,<100,<100,<100
+Somalia,2016,Male,<100,<100,<100
+Somalia,2017,Both,<200,<200,<200
+Somalia,2017,Female,<100,<100,<100
+Somalia,2017,Male,<100,<100,<100
+Somalia,2018,Both,<200,<200,<200
+Somalia,2018,Female,<100,<100,<100
+Somalia,2018,Male,<100,<100,<100
+Somalia,2019,Both,<200,<200,<200
+Somalia,2019,Female,<100,<100,<100
+Somalia,2019,Male,<100,<100,<100
+South Sudan,2010,Both,"3,2","2,4","4,4"
+South Sudan,2010,Female,"1,6","1,2","2,2"
+South Sudan,2010,Male,"1,7","1,2","2,2"
+South Sudan,2011,Both,"3,2","2,4","4,5"
+South Sudan,2011,Female,"1,6","1,2","2,2"
+South Sudan,2011,Male,"1,7","1,2","2,3"
+South Sudan,2012,Both,"3,2","2,4","4,3"
+South Sudan,2012,Female,"1,6","1,2","2,1"
+South Sudan,2012,Male,"1,7","1,2","2,2"
+South Sudan,2013,Both,"3,1","2,2","4,2"
+South Sudan,2013,Female,"1,5","1,1",2
+South Sudan,2013,Male,"1,6","1,1","2,1"
+South Sudan,2014,Both,"3,2","2,3","4,2"
+South Sudan,2014,Female,"1,6","1,1","2,1"
+South Sudan,2014,Male,"1,6","1,2","2,1"
+South Sudan,2015,Both,"2,7","1,7","3,8"
+South Sudan,2015,Female,"1,3",860,"1,8"
+South Sudan,2015,Male,"1,4",890,"1,9"
+South Sudan,2016,Both,"2,9","2,1","4,1"
+South Sudan,2016,Female,"1,4",1,2
+South Sudan,2016,Male,"1,5",1,"2,1"
+South Sudan,2017,Both,"2,4","1,5","3,6"
+South Sudan,2017,Female,"1,2",740,"1,8"
+South Sudan,2017,Male,"1,2",770,"1,8"
+South Sudan,2018,Both,"2,4","1,5","3,5"
+South Sudan,2018,Female,"1,2",710,"1,7"
+South Sudan,2018,Male,"1,2",740,"1,8"
+South Sudan,2019,Both,"2,7","1,7","3,9"
+South Sudan,2019,Female,"1,3",850,"1,9"
+South Sudan,2019,Male,"1,4",890,2
+Suriname,2010,Both,<100,<100,<100
+Suriname,2010,Female,<100,<100,<100
+Suriname,2010,Male,<100,<100,<100
+Suriname,2011,Both,<100,<100,<100
+Suriname,2011,Female,<100,<100,<100
+Suriname,2011,Male,<100,<100,<100
+Suriname,2012,Both,<100,<100,<100
+Suriname,2012,Female,<100,<100,<100
+Suriname,2012,Male,<100,<100,<100
+Suriname,2013,Both,<100,<100,<100
+Suriname,2013,Female,<100,<100,<100
+Suriname,2013,Male,<100,<100,<100
+Suriname,2014,Both,<100,<100,<100
+Suriname,2014,Female,<100,<100,<100
+Suriname,2014,Male,<100,<100,<100
+Suriname,2015,Both,<100,<100,<100
+Suriname,2015,Female,<100,<100,<100
+Suriname,2015,Male,<100,<100,<100
+Suriname,2016,Both,<100,<100,<100
+Suriname,2016,Female,<100,<100,<100
+Suriname,2016,Male,<100,<100,<100
+Suriname,2017,Both,<100,<100,<100
+Suriname,2017,Female,<100,<100,<100
+Suriname,2017,Male,<100,<100,<100
+Suriname,2018,Both,<100,<100,<100
+Suriname,2018,Female,<100,<100,<100
+Suriname,2018,Male,<100,<100,<100
+Suriname,2019,Both,<100,<100,<100
+Suriname,2019,Female,<100,<100,<100
+Suriname,2019,Male,<100,<100,<100
+Eswatini,2010,Both,"1,6","1,1","1,9"
+Eswatini,2010,Female,770,540,940
+Eswatini,2010,Male,790,550,970
+Eswatini,2011,Both,"1,5","1,2","1,8"
+Eswatini,2011,Female,720,610,900
+Eswatini,2011,Male,740,630,930
+Eswatini,2012,Both,"1,4","1,1","1,7"
+Eswatini,2012,Female,680,540,830
+Eswatini,2012,Male,690,550,850
+Eswatini,2013,Both,"1,2",970,"1,6"
+Eswatini,2013,Female,600,<500,770
+Eswatini,2013,Male,610,<500,790
+Eswatini,2014,Both,"1,2",810,"1,5"
+Eswatini,2014,Female,580,<500,730
+Eswatini,2014,Male,590,<500,750
+Eswatini,2015,Both,750,510,1
+Eswatini,2015,Female,<500,<500,500
+Eswatini,2015,Male,<500,<500,510
+Eswatini,2016,Both,620,<500,850
+Eswatini,2016,Female,<500,<500,<500
+Eswatini,2016,Male,<500,<500,<500
+Eswatini,2017,Both,670,<500,910
+Eswatini,2017,Female,<500,<200,<500
+Eswatini,2017,Male,<500,<200,<500
+Eswatini,2018,Both,<500,<500,570
+Eswatini,2018,Female,<200,<200,<500
+Eswatini,2018,Male,<200,<200,<500
+Eswatini,2019,Both,<500,<500,<500
+Eswatini,2019,Female,<200,<200,<200
+Eswatini,2019,Male,<200,<200,<200
+Chad,2010,Both,3,"2,1","3,9"
+Chad,2010,Female,"1,5","1,1","1,9"
+Chad,2010,Male,"1,5","1,1",2
+Chad,2011,Both,"2,9","2,1","3,7"
+Chad,2011,Female,"1,4",1,"1,8"
+Chad,2011,Male,"1,5",1,"1,9"
+Chad,2012,Both,"2,7","1,9","3,6"
+Chad,2012,Female,"1,4",960,"1,8"
+Chad,2012,Male,"1,4",990,"1,8"
+Chad,2013,Both,"2,4","1,6","3,2"
+Chad,2013,Female,"1,2",770,"1,6"
+Chad,2013,Male,"1,2",790,"1,6"
+Chad,2014,Both,"1,8",1,"2,7"
+Chad,2014,Female,910,<500,"1,3"
+Chad,2014,Male,940,510,"1,4"
+Chad,2015,Both,2,"1,2","2,7"
+Chad,2015,Female,1,590,"1,4"
+Chad,2015,Male,1,610,"1,4"
+Chad,2016,Both,2,"1,2","2,8"
+Chad,2016,Female,990,580,"1,4"
+Chad,2016,Male,1,600,"1,4"
+Chad,2017,Both,2,"1,2","2,8"
+Chad,2017,Female,980,580,"1,4"
+Chad,2017,Male,1,590,"1,4"
+Chad,2018,Both,"1,8",980,"2,5"
+Chad,2018,Female,880,<500,"1,3"
+Chad,2018,Male,900,<500,"1,3"
+Chad,2019,Both,"1,5",740,"2,4"
+Chad,2019,Female,760,<500,"1,2"
+Chad,2019,Male,780,<500,"1,2"
+Togo,2010,Both,2,"1,4","2,6"
+Togo,2010,Female,970,700,"1,3"
+Togo,2010,Male,990,710,"1,3"
+Togo,2011,Both,"1,6","1,1","2,3"
+Togo,2011,Female,820,540,"1,1"
+Togo,2011,Male,830,550,"1,2"
+Togo,2012,Both,"1,5",1,"2,1"
+Togo,2012,Female,760,520,"1,1"
+Togo,2012,Male,770,520,"1,1"
+Togo,2013,Both,"1,4",940,2
+Togo,2013,Female,720,<500,990
+Togo,2013,Male,730,<500,1
+Togo,2014,Both,"1,4",890,"1,9"
+Togo,2014,Female,680,<500,960
+Togo,2014,Male,690,<500,970
+Togo,2015,Both,"1,1",670,"1,7"
+Togo,2015,Female,570,<500,840
+Togo,2015,Male,580,<500,850
+Togo,2016,Both,1,650,"1,6"
+Togo,2016,Female,510,<500,790
+Togo,2016,Male,520,<500,800
+Togo,2017,Both,"1,1",670,"1,7"
+Togo,2017,Female,560,<500,830
+Togo,2017,Male,570,<500,850
+Togo,2018,Both,990,540,"1,6"
+Togo,2018,Female,<500,<500,790
+Togo,2018,Male,<500,<500,800
+Togo,2019,Both,940,520,"1,6"
+Togo,2019,Female,<500,<500,780
+Togo,2019,Male,<500,<500,790
+Thailand,2010,Both,560,<500,670
+Thailand,2010,Female,<500,<500,<500
+Thailand,2010,Male,<500,<500,<500
+Thailand,2011,Both,<500,<500,530
+Thailand,2011,Female,<500,<200,<500
+Thailand,2011,Male,<500,<200,<500
+Thailand,2012,Both,<500,<500,<500
+Thailand,2012,Female,<200,<200,<500
+Thailand,2012,Male,<500,<200,<500
+Thailand,2013,Both,<500,<500,<500
+Thailand,2013,Female,<200,<200,<200
+Thailand,2013,Male,<200,<200,<200
+Thailand,2014,Both,<500,<500,<500
+Thailand,2014,Female,<200,<200,<200
+Thailand,2014,Male,<200,<200,<200
+Thailand,2015,Both,<100,<100,<200
+Thailand,2015,Female,<100,<100,<100
+Thailand,2015,Male,<100,<100,<100
+Thailand,2016,Both,<100,<100,<200
+Thailand,2016,Female,<100,<100,<100
+Thailand,2016,Male,<100,<100,<100
+Thailand,2017,Both,<100,<100,<100
+Thailand,2017,Female,<100,<100,<100
+Thailand,2017,Male,<100,<100,<100
+Thailand,2018,Both,<100,<100,<100
+Thailand,2018,Female,<100,<100,<100
+Thailand,2018,Male,<100,<100,<100
+Thailand,2019,Both,<100,<100,<100
+Thailand,2019,Female,<100,<100,<100
+Thailand,2019,Male,<100,<100,<100
+Tajikistan,2010,Both,<100,<100,<100
+Tajikistan,2010,Female,<100,<100,<100
+Tajikistan,2010,Male,<100,<100,<100
+Tajikistan,2011,Both,<100,<100,<200
+Tajikistan,2011,Female,<100,<100,<100
+Tajikistan,2011,Male,<100,<100,<100
+Tajikistan,2012,Both,<200,<200,<200
+Tajikistan,2012,Female,<100,<100,<100
+Tajikistan,2012,Male,<100,<100,<100
+Tajikistan,2013,Both,<200,<200,<200
+Tajikistan,2013,Female,<100,<100,<100
+Tajikistan,2013,Male,<100,<100,<100
+Tajikistan,2014,Both,<200,<200,<200
+Tajikistan,2014,Female,<100,<100,<100
+Tajikistan,2014,Male,<100,<100,<100
+Tajikistan,2015,Both,<500,<500,<500
+Tajikistan,2015,Female,<200,<100,<200
+Tajikistan,2015,Male,<200,<200,<200
+Tajikistan,2016,Both,<500,<200,<500
+Tajikistan,2016,Female,<200,<100,<200
+Tajikistan,2016,Male,<200,<200,<200
+Tajikistan,2017,Both,<200,<200,<500
+Tajikistan,2017,Female,<100,<100,<100
+Tajikistan,2017,Male,<100,<100,<200
+Tajikistan,2018,Both,<500,<200,<500
+Tajikistan,2018,Female,<100,<100,<200
+Tajikistan,2018,Male,<200,<100,<200
+Tajikistan,2019,Both,<500,<500,<500
+Tajikistan,2019,Female,<200,<200,<200
+Tajikistan,2019,Male,<200,<200,<500
+Tunisia,2010,Both,<100,<100,<100
+Tunisia,2010,Female,<100,<100,<100
+Tunisia,2010,Male,<100,<100,<100
+Tunisia,2011,Both,<100,<100,<100
+Tunisia,2011,Female,<100,<100,<100
+Tunisia,2011,Male,<100,<100,<100
+Tunisia,2012,Both,<100,<100,<100
+Tunisia,2012,Female,<100,<100,<100
+Tunisia,2012,Male,<100,<100,<100
+Tunisia,2013,Both,<100,<100,<100
+Tunisia,2013,Female,<100,<100,<100
+Tunisia,2013,Male,<100,<100,<100
+Tunisia,2014,Both,<100,<100,<100
+Tunisia,2014,Female,<100,<100,<100
+Tunisia,2014,Male,<100,<100,<100
+Tunisia,2015,Both,<100,<100,<100
+Tunisia,2015,Female,<100,<100,<100
+Tunisia,2015,Male,<100,<100,<100
+Tunisia,2016,Both,<100,<100,<100
+Tunisia,2016,Female,<100,<100,<100
+Tunisia,2016,Male,<100,<100,<100
+Tunisia,2017,Both,<100,<100,<100
+Tunisia,2017,Female,<100,<100,<100
+Tunisia,2017,Male,<100,<100,<100
+Tunisia,2018,Both,<100,<100,<100
+Tunisia,2018,Female,<100,<100,<100
+Tunisia,2018,Male,<100,<100,<100
+Tunisia,2019,Both,<100,<100,<100
+Tunisia,2019,Female,<100,<100,<100
+Tunisia,2019,Male,<100,<100,<100
+United Republic of Tanzania,2010,Both,14,11,17
+United Republic of Tanzania,2010,Female,"6,7","5,6","8,4"
+United Republic of Tanzania,2010,Male,"6,9","5,7","8,7"
+United Republic of Tanzania,2011,Both,12,"9,8",15
+United Republic of Tanzania,2011,Female,"5,7","4,8","7,2"
+United Republic of Tanzania,2011,Male,"5,9",5,"7,4"
+United Republic of Tanzania,2012,Both,"9,9","8,3",12
+United Republic of Tanzania,2012,Female,"4,9","4,1","6,1"
+United Republic of Tanzania,2012,Male,5,"4,2","6,2"
+United Republic of Tanzania,2013,Both,"9,5",8,13
+United Republic of Tanzania,2013,Female,"4,7","3,9","6,4"
+United Republic of Tanzania,2013,Male,"4,8","4,1","6,6"
+United Republic of Tanzania,2014,Both,11,"8,3",15
+United Republic of Tanzania,2014,Female,"5,3","4,1","7,2"
+United Republic of Tanzania,2014,Male,"5,4","4,2","7,5"
+United Republic of Tanzania,2015,Both,11,"7,8",15
+United Republic of Tanzania,2015,Female,"5,5","3,9","7,4"
+United Republic of Tanzania,2015,Male,"5,7",4,"7,7"
+United Republic of Tanzania,2016,Both,12,"7,6",16
+United Republic of Tanzania,2016,Female,"5,7","3,8","7,8"
+United Republic of Tanzania,2016,Male,"5,8","3,9",8
+United Republic of Tanzania,2017,Both,"9,7",7,13
+United Republic of Tanzania,2017,Female,"4,8","3,5","6,5"
+United Republic of Tanzania,2017,Male,"4,9","3,6","6,6"
+United Republic of Tanzania,2018,Both,"8,7","6,5",12
+United Republic of Tanzania,2018,Female,"4,3","3,2",6
+United Republic of Tanzania,2018,Male,"4,4","3,3","6,1"
+United Republic of Tanzania,2019,Both,"8,6","5,9",12
+United Republic of Tanzania,2019,Female,"4,3","2,9","5,8"
+United Republic of Tanzania,2019,Male,"4,4",3,6
+Uganda,2010,Both,23,19,26
+Uganda,2010,Female,11,"9,3",13
+Uganda,2010,Male,12,"9,6",13
+Uganda,2011,Both,21,17,24
+Uganda,2011,Female,10,"8,2",12
+Uganda,2011,Male,11,"8,4",12
+Uganda,2012,Both,12,11,15
+Uganda,2012,Female,"6,1","5,2","7,5"
+Uganda,2012,Male,"6,3","5,3","7,7"
+Uganda,2013,Both,13,11,16
+Uganda,2013,Female,"6,5","5,6","8,1"
+Uganda,2013,Male,"6,7","5,8","8,3"
+Uganda,2014,Both,11,"9,7",12
+Uganda,2014,Female,"5,4","4,8",6
+Uganda,2014,Male,"5,5","4,9","6,2"
+Uganda,2015,Both,"9,8","8,6",11
+Uganda,2015,Female,"4,8","4,3","5,4"
+Uganda,2015,Male,5,"4,4","5,6"
+Uganda,2016,Both,"9,3","8,1",11
+Uganda,2016,Female,"4,6",4,"5,4"
+Uganda,2016,Male,"4,7","4,1","5,6"
+Uganda,2017,Both,"8,2","6,9",11
+Uganda,2017,Female,4,"3,4","5,3"
+Uganda,2017,Male,"4,1","3,5","5,4"
+Uganda,2018,Both,"6,1",5,"8,8"
+Uganda,2018,Female,3,"2,5","4,3"
+Uganda,2018,Male,"3,1","2,5","4,4"
+Uganda,2019,Both,"5,7","4,6","8,3"
+Uganda,2019,Female,"2,8","2,3","4,1"
+Uganda,2019,Male,"2,9","2,3","4,2"
+Ukraine,2010,Both,<500,<500,<500
+Ukraine,2010,Female,<200,<200,<500
+Ukraine,2010,Male,<200,<200,<500
+Ukraine,2011,Both,<500,<500,<500
+Ukraine,2011,Female,<200,<200,<200
+Ukraine,2011,Male,<200,<200,<500
+Ukraine,2012,Both,<500,<500,<500
+Ukraine,2012,Female,<200,<200,<500
+Ukraine,2012,Male,<200,<200,<500
+Ukraine,2013,Both,<500,<500,<500
+Ukraine,2013,Female,<200,<200,<200
+Ukraine,2013,Male,<200,<200,<200
+Ukraine,2014,Both,<500,<500,<500
+Ukraine,2014,Female,<200,<200,<200
+Ukraine,2014,Male,<200,<200,<200
+Ukraine,2015,Both,<500,<500,<500
+Ukraine,2015,Female,<200,<200,<200
+Ukraine,2015,Male,<200,<200,<200
+Ukraine,2016,Both,<500,<500,<500
+Ukraine,2016,Female,<200,<200,<200
+Ukraine,2016,Male,<200,<200,<200
+Ukraine,2017,Both,<500,<200,<500
+Ukraine,2017,Female,<200,<100,<200
+Ukraine,2017,Male,<200,<100,<200
+Ukraine,2018,Both,<200,<200,<500
+Ukraine,2018,Female,<100,<100,<200
+Ukraine,2018,Male,<100,<100,<200
+Ukraine,2019,Both,<200,<200,<500
+Ukraine,2019,Female,<100,<100,<200
+Ukraine,2019,Male,<100,<100,<200
+Uzbekistan,2010,Both,790,780,810
+Uzbekistan,2010,Female,<500,<500,<500
+Uzbekistan,2010,Male,<500,<500,<500
+Uzbekistan,2011,Both,810,790,830
+Uzbekistan,2011,Female,<500,<500,<500
+Uzbekistan,2011,Male,<500,<500,<500
+Uzbekistan,2012,Both,840,810,870
+Uzbekistan,2012,Female,<500,<500,<500
+Uzbekistan,2012,Male,<500,<500,<500
+Uzbekistan,2013,Both,850,820,880
+Uzbekistan,2013,Female,<500,<500,<500
+Uzbekistan,2013,Male,<500,<500,<500
+Uzbekistan,2014,Both,820,800,850
+Uzbekistan,2014,Female,<500,<500,<500
+Uzbekistan,2014,Male,<500,<500,<500
+Uzbekistan,2015,Both,870,830,900
+Uzbekistan,2015,Female,<500,<500,<500
+Uzbekistan,2015,Male,<500,<500,<500
+Uzbekistan,2016,Both,820,790,850
+Uzbekistan,2016,Female,<500,<500,<500
+Uzbekistan,2016,Male,<500,<500,<500
+Uzbekistan,2017,Both,820,800,840
+Uzbekistan,2017,Female,<500,<500,<500
+Uzbekistan,2017,Male,<500,<500,<500
+Uzbekistan,2018,Both,800,780,820
+Uzbekistan,2018,Female,<500,<500,<500
+Uzbekistan,2018,Male,<500,<500,<500
+Uzbekistan,2019,Both,800,780,830
+Uzbekistan,2019,Female,<500,<500,<500
+Uzbekistan,2019,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2010,Both,780,620,960
+Venezuela (Bolivarian Republic of),2010,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2010,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2011,Both,770,610,950
+Venezuela (Bolivarian Republic of),2011,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2011,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2012,Both,740,600,950
+Venezuela (Bolivarian Republic of),2012,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2012,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2013,Both,710,550,880
+Venezuela (Bolivarian Republic of),2013,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2013,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2014,Both,650,<500,840
+Venezuela (Bolivarian Republic of),2014,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2014,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2015,Both,610,<500,800
+Venezuela (Bolivarian Republic of),2015,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2015,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2016,Both,570,<500,770
+Venezuela (Bolivarian Republic of),2016,Female,<500,<200,<500
+Venezuela (Bolivarian Republic of),2016,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2017,Both,550,<500,730
+Venezuela (Bolivarian Republic of),2017,Female,<500,<500,<500
+Venezuela (Bolivarian Republic of),2017,Male,<500,<500,<500
+Venezuela (Bolivarian Republic of),2018,Both,510,<500,660
+Venezuela (Bolivarian Republic of),2018,Female,<500,<200,<500
+Venezuela (Bolivarian Republic of),2018,Male,<500,<200,<500
+Venezuela (Bolivarian Republic of),2019,Both,<500,<500,660
+Venezuela (Bolivarian Republic of),2019,Female,<500,<200,<500
+Venezuela (Bolivarian Republic of),2019,Male,<500,<200,<500
+Viet Nam,2010,Both,620,<500,820
+Viet Nam,2010,Female,<500,<500,<500
+Viet Nam,2010,Male,<500,<500,<500
+Viet Nam,2011,Both,690,520,870
+Viet Nam,2011,Female,<500,<500,<500
+Viet Nam,2011,Male,<500,<500,<500
+Viet Nam,2012,Both,610,<500,780
+Viet Nam,2012,Female,<500,<500,<500
+Viet Nam,2012,Male,<500,<500,<500
+Viet Nam,2013,Both,600,<500,780
+Viet Nam,2013,Female,<500,<500,<500
+Viet Nam,2013,Male,<500,<500,<500
+Viet Nam,2014,Both,560,<500,730
+Viet Nam,2014,Female,<500,<500,<500
+Viet Nam,2014,Male,<500,<500,<500
+Viet Nam,2015,Both,500,<500,650
+Viet Nam,2015,Female,<500,<200,<500
+Viet Nam,2015,Male,<500,<500,<500
+Viet Nam,2016,Both,<500,<500,610
+Viet Nam,2016,Female,<500,<200,<500
+Viet Nam,2016,Male,<500,<200,<500
+Viet Nam,2017,Both,<500,<500,540
+Viet Nam,2017,Female,<200,<200,<500
+Viet Nam,2017,Male,<500,<200,<500
+Viet Nam,2018,Both,<500,<500,500
+Viet Nam,2018,Female,<200,<200,<500
+Viet Nam,2018,Male,<200,<200,<500
+Viet Nam,2019,Both,<500,<200,<500
+Viet Nam,2019,Female,<200,<100,<200
+Viet Nam,2019,Male,<200,<100,<500
+Yemen,2010,Both,<100,<100,<100
+Yemen,2010,Female,<100,<100,<100
+Yemen,2010,Male,<100,<100,<100
+Yemen,2011,Both,<100,<100,<100
+Yemen,2011,Female,<100,<100,<100
+Yemen,2011,Male,<100,<100,<100
+Yemen,2012,Both,<100,<100,<100
+Yemen,2012,Female,<100,<100,<100
+Yemen,2012,Male,<100,<100,<100
+Yemen,2013,Both,<100,<100,<100
+Yemen,2013,Female,<100,<100,<100
+Yemen,2013,Male,<100,<100,<100
+Yemen,2014,Both,<100,<100,<100
+Yemen,2014,Female,<100,<100,<100
+Yemen,2014,Male,<100,<100,<100
+Yemen,2015,Both,<100,<100,<100
+Yemen,2015,Female,<100,<100,<100
+Yemen,2015,Male,<100,<100,<100
+Yemen,2016,Both,<100,<100,<100
+Yemen,2016,Female,<100,<100,<100
+Yemen,2016,Male,<100,<100,<100
+Yemen,2017,Both,<100,<100,<100
+Yemen,2017,Female,<100,<100,<100
+Yemen,2017,Male,<100,<100,<100
+Yemen,2018,Both,<100,<100,<100
+Yemen,2018,Female,<100,<100,<100
+Yemen,2018,Male,<100,<100,<100
+Yemen,2019,Both,<100,<100,<100
+Yemen,2019,Female,<100,<100,<100
+Yemen,2019,Male,<100,<100,<100
+South Africa,2010,Both,47,36,63
+South Africa,2010,Female,23,18,31
+South Africa,2010,Male,24,18,32
+South Africa,2011,Both,35,27,44
+South Africa,2011,Female,17,13,21
+South Africa,2011,Male,18,14,22
+South Africa,2012,Both,32,24,41
+South Africa,2012,Female,16,12,20
+South Africa,2012,Male,16,12,21
+South Africa,2013,Both,26,20,31
+South Africa,2013,Female,13,"9,7",15
+South Africa,2013,Male,13,10,16
+South Africa,2014,Both,24,18,29
+South Africa,2014,Female,12,"8,7",14
+South Africa,2014,Male,12,9,14
+South Africa,2015,Both,17,13,20
+South Africa,2015,Female,"8,4","6,6",10
+South Africa,2015,Male,"8,6","6,7",10
+South Africa,2016,Both,14,11,19
+South Africa,2016,Female,"6,9","5,3","9,2"
+South Africa,2016,Male,"7,1","5,5","9,4"
+South Africa,2017,Both,15,12,26
+South Africa,2017,Female,"7,4","5,7",13
+South Africa,2017,Male,"7,7","5,9",13
+South Africa,2018,Both,12,"9,4",22
+South Africa,2018,Female,"5,9","4,7",11
+South Africa,2018,Male,"6,1","4,8",11
+South Africa,2019,Both,10,"8,1",20
+South Africa,2019,Female,"5,1",4,"9,9"
+South Africa,2019,Male,"5,3","4,1",10
+Zambia,2010,Both,10,"7,2",13
+Zambia,2010,Female,5,"3,6","6,5"
+Zambia,2010,Male,"5,1","3,6","6,6"
+Zambia,2011,Both,"9,8",7,13
+Zambia,2011,Female,"4,9","3,5","6,3"
+Zambia,2011,Male,"4,9","3,5","6,4"
+Zambia,2012,Both,"9,4","6,7",12
+Zambia,2012,Female,"4,6","3,3",6
+Zambia,2012,Male,"4,7","3,4","6,1"
+Zambia,2013,Both,9,"6,4",12
+Zambia,2013,Female,"4,4","3,2","5,8"
+Zambia,2013,Male,"4,5","3,2","5,9"
+Zambia,2014,Both,"8,6","6,2",11
+Zambia,2014,Female,"4,3","3,1","5,5"
+Zambia,2014,Male,"4,3","3,1","5,6"
+Zambia,2015,Both,"8,2","5,9",11
+Zambia,2015,Female,"4,1","2,9","5,3"
+Zambia,2015,Male,"4,2",3,"5,4"
+Zambia,2016,Both,"8,1","5,8",10
+Zambia,2016,Female,4,"2,9","5,2"
+Zambia,2016,Male,"4,1","2,9","5,3"
+Zambia,2017,Both,"6,7","4,8","8,6"
+Zambia,2017,Female,"3,3","2,4","4,3"
+Zambia,2017,Male,"3,4","2,4","4,3"
+Zambia,2018,Both,"6,4","4,6","8,3"
+Zambia,2018,Female,"3,2","2,3","4,1"
+Zambia,2018,Male,"3,2","2,3","4,2"
+Zambia,2019,Both,6,"4,3","7,8"
+Zambia,2019,Female,3,"2,1","3,9"
+Zambia,2019,Male,3,"2,2","3,9"
+Zimbabwe,2010,Both,16,10,26
+Zimbabwe,2010,Female,"7,8","5,1",13
+Zimbabwe,2010,Male,8,"5,2",13
+Zimbabwe,2011,Both,13,"8,4",21
+Zimbabwe,2011,Female,"6,3","4,2",10
+Zimbabwe,2011,Male,"6,5","4,3",11
+Zimbabwe,2012,Both,"8,5","5,6",14
+Zimbabwe,2012,Female,"4,2","2,8","6,9"
+Zimbabwe,2012,Male,"4,3","2,8","7,1"
+Zimbabwe,2013,Both,8,"5,3",13
+Zimbabwe,2013,Female,4,"2,6","6,5"
+Zimbabwe,2013,Male,4,"2,7","6,6"
+Zimbabwe,2014,Both,"7,6",5,13
+Zimbabwe,2014,Female,"3,8","2,5","6,2"
+Zimbabwe,2014,Male,"3,9","2,5","6,4"
+Zimbabwe,2015,Both,"7,3","4,8",12
+Zimbabwe,2015,Female,"3,6","2,4",6
+Zimbabwe,2015,Male,"3,7","2,4","6,1"
+Zimbabwe,2016,Both,"6,5","4,3",11
+Zimbabwe,2016,Female,"3,2","2,1","5,3"
+Zimbabwe,2016,Male,"3,3","2,1","5,4"
+Zimbabwe,2017,Both,"5,9","3,9","9,8"
+Zimbabwe,2017,Female,"2,9","1,9","4,8"
+Zimbabwe,2017,Male,3,2,"4,9"
+Zimbabwe,2018,Both,"5,5","3,6",9
+Zimbabwe,2018,Female,"2,7","1,8","4,5"
+Zimbabwe,2018,Male,"2,8","1,8","4,6"
+Zimbabwe,2019,Both,"5,2","3,4","8,6"
+Zimbabwe,2019,Female,"2,6","1,7","4,2"
+Zimbabwe,2019,Male,"2,6","1,7","4,3"
+East Asia and Pacific,2010,Both,"8,8","5,8",12
+East Asia and Pacific,2010,Female,"4,3","2,8","5,8"
+East Asia and Pacific,2010,Male,"4,6",3,"6,2"
+East Asia and Pacific,2011,Both,"8,9","5,9",12
+East Asia and Pacific,2011,Female,"4,3","2,9","5,8"
+East Asia and Pacific,2011,Male,"4,6",3,"6,2"
+East Asia and Pacific,2012,Both,9,"5,9",12
+East Asia and Pacific,2012,Female,"4,3","2,9","5,9"
+East Asia and Pacific,2012,Male,"4,6",3,"6,3"
+East Asia and Pacific,2013,Both,"8,8","5,8",12
+East Asia and Pacific,2013,Female,"4,3","2,8","5,8"
+East Asia and Pacific,2013,Male,"4,5",3,"6,2"
+East Asia and Pacific,2014,Both,"8,5","5,6",12
+East Asia and Pacific,2014,Female,"4,1","2,8","5,6"
+East Asia and Pacific,2014,Male,"4,4","2,9",6
+East Asia and Pacific,2015,Both,"8,2","5,4",11
+East Asia and Pacific,2015,Female,4,"2,6","5,4"
+East Asia and Pacific,2015,Male,"4,2","2,8","5,7"
+East Asia and Pacific,2016,Both,8,"5,3",11
+East Asia and Pacific,2016,Female,"3,9","2,6","5,3"
+East Asia and Pacific,2016,Male,"4,1","2,7","5,6"
+East Asia and Pacific,2017,Both,"7,8","5,1",11
+East Asia and Pacific,2017,Female,"3,8","2,5","5,1"
+East Asia and Pacific,2017,Male,4,"2,6","5,4"
+East Asia and Pacific,2018,Both,"7,5",5,10
+East Asia and Pacific,2018,Female,"3,6","2,4","4,9"
+East Asia and Pacific,2018,Male,"3,9","2,6","5,3"
+East Asia and Pacific,2019,Both,"7,1","4,7","9,7"
+East Asia and Pacific,2019,Female,"3,5","2,3","4,7"
+East Asia and Pacific,2019,Male,"3,7","2,4",5
+Eastern and Southern Africa,2010,Both,200,140,320
+Eastern and Southern Africa,2010,Female,100,67,160
+Eastern and Southern Africa,2010,Male,100,69,160
+Eastern and Southern Africa,2011,Both,170,110,270
+Eastern and Southern Africa,2011,Female,83,56,130
+Eastern and Southern Africa,2011,Male,85,57,130
+Eastern and Southern Africa,2012,Both,140,95,220
+Eastern and Southern Africa,2012,Female,70,47,110
+Eastern and Southern Africa,2012,Male,71,48,110
+Eastern and Southern Africa,2013,Both,130,87,210
+Eastern and Southern Africa,2013,Female,64,43,100
+Eastern and Southern Africa,2013,Male,66,44,100
+Eastern and Southern Africa,2014,Both,120,81,190
+Eastern and Southern Africa,2014,Female,59,40,94
+Eastern and Southern Africa,2014,Male,61,41,96
+Eastern and Southern Africa,2015,Both,100,70,160
+Eastern and Southern Africa,2015,Female,51,34,81
+Eastern and Southern Africa,2015,Male,53,35,83
+Eastern and Southern Africa,2016,Both,99,66,160
+Eastern and Southern Africa,2016,Female,49,33,77
+Eastern and Southern Africa,2016,Male,50,34,79
+Eastern and Southern Africa,2017,Both,92,62,150
+Eastern and Southern Africa,2017,Female,45,30,72
+Eastern and Southern Africa,2017,Male,46,31,74
+Eastern and Southern Africa,2018,Both,80,54,130
+Eastern and Southern Africa,2018,Female,40,27,63
+Eastern and Southern Africa,2018,Male,41,27,64
+Eastern and Southern Africa,2019,Both,75,51,120
+Eastern and Southern Africa,2019,Female,37,25,59
+Eastern and Southern Africa,2019,Male,38,26,60
+Latin America and Caribbean,2010,Both,"6,9","4,3",11
+Latin America and Caribbean,2010,Female,"3,4","2,1","5,4"
+Latin America and Caribbean,2010,Male,"3,5","2,2","5,7"
+Latin America and Caribbean,2011,Both,"6,4",4,10
+Latin America and Caribbean,2011,Female,"3,1","1,9",5
+Latin America and Caribbean,2011,Male,"3,3",2,"5,3"
+Latin America and Caribbean,2012,Both,"5,9","3,6","9,5"
+Latin America and Caribbean,2012,Female,"2,9","1,8","4,6"
+Latin America and Caribbean,2012,Male,3,"1,9","4,8"
+Latin America and Caribbean,2013,Both,"5,5","3,4","8,8"
+Latin America and Caribbean,2013,Female,"2,7","1,6","4,3"
+Latin America and Caribbean,2013,Male,"2,8","1,7","4,5"
+Latin America and Caribbean,2014,Both,"5,3","3,3","8,5"
+Latin America and Caribbean,2014,Female,"2,6","1,6","4,1"
+Latin America and Caribbean,2014,Male,"2,7","1,7","4,4"
+Latin America and Caribbean,2015,Both,"5,2","3,2","8,4"
+Latin America and Caribbean,2015,Female,"2,5","1,6","4,1"
+Latin America and Caribbean,2015,Male,"2,7","1,6","4,3"
+Latin America and Caribbean,2016,Both,"5,1","3,1","8,2"
+Latin America and Caribbean,2016,Female,"2,5","1,5",4
+Latin America and Caribbean,2016,Male,"2,6","1,6","4,2"
+Latin America and Caribbean,2017,Both,"4,8",3,"7,7"
+Latin America and Caribbean,2017,Female,"2,3","1,4","3,7"
+Latin America and Caribbean,2017,Male,"2,4","1,5","3,9"
+Latin America and Caribbean,2018,Both,"4,5","2,8","7,2"
+Latin America and Caribbean,2018,Female,"2,2","1,4","3,5"
+Latin America and Caribbean,2018,Male,"2,3","1,4","3,7"
+Latin America and Caribbean,2019,Both,"4,4","2,7",7
+Latin America and Caribbean,2019,Female,"2,1","1,3","3,4"
+Latin America and Caribbean,2019,Male,"2,2","1,4","3,6"
+Middle East and North Africa,2010,Both,<500,<500,890
+Middle East and North Africa,2010,Female,<500,<200,<500
+Middle East and North Africa,2010,Male,<500,<200,<500
+Middle East and North Africa,2011,Both,<500,<500,980
+Middle East and North Africa,2011,Female,<500,<200,<500
+Middle East and North Africa,2011,Male,<500,<200,500
+Middle East and North Africa,2012,Both,510,<500,1
+Middle East and North Africa,2012,Female,<500,<200,<500
+Middle East and North Africa,2012,Male,<500,<200,520
+Middle East and North Africa,2013,Both,510,<500,1
+Middle East and North Africa,2013,Female,<500,<200,<500
+Middle East and North Africa,2013,Male,<500,<200,520
+Middle East and North Africa,2014,Both,540,<500,"1,1"
+Middle East and North Africa,2014,Female,<500,<200,530
+Middle East and North Africa,2014,Male,<500,<200,550
+Middle East and North Africa,2015,Both,570,<500,"1,1"
+Middle East and North Africa,2015,Female,<500,<200,550
+Middle East and North Africa,2015,Male,<500,<200,580
+Middle East and North Africa,2016,Both,540,<500,"1,1"
+Middle East and North Africa,2016,Female,<500,<200,520
+Middle East and North Africa,2016,Male,<500,<200,550
+Middle East and North Africa,2017,Both,550,<500,"1,1"
+Middle East and North Africa,2017,Female,<500,<200,530
+Middle East and North Africa,2017,Male,<500,<200,560
+Middle East and North Africa,2018,Both,560,<500,"1,1"
+Middle East and North Africa,2018,Female,<500,<200,540
+Middle East and North Africa,2018,Male,<500,<200,570
+Middle East and North Africa,2019,Both,580,<500,"1,2"
+Middle East and North Africa,2019,Female,<500,<200,560
+Middle East and North Africa,2019,Male,<500,<200,590
+South Asia,2010,Both,"9,8","5,2",15
+South Asia,2010,Female,"4,7","2,5",7
+South Asia,2010,Male,"5,1","2,7","7,7"
+South Asia,2011,Both,"9,6","5,1",14
+South Asia,2011,Female,"4,6","2,4","6,9"
+South Asia,2011,Male,5,"2,7","7,6"
+South Asia,2012,Both,"9,2","4,9",14
+South Asia,2012,Female,"4,4","2,3","6,6"
+South Asia,2012,Male,"4,8","2,5","7,2"
+South Asia,2013,Both,"9,4",5,14
+South Asia,2013,Female,"4,5","2,4","6,8"
+South Asia,2013,Male,"4,9","2,6","7,4"
+South Asia,2014,Both,"8,8","4,7",13
+South Asia,2014,Female,"4,2","2,2","6,4"
+South Asia,2014,Male,"4,6","2,5",7
+South Asia,2015,Both,"9,2","4,9",14
+South Asia,2015,Female,"4,4","2,3","6,6"
+South Asia,2015,Male,"4,8","2,6","7,2"
+South Asia,2016,Both,"8,3","4,4",13
+South Asia,2016,Female,4,"2,1",6
+South Asia,2016,Male,"4,4","2,3","6,6"
+South Asia,2017,Both,"8,2","4,4",12
+South Asia,2017,Female,"3,9","2,1","5,9"
+South Asia,2017,Male,"4,3","2,3","6,5"
+South Asia,2018,Both,"8,1","4,3",12
+South Asia,2018,Female,"3,9","2,1","5,9"
+South Asia,2018,Male,"4,3","2,3","6,4"
+South Asia,2019,Both,8,"4,3",12
+South Asia,2019,Female,"3,8",2,"5,8"
+South Asia,2019,Male,"4,2","2,2","6,3"
+Sub-Saharan Africa,2010,Both,280,180,450
+Sub-Saharan Africa,2010,Female,140,89,220
+Sub-Saharan Africa,2010,Male,140,91,230
+Sub-Saharan Africa,2011,Both,250,160,390
+Sub-Saharan Africa,2011,Female,120,77,190
+Sub-Saharan Africa,2011,Male,120,79,200
+Sub-Saharan Africa,2012,Both,210,140,340
+Sub-Saharan Africa,2012,Female,110,67,170
+Sub-Saharan Africa,2012,Male,110,69,170
+Sub-Saharan Africa,2013,Both,190,120,310
+Sub-Saharan Africa,2013,Female,96,61,150
+Sub-Saharan Africa,2013,Male,99,62,160
+Sub-Saharan Africa,2014,Both,180,110,280
+Sub-Saharan Africa,2014,Female,88,55,140
+Sub-Saharan Africa,2014,Male,90,57,140
+Sub-Saharan Africa,2015,Both,160,100,250
+Sub-Saharan Africa,2015,Female,78,50,120
+Sub-Saharan Africa,2015,Male,81,51,130
+Sub-Saharan Africa,2016,Both,150,95,240
+Sub-Saharan Africa,2016,Female,74,47,120
+Sub-Saharan Africa,2016,Male,76,48,120
+Sub-Saharan Africa,2017,Both,140,91,230
+Sub-Saharan Africa,2017,Female,71,45,110
+Sub-Saharan Africa,2017,Male,73,46,120
+Sub-Saharan Africa,2018,Both,130,84,210
+Sub-Saharan Africa,2018,Female,65,41,100
+Sub-Saharan Africa,2018,Male,68,43,110
+Sub-Saharan Africa,2019,Both,130,80,200
+Sub-Saharan Africa,2019,Female,62,39,99
+Sub-Saharan Africa,2019,Male,64,41,100
+West and Central Africa,2010,Both,81,47,130
+West and Central Africa,2010,Female,40,23,64
+West and Central Africa,2010,Male,42,24,67
+West and Central Africa,2011,Both,78,45,130
+West and Central Africa,2011,Female,38,22,62
+West and Central Africa,2011,Male,40,23,64
+West and Central Africa,2012,Both,73,42,120
+West and Central Africa,2012,Female,36,20,57
+West and Central Africa,2012,Male,37,21,59
+West and Central Africa,2013,Both,65,37,100
+West and Central Africa,2013,Female,32,18,51
+West and Central Africa,2013,Male,33,19,53
+West and Central Africa,2014,Both,59,33,94
+West and Central Africa,2014,Female,29,16,46
+West and Central Africa,2014,Male,30,17,48
+West and Central Africa,2015,Both,56,32,89
+West and Central Africa,2015,Female,27,16,44
+West and Central Africa,2015,Male,28,16,46
+West and Central Africa,2016,Both,52,30,83
+West and Central Africa,2016,Female,25,15,41
+West and Central Africa,2016,Male,26,15,43
+West and Central Africa,2017,Both,52,30,84
+West and Central Africa,2017,Female,26,15,41
+West and Central Africa,2017,Male,27,15,43
+West and Central Africa,2018,Both,53,30,85
+West and Central Africa,2018,Female,26,15,41
+West and Central Africa,2018,Male,27,15,43
+West and Central Africa,2019,Both,51,29,82
+West and Central Africa,2019,Female,25,14,40
+West and Central Africa,2019,Male,26,15,42
