@@ -1,931 +1,931 @@
-Country;Region;Year;Percentage;Lower;Upper;Number,
-Afghanistan;South Asia;2010;<1;<1;1.8;0,
-Afghanistan;South Asia;2011;1.8;<1;4.3;10,
-Afghanistan;South Asia;2012;2.0;<1;4.7;10,
-Afghanistan;South Asia;2013;3.4;1.7;8.1;10,
-Afghanistan;South Asia;2014;4.6;2.2;11.1;20,
-Afghanistan;South Asia;2015;6.9;3.3;17.7;30,
-Afghanistan;South Asia;2016;9.2;4.2;23.5;40,
-Afghanistan;South Asia;2017;13.0;5.8;35.9;60,
-Afghanistan;South Asia;2018;13.3;5.9;36.1;60,
-Afghanistan;South Asia;2019;12.3;5.2;35.9;60,
-Angola;Eastern and Southern Africa;2010;6.0;5.0;7.4;1,5
-Angola;Eastern and Southern Africa;2011;6.8;5.7;8.4;1,8
-Angola;Eastern and Southern Africa;2012;8.3;6.9;10.2;2,3
-Angola;Eastern and Southern Africa;2013;9.5;7.9;11.6;2,7
-Angola;Eastern and Southern Africa;2014;11.2;9.2;13.7;3,3
-Angola;Eastern and Southern Africa;2015;14.1;11.5;17.4;4,2
-Angola;Eastern and Southern Africa;2016;10.3;8.3;12.7;3,2
-Angola;Eastern and Southern Africa;2017;12.1;9.9;15.0;3,8
-Angola;Eastern and Southern Africa;2018;15.2;12.1;19.1;4,8
-Angola;Eastern and Southern Africa;2019;16.3;12.8;20.6;5,1
-Australia;East Asia and Pacific;2010;68.8;60.2;77.3;10,
-Australia;East Asia and Pacific;2011;73.3;58.7;83.1;10,
-Australia;East Asia and Pacific;2012;76.9;65.1;94.7;10,
-Australia;East Asia and Pacific;2013;83.3;69.4;>95;10,
-Australia;East Asia and Pacific;2014;90.9;66.1;>95;10,
-Australia;East Asia and Pacific;2015;>95;75.0;>95;10,
-Australia;East Asia and Pacific;2016;>95;76.9;>95;10,
-Australia;East Asia and Pacific;2017;92.9;66.3;>95;10,
-Australia;East Asia and Pacific;2018;>95;78.6;>95;10,
-Australia;East Asia and Pacific;2019;>95;73.3;>95;20,
-Azerbaijan;Eastern Europe and Central Asia;2010;7.2;4.7;10.6;10,
-Azerbaijan;Eastern Europe and Central Asia;2011;11.0;7.4;15.9;20,
-Azerbaijan;Eastern Europe and Central Asia;2012;18.5;13.1;26.6;30,
-Azerbaijan;Eastern Europe and Central Asia;2013;27.4;19.2;38.9;40,
-Azerbaijan;Eastern Europe and Central Asia;2014;41.3;28.8;57.3;60,
-Azerbaijan;Eastern Europe and Central Asia;2015;48.7;34.2;68.0;80,
-Azerbaijan;Eastern Europe and Central Asia;2016;53.2;37.3;73.6;80,
-Azerbaijan;Eastern Europe and Central Asia;2017;61.6;43.6;84.8;90,
-Azerbaijan;Eastern Europe and Central Asia;2018;70.9;51.3;>95;110,
-Azerbaijan;Eastern Europe and Central Asia;2019;75.8;54.0;>95;110,
-Burundi;Eastern and Southern Africa;2010;10.8;8.6;13.2;1,8
-Burundi;Eastern and Southern Africa;2011;12.1;9.6;15.0;1,9
-Burundi;Eastern and Southern Africa;2012;13.5;10.7;16.9;2,
-Burundi;Eastern and Southern Africa;2013;15.4;12.2;19.5;2,2
-Burundi;Eastern and Southern Africa;2014;18.2;14.4;23.2;2,4
-Burundi;Eastern and Southern Africa;2015;21.3;16.5;26.8;2,7
-Burundi;Eastern and Southern Africa;2016;26.3;20.2;33.2;3,1
-Burundi;Eastern and Southern Africa;2017;31.0;23.6;40.0;3,3
-Burundi;Eastern and Southern Africa;2018;33.4;25.2;43.4;3,4
-Burundi;Eastern and Southern Africa;2019;38.6;29.0;50.9;3,6
-Benin;West and Central Africa;2010;16.3;9.7;28.2;1,3
-Benin;West and Central Africa;2011;20.3;12.1;35.0;1,6
-Benin;West and Central Africa;2012;23.9;14.3;41.3;1,9
-Benin;West and Central Africa;2013;17.7;10.6;30.6;1,4
-Benin;West and Central Africa;2014;21.4;12.7;36.9;1,6
-Benin;West and Central Africa;2015;25.8;15.4;44.6;1,8
-Benin;West and Central Africa;2016;29.9;17.8;51.7;2,
-Benin;West and Central Africa;2017;28.7;17.1;49.6;1,8
-Benin;West and Central Africa;2018;33.9;20.2;58.6;2,
-Benin;West and Central Africa;2019;40.9;24.4;70.6;2,3
-Burkina Faso;West and Central Africa;2010;7.4;5.6;9.2;1,4
-Burkina Faso;West and Central Africa;2011;9.8;7.3;12.5;1,8
-Burkina Faso;West and Central Africa;2012;10.2;7.4;13.0;1,7
-Burkina Faso;West and Central Africa;2013;11.5;8.2;14.7;1,9
-Burkina Faso;West and Central Africa;2014;14.8;10.4;19.1;2,2
-Burkina Faso;West and Central Africa;2015;12.2;8.5;15.9;1,7
-Burkina Faso;West and Central Africa;2016;20.1;13.9;26.4;2,5
-Burkina Faso;West and Central Africa;2017;22.7;15.7;30.2;2,6
-Burkina Faso;West and Central Africa;2018;19.7;13.5;26.9;2,1
-Burkina Faso;West and Central Africa;2019;28.7;19.6;39.4;2,8
-Belarus;Eastern Europe and Central Asia;2010;>95;72.4;>95;120,
-Belarus;Eastern Europe and Central Asia;2011;>95;71.4;>95;140,
-Belarus;Eastern Europe and Central Asia;2012;>95;69.2;>95;150,
-Belarus;Eastern Europe and Central Asia;2013;>95;75.7;>95;170,
-Belarus;Eastern Europe and Central Asia;2014;>95;76.5;>95;190,
-Belarus;Eastern Europe and Central Asia;2015;>95;81.5;>95;220,
-Belarus;Eastern Europe and Central Asia;2016;>95;83.7;>95;240,
-Belarus;Eastern Europe and Central Asia;2017;>95;72.2;>95;220,
-Belarus;Eastern Europe and Central Asia;2018;>95;71.3;>95;220,
-Belarus;Eastern Europe and Central Asia;2019;87.9;67.0;>95;200,
-Bolivia (Plurinational State of);Latin America and Caribbean;2010;5.5;4.4;6.8;60,
-Bolivia (Plurinational State of);Latin America and Caribbean;2011;5.8;4.7;7.1;60,
-Bolivia (Plurinational State of);Latin America and Caribbean;2012;9.5;7.7;11.3;90,
-Bolivia (Plurinational State of);Latin America and Caribbean;2013;12.6;10.3;15.3;100,
-Bolivia (Plurinational State of);Latin America and Caribbean;2014;15.0;12.1;18.2;110,
-Bolivia (Plurinational State of);Latin America and Caribbean;2015;25.7;21.0;31.0;170,
-Bolivia (Plurinational State of);Latin America and Caribbean;2016;33.1;27.1;40.2;200,
-Bolivia (Plurinational State of);Latin America and Caribbean;2017;39.7;32.1;49.5;220,
-Bolivia (Plurinational State of);Latin America and Caribbean;2018;48.5;38.7;60.8;250,
-Bolivia (Plurinational State of);Latin America and Caribbean;2019;58.7;46.0;74.1;280,
-Central African Republic;West and Central Africa;2010;6.6;5.4;8.0;830,
-Central African Republic;West and Central Africa;2011;5.9;4.7;7.0;700,
-Central African Republic;West and Central Africa;2012;7.2;5.7;8.7;820,
-Central African Republic;West and Central Africa;2013;8.5;6.7;10.3;920,
-Central African Republic;West and Central Africa;2014;15.4;12.1;18.7;1,6
-Central African Republic;West and Central Africa;2015;25.7;19.9;31.8;2,4
-Central African Republic;West and Central Africa;2016;18.8;14.5;23.9;1,6
-Central African Republic;West and Central Africa;2017;27.1;20.6;35.1;2,2
-Central African Republic;West and Central Africa;2018;33.3;24.8;43.3;2,5
-Central African Republic;West and Central Africa;2019;45.8;33.8;60.6;3,2
-Chile;Latin America and Caribbean;2010;94.1;85.9;>95;210,
-Chile;Latin America and Caribbean;2011;86.9;78.6;>95;200,
-Chile;Latin America and Caribbean;2012;73.3;65.5;81.7;170,
-Chile;Latin America and Caribbean;2013;72.1;64.4;79.8;170,
-Chile;Latin America and Caribbean;2014;74.0;65.4;82.7;170,
-Chile;Latin America and Caribbean;2015;61.5;53.9;69.2;140,
-Chile;Latin America and Caribbean;2016;70.4;61.6;79.9;160,
-Chile;Latin America and Caribbean;2017;64.0;55.0;73.6;150,
-Chile;Latin America and Caribbean;2018;60.7;52.6;69.4;140,
-Chile;Latin America and Caribbean;2019;68.5;59.2;78.0;150,
-Cote d'Ivoire;West and Central Africa;2010;7.0;5.9;8.0;4,3
-Cote d'Ivoire;West and Central Africa;2011;8.7;7.2;9.9;5,1
-Cote d'Ivoire;West and Central Africa;2012;10.1;8.3;11.5;5,6
-Cote d'Ivoire;West and Central Africa;2013;13.1;10.6;15.1;6,8
-Cote d'Ivoire;West and Central Africa;2014;14.4;11.6;16.6;6,9
-Cote d'Ivoire;West and Central Africa;2015;17.2;13.8;20.1;7,7
-Cote d'Ivoire;West and Central Africa;2016;22.3;17.5;26.2;9,2
-Cote d'Ivoire;West and Central Africa;2017;39.9;30.8;47.4;14,9
-Cote d'Ivoire;West and Central Africa;2018;35.9;27.1;43.2;12,3
-Cote d'Ivoire;West and Central Africa;2019;35.7;26.3;43.5;11,3
-Cameroon;West and Central Africa;2010;8.1;6.7;9.1;4,
-Cameroon;West and Central Africa;2011;9.1;7.4;10.2;4,4
-Cameroon;West and Central Africa;2012;10.5;8.4;11.9;5,
-Cameroon;West and Central Africa;2013;12.3;9.8;14.0;5,6
-Cameroon;West and Central Africa;2014;13.9;11.0;16.0;6,1
-Cameroon;West and Central Africa;2015;17.3;13.7;20.0;7,1
-Cameroon;West and Central Africa;2016;22.1;17.5;25.8;8,5
-Cameroon;West and Central Africa;2017;27.5;21.7;32.4;9,8
-Cameroon;West and Central Africa;2018;30.9;24.1;37.0;10,3
-Cameroon;West and Central Africa;2019;33.0;25.2;40.0;10,4
-Democratic Republic of the Congo;West and Central Africa;2010;2.6;2.1;3.1;2,2
-Democratic Republic of the Congo;West and Central Africa;2011;7.3;5.8;8.7;6,1
-Democratic Republic of the Congo;West and Central Africa;2012;6.1;4.8;7.3;5,
-Democratic Republic of the Congo;West and Central Africa;2013;6.2;4.9;7.4;5,
-Democratic Republic of the Congo;West and Central Africa;2014;11.0;8.6;13.3;8,5
-Democratic Republic of the Congo;West and Central Africa;2015;14.0;10.9;17.0;10,4
-Democratic Republic of the Congo;West and Central Africa;2016;19.8;15.2;24.3;14,3
-Democratic Republic of the Congo;West and Central Africa;2017;24.6;18.6;30.5;17,5
-Democratic Republic of the Congo;West and Central Africa;2018;22.8;17.2;28.4;16,
-Democratic Republic of the Congo;West and Central Africa;2019;27.8;20.9;34.9;19,
-Congo;West and Central Africa;2010;11.9;9.7;14.0;970,
-Congo;West and Central Africa;2011;13.1;10.6;15.5;1,1
-Congo;West and Central Africa;2012;14.3;11.5;16.8;1,1
-Congo;West and Central Africa;2013;14.7;11.7;17.4;1,2
-Congo;West and Central Africa;2014;18.3;14.5;22.1;1,5
-Congo;West and Central Africa;2015;18.3;14.3;22.2;1,4
-Congo;West and Central Africa;2016;19.0;14.8;22.9;1,5
-Congo;West and Central Africa;2017;21.1;16.3;25.9;1,7
-Congo;West and Central Africa;2018;25.0;18.8;31.4;2,
-Congo;West and Central Africa;2019;17.6;13.1;23.0;1,4
-Costa Rica;Latin America and Caribbean;2010;41.1;30.7;51.7;60,
-Costa Rica;Latin America and Caribbean;2011;39.6;29.7;49.8;60,
-Costa Rica;Latin America and Caribbean;2012;38.0;28.6;47.6;60,
-Costa Rica;Latin America and Caribbean;2013;36.2;27.2;44.3;60,
-Costa Rica;Latin America and Caribbean;2014;33.9;25.9;41.3;60,
-Costa Rica;Latin America and Caribbean;2015;33.7;25.8;41.0;70,
-Costa Rica;Latin America and Caribbean;2016;33.5;25.6;40.7;70,
-Costa Rica;Latin America and Caribbean;2017;32.9;25.2;39.8;70,
-Costa Rica;Latin America and Caribbean;2018;39.4;30.4;47.8;80,
-Costa Rica;Latin America and Caribbean;2019;42.6;32.7;51.9;90,
-Cuba;Latin America and Caribbean;2010;23.9;12.0;35.1;20,
-Cuba;Latin America and Caribbean;2011;25.6;13.1;38.6;20,
-Cuba;Latin America and Caribbean;2012;26.4;13.9;42.0;20,
-Cuba;Latin America and Caribbean;2013;27.3;13.5;43.3;30,
-Cuba;Latin America and Caribbean;2014;26.2;12.2;41.8;30,
-Cuba;Latin America and Caribbean;2015;26.7;12.7;44.2;30,
-Cuba;Latin America and Caribbean;2016;26.4;12.7;44.9;30,
-Cuba;Latin America and Caribbean;2017;27.6;12.9;48.1;30,
-Cuba;Latin America and Caribbean;2018;27.0;13.0;48.3;30,
-Cuba;Latin America and Caribbean;2019;34.4;16.8;62.7;30,
-Djibouti;Eastern and Southern Africa;2010;2.7;2.1;3.6;40,
-Djibouti;Eastern and Southern Africa;2011;2.8;2.1;3.8;40,
-Djibouti;Eastern and Southern Africa;2012;3.0;2.2;4.1;40,
-Djibouti;Eastern and Southern Africa;2013;3.7;2.7;5.2;50,
-Djibouti;Eastern and Southern Africa;2014;4.6;3.3;6.7;50,
-Djibouti;Eastern and Southern Africa;2015;7.4;5.1;10.8;70,
-Djibouti;Eastern and Southern Africa;2016;8.7;6.0;13.3;80,
-Djibouti;Eastern and Southern Africa;2017;10.2;6.9;15.9;80,
-Djibouti;Eastern and Southern Africa;2018;11.4;7.6;18.5;80,
-Djibouti;Eastern and Southern Africa;2019;13.8;9.0;22.7;90,
-Dominican Republic;Latin America and Caribbean;2010;33.5;26.8;45.2;950,
-Dominican Republic;Latin America and Caribbean;2011;38.6;31.0;52.3;1,
-Dominican Republic;Latin America and Caribbean;2012;43.7;35.6;58.2;1,1
-Dominican Republic;Latin America and Caribbean;2013;43.6;35.5;58.2;1,
-Dominican Republic;Latin America and Caribbean;2014;42.7;34.5;56.4;900,
-Dominican Republic;Latin America and Caribbean;2015;41.9;33.6;56.0;810,
-Dominican Republic;Latin America and Caribbean;2016;44.2;35.3;59.9;780,
-Dominican Republic;Latin America and Caribbean;2017;49.0;39.5;66.8;780,
-Dominican Republic;Latin America and Caribbean;2018;54.0;43.9;73.7;780,
-Dominican Republic;Latin America and Caribbean;2019;46.7;37.8;63.4;630,
-Algeria;Middle East and North Africa;2010;53.3;32.1;74.9;110,
-Algeria;Middle East and North Africa;2011;87.7;51.2;>95;200,
-Algeria;Middle East and North Africa;2012;>95;56.5;>95;260,
-Algeria;Middle East and North Africa;2013;>95;76.9;>95;440,
-Algeria;Middle East and North Africa;2014;>95;71.6;>95;510,
-Algeria;Middle East and North Africa;2015;>95;66.1;>95;580,
-Algeria;Middle East and North Africa;2016;>95;59.7;>95;640,
-Algeria;Middle East and North Africa;2017;>95;52.7;>95;700,
-Algeria;Middle East and North Africa;2018;>95;47.7;>95;770,
-Algeria;Middle East and North Africa;2019;>95;45.1;>95;890,
-Ecuador;Latin America and Caribbean;2010;42.0;28.6;68.4;400,
-Ecuador;Latin America and Caribbean;2011;32.3;22.3;51.9;310,
-Ecuador;Latin America and Caribbean;2012;32.6;22.7;53.6;320,
-Ecuador;Latin America and Caribbean;2013;36.6;25.9;62.3;350,
-Ecuador;Latin America and Caribbean;2014;40.1;28.3;69.4;390,
-Ecuador;Latin America and Caribbean;2015;46.0;32.7;81.2;450,
-Ecuador;Latin America and Caribbean;2016;52.3;36.7;90.6;520,
-Ecuador;Latin America and Caribbean;2017;56.5;39.5;>95;560,
-Ecuador;Latin America and Caribbean;2018;54.4;37.8;94.8;540,
-Ecuador;Latin America and Caribbean;2019;60.0;41.5;>95;580,
-Egypt;Middle East and North Africa;2010;23.0;16.2;37.8;30,
-Egypt;Middle East and North Africa;2011;25.2;18.4;39.1;40,
-Egypt;Middle East and North Africa;2012;22.7;16.9;34.0;40,
-Egypt;Middle East and North Africa;2013;25.2;19.1;38.0;50,
-Egypt;Middle East and North Africa;2014;26.6;20.1;38.3;70,
-Egypt;Middle East and North Africa;2015;25.6;19.4;35.8;70,
-Egypt;Middle East and North Africa;2016;28.7;21.2;39.5;100,
-Egypt;Middle East and North Africa;2017;37.0;26.9;50.0;140,
-Egypt;Middle East and North Africa;2018;38.9;28.1;52.0;180,
-Egypt;Middle East and North Africa;2019;47.6;34.2;63.5;260,
-Eritrea;Eastern and Southern Africa;2010;10.6;7.8;14.5;230,
-Eritrea;Eastern and Southern Africa;2011;13.6;10.0;18.8;280,
-Eritrea;Eastern and Southern Africa;2012;17.1;12.3;23.8;340,
-Eritrea;Eastern and Southern Africa;2013;20.4;14.4;28.9;380,
-Eritrea;Eastern and Southern Africa;2014;24.0;16.9;34.1;410,
-Eritrea;Eastern and Southern Africa;2015;27.5;19.2;39.0;440,
-Eritrea;Eastern and Southern Africa;2016;34.2;23.9;49.1;520,
-Eritrea;Eastern and Southern Africa;2017;31.7;21.6;46.2;450,
-Eritrea;Eastern and Southern Africa;2018;38.1;25.3;56.4;500,
-Eritrea;Eastern and Southern Africa;2019;36.7;23.9;55.2;440,
-Spain;Western Europe;2010;78.9;66.5;92.2;80,
-Spain;Western Europe;2011;81.1;68.3;94.7;80,
-Spain;Western Europe;2012;84.2;70.9;>95;80,
-Spain;Western Europe;2013;86.3;72.7;>95;80,
-Spain;Western Europe;2014;88.4;74.5;>95;80,
-Spain;Western Europe;2015;>95;81.5;>95;90,
-Spain;Western Europe;2016;>95;84.0;>95;90,
-Spain;Western Europe;2017;>95;85.9;>95;90,
-Spain;Western Europe;2018;>95;83.9;>95;90,
-Spain;Western Europe;2019;>95;83.7;>95;90,
-Ethiopia;Eastern and Southern Africa;2010;14.6;9.2;21.8;13,
-Ethiopia;Eastern and Southern Africa;2011;19.3;12.2;28.8;16,
-Ethiopia;Eastern and Southern Africa;2012;23.2;14.7;34.6;17,7
-Ethiopia;Eastern and Southern Africa;2013;27.1;17.1;40.4;19,
-Ethiopia;Eastern and Southern Africa;2014;35.0;22.1;52.2;22,6
-Ethiopia;Eastern and Southern Africa;2015;33.8;21.4;50.5;20,1
-Ethiopia;Eastern and Southern Africa;2016;39.7;25.1;59.2;21,9
-Ethiopia;Eastern and Southern Africa;2017;42.7;27.0;63.7;21,9
-Ethiopia;Eastern and Southern Africa;2018;45.5;28.7;67.8;21,5
-Ethiopia;Eastern and Southern Africa;2019;48.2;30.5;71.9;21,3
-France;Western Europe;2010;79.4;69.6;89.2;150,
-France;Western Europe;2011;80.2;70.7;90.1;160,
-France;Western Europe;2012;83.3;74.1;93.6;170,
-France;Western Europe;2013;86.5;77.7;>95;190,
-France;Western Europe;2014;94.6;84.4;>95;210,
-France;Western Europe;2015;>95;91.0;>95;230,
-France;Western Europe;2016;>95;90.9;>95;240,
-France;Western Europe;2017;>95;89.8;>95;240,
-France;Western Europe;2018;>95;88.6;>95;240,
-France;Western Europe;2019;>95;88.6;>95;240,
-Gabon;West and Central Africa;2010;11.2;8.3;14.7;370,
-Gabon;West and Central Africa;2011;12.5;9.4;16.4;410,
-Gabon;West and Central Africa;2012;15.1;11.2;19.9;490,
-Gabon;West and Central Africa;2013;23.0;16.9;30.4;730,
-Gabon;West and Central Africa;2014;35.1;25.7;46.3;1,1
-Gabon;West and Central Africa;2015;45.3;32.6;60.1;1,4
-Gabon;West and Central Africa;2016;48.6;33.8;64.6;1,4
-Gabon;West and Central Africa;2017;54.4;36.0;73.6;1,6
-Gabon;West and Central Africa;2018;63.9;40.3;86.5;1,9
-Gabon;West and Central Africa;2019;22.6;13.9;31.1;640,
-Ghana;West and Central Africa;2010;7.0;5.6;8.1;25.5,
-Ghana;West and Central Africa;2011;8.9;7.1;10.5;2,4
-Ghana;West and Central Africa;2012;10.8;8.5;12.9;3,
-Ghana;West and Central Africa;2013;12.3;9.4;14.9;3,5
-Ghana;West and Central Africa;2014;14.7;11.0;18.3;3,9
-Ghana;West and Central Africa;2015;11.9;8.7;15.2;4,6
-Ghana;West and Central Africa;2016;14.7;10.5;19.3;3,7
-Ghana;West and Central Africa;2017;17.8;12.2;23.9;4,4
-Ghana;West and Central Africa;2018;21.7;14.2;29.7;5,
-Ghana;West and Central Africa;2019;25.5;16.1;36.7;5,9
-Guinea;West and Central Africa;2010;6.9;5.6;8.5;860,
-Guinea;West and Central Africa;2011;7.0;5.7;8.6;860,
-Guinea;West and Central Africa;2012;9.2;7.5;11.4;1,1
-Guinea;West and Central Africa;2013;15.9;12.8;19.8;1,8
-Guinea;West and Central Africa;2014;14.0;11.2;17.3;1,5
-Guinea;West and Central Africa;2015;26.4;21.3;32.5;2,8
-Guinea;West and Central Africa;2016;14.3;11.5;17.5;1,5
-Guinea;West and Central Africa;2017;18.2;14.5;22.2;1,9
-Guinea;West and Central Africa;2018;21.9;17.4;26.9;2,1
-Guinea;West and Central Africa;2019;55.0;44.1;67.2;4,9
-Gambia;West and Central Africa;2010;9.1;7.0;12.2;160,
-Gambia;West and Central Africa;2011;12.7;9.9;17.1;230,
-Gambia;West and Central Africa;2012;14.8;11.5;19.8;270,
-Gambia;West and Central Africa;2013;15.2;11.9;20.2;290,
-Gambia;West and Central Africa;2014;19.3;15.1;25.4;380,
-Gambia;West and Central Africa;2015;22.0;17.1;28.7;440,
-Gambia;West and Central Africa;2016;27.0;20.8;35.2;540,
-Gambia;West and Central Africa;2017;23.5;18.0;30.9;480,
-Gambia;West and Central Africa;2018;26.6;20.2;35.1;550,
-Gambia;West and Central Africa;2019;28.0;21.1;37.3;590,
-Guinea-Bissau;West and Central Africa;2010;4.9;4.3;5.5;180,
-Guinea-Bissau;West and Central Africa;2011;6.9;6.1;7.8;260,
-Guinea-Bissau;West and Central Africa;2012;9.7;8.5;11.0;370,
-Guinea-Bissau;West and Central Africa;2013;11.4;9.9;12.9;430,
-Guinea-Bissau;West and Central Africa;2014;10.8;9.3;12.2;400,
-Guinea-Bissau;West and Central Africa;2015;13.0;11.1;14.9;470,
-Guinea-Bissau;West and Central Africa;2016;17.4;14.6;19.9;610,
-Guinea-Bissau;West and Central Africa;2017;20.3;16.6;23.6;680,
-Guinea-Bissau;West and Central Africa;2018;10.6;8.7;12.5;350,
-Guinea-Bissau;West and Central Africa;2019;15.8;12.9;18.6;500,
-Equatorial Guinea;West and Central Africa;2010;1.9;1.5;2.5;40,
-Equatorial Guinea;West and Central Africa;2011;3.8;3.0;4.8;90,
-Equatorial Guinea;West and Central Africa;2012;6.7;5.2;8.4;160,
-Equatorial Guinea;West and Central Africa;2013;8.0;6.3;10.0;190,
-Equatorial Guinea;West and Central Africa;2014;8.2;6.4;10.4;200,
-Equatorial Guinea;West and Central Africa;2015;9.6;7.5;12.1;250,
-Equatorial Guinea;West and Central Africa;2016;14.7;11.1;18.8;380,
-Equatorial Guinea;West and Central Africa;2017;21.8;16.0;28.6;560,
-Equatorial Guinea;West and Central Africa;2018;28.9;21.2;38.9;770,
-Equatorial Guinea;West and Central Africa;2019;32.4;23.1;45.2;900,
-Guatemala;Latin America and Caribbean;2010;35.6;28.3;44.8;660,
-Guatemala;Latin America and Caribbean;2011;51.7;41.0;65.2;940,
-Guatemala;Latin America and Caribbean;2012;57.9;45.6;74.1;1,
-Guatemala;Latin America and Caribbean;2013;55.3;43.0;70.8;950,
-Guatemala;Latin America and Caribbean;2014;60.2;47.5;77.6;990,
-Guatemala;Latin America and Caribbean;2015;54.1;42.8;70.3;860,
-Guatemala;Latin America and Caribbean;2016;50.2;39.5;65.5;760,
-Guatemala;Latin America and Caribbean;2017;51.1;40.7;67.5;720,
-Guatemala;Latin America and Caribbean;2018;57.1;45.5;75.4;730,
-Guatemala;Latin America and Caribbean;2019;58.3;46.0;77.1;680,
-Guyana;Latin America and Caribbean;2010;59.4;50.0;68.4;180,
-Guyana;Latin America and Caribbean;2011;60.5;52.0;69.1;200,
-Guyana;Latin America and Caribbean;2012;56.1;48.9;64.5;200,
-Guyana;Latin America and Caribbean;2013;50.0;43.8;56.9;180,
-Guyana;Latin America and Caribbean;2014;46.3;40.5;52.3;170,
-Guyana;Latin America and Caribbean;2015;42.6;37.5;48.2;160,
-Guyana;Latin America and Caribbean;2016;42.7;37.5;48.4;160,
-Guyana;Latin America and Caribbean;2017;35.1;30.7;39.8;130,
-Guyana;Latin America and Caribbean;2018;29.9;26.0;34.0;110,
-Guyana;Latin America and Caribbean;2019;34.0;29.8;38.9;110,
-Honduras;Latin America and Caribbean;2010;70.0;58.0;80.6;820,
-Honduras;Latin America and Caribbean;2011;66.5;54.7;76.5;740,
-Honduras;Latin America and Caribbean;2012;75.5;61.9;86.7;780,
-Honduras;Latin America and Caribbean;2013;74.3;60.6;85.5;730,
-Honduras;Latin America and Caribbean;2014;76.5;62.4;88.2;700,
-Honduras;Latin America and Caribbean;2015;66.8;54.6;77.7;570,
-Honduras;Latin America and Caribbean;2016;67.5;55.5;79.2;540,
-Honduras;Latin America and Caribbean;2017;72.4;59.2;86.0;530,
-Honduras;Latin America and Caribbean;2018;53.3;43.9;63.4;360,
-Honduras;Latin America and Caribbean;2019;53.1;43.6;63.1;330,
-Haiti;Latin America and Caribbean;2010;12.7;10.4;14.9;1,5
-Haiti;Latin America and Caribbean;2011;16.3;13.2;19.2;1,9
-Haiti;Latin America and Caribbean;2012;20.0;16.2;23.4;2,2
-Haiti;Latin America and Caribbean;2013;24.7;20.1;29.1;2,6
-Haiti;Latin America and Caribbean;2014;27.9;22.3;32.9;2,9
-Haiti;Latin America and Caribbean;2015;29.0;22.9;34.6;2,9
-Haiti;Latin America and Caribbean;2016;36.5;28.2;43.7;3,5
-Haiti;Latin America and Caribbean;2017;41.5;31.3;49.9;3,8
-Haiti;Latin America and Caribbean;2018;39.4;29.6;48.3;3,4
-Haiti;Latin America and Caribbean;2019;45.1;33.9;55.8;3,7
-Iran (Islamic Republic of);Middle East and North Africa;2010;7.4;5.0;11.0;60,
-Iran (Islamic Republic of);Middle East and North Africa;2011;11.4;7.7;16.0;100,
-Iran (Islamic Republic of);Middle East and North Africa;2012;14.8;10.4;20.0;130,
-Iran (Islamic Republic of);Middle East and North Africa;2013;18.5;12.6;25.1;160,
-Iran (Islamic Republic of);Middle East and North Africa;2014;25.8;17.2;36.3;230,
-Iran (Islamic Republic of);Middle East and North Africa;2015;33.6;21.9;50.3;300,
-Iran (Islamic Republic of);Middle East and North Africa;2016;41.9;27.2;67.0;380,
-Iran (Islamic Republic of);Middle East and North Africa;2017;51.4;32.2;88.5;460,
-Iran (Islamic Republic of);Middle East and North Africa;2018;58.3;35.6;>95;510,
-Iran (Islamic Republic of);Middle East and North Africa;2019;64.4;38.2;>95;570,
-Italy;Western Europe;2010;84.6;51.7;>95;140,
-Italy;Western Europe;2011;86.0;50.5;>95;150,
-Italy;Western Europe;2012;86.7;48.6;>95;160,
-Italy;Western Europe;2013;88.3;47.4;>95;170,
-Italy;Western Europe;2014;88.8;45.3;>95;170,
-Italy;Western Europe;2015;88.7;43.7;>95;180,
-Italy;Western Europe;2016;87.6;41.7;>95;180,
-Italy;Western Europe;2017;87.4;40.0;>95;190,
-Italy;Western Europe;2018;83.5;36.8;>95;180,
-Italy;Western Europe;2019;82.6;37.9;>95;170,
-Jamaica;Latin America and Caribbean;2010;50.8;41.5;71.6;440,
-Jamaica;Latin America and Caribbean;2011;54.7;44.9;77.6;460,
-Jamaica;Latin America and Caribbean;2012;43.2;35.5;61.3;360,
-Jamaica;Latin America and Caribbean;2013;44.0;36.0;62.4;350,
-Jamaica;Latin America and Caribbean;2014;44.1;35.6;62.3;320,
-Jamaica;Latin America and Caribbean;2015;43.1;34.5;62.1;290,
-Jamaica;Latin America and Caribbean;2016;41.3;32.6;60.7;260,
-Jamaica;Latin America and Caribbean;2017;37.7;29.3;55.1;220,
-Jamaica;Latin America and Caribbean;2018;38.8;29.6;57.2;220,
-Jamaica;Latin America and Caribbean;2019;41.3;31.3;61.3;220,
-Kazakhstan;Eastern Europe and Central Asia;2010;>95;>95;>95;210,
-Kazakhstan;Eastern Europe and Central Asia;2011;>95;>95;>95;240,
-Kazakhstan;Eastern Europe and Central Asia;2012;>95;>95;>95;290,
-Kazakhstan;Eastern Europe and Central Asia;2013;>95;>95;>95;330,
-Kazakhstan;Eastern Europe and Central Asia;2014;>95;>95;>95;360,
-Kazakhstan;Eastern Europe and Central Asia;2015;>95;>95;>95;380,
-Kazakhstan;Eastern Europe and Central Asia;2016;>95;>95;>95;420,
-Kazakhstan;Eastern Europe and Central Asia;2017;>95;>95;>95;450,
-Kazakhstan;Eastern Europe and Central Asia;2018;>95;>95;>95;430,
-Kazakhstan;Eastern Europe and Central Asia;2019;>95;>95;>95;400,
-Kenya;Eastern and Southern Africa;2010;17.7;13.6;22.3;36,1
-Kenya;Eastern and Southern Africa;2011;25.6;19.6;32.3;48,5
-Kenya;Eastern and Southern Africa;2012;31.1;23.8;39.2;55,4
-Kenya;Eastern and Southern Africa;2013;35.7;27.3;45.0;60,1
-Kenya;Eastern and Southern Africa;2014;41.6;31.8;52.4;66,1
-Kenya;Eastern and Southern Africa;2015;48.6;37.2;61.2;71,5
-Kenya;Eastern and Southern Africa;2016;57.5;44.0;72.4;78,7
-Kenya;Eastern and Southern Africa;2017;67.3;51.5;84.8;86,3
-Kenya;Eastern and Southern Africa;2018;62.1;47.5;78.2;74,3
-Kenya;Eastern and Southern Africa;2019;62.9;48.1;79.2;70,1
-Kyrgyzstan;Eastern Europe and Central Asia;2010;83.7;81.3;86.6;140,
-Kyrgyzstan;Eastern Europe and Central Asia;2011;77.5;75.4;79.2;170,
-Kyrgyzstan;Eastern Europe and Central Asia;2012;73.3;72.1;74.6;220,
-Kyrgyzstan;Eastern Europe and Central Asia;2013;>95;92.1;>95;300,
-Kyrgyzstan;Eastern Europe and Central Asia;2014;>95;>95;>95;370,
-Kyrgyzstan;Eastern Europe and Central Asia;2015;>95;>95;>95;390,
-Kyrgyzstan;Eastern Europe and Central Asia;2016;>95;>95;>95;420,
-Kyrgyzstan;Eastern Europe and Central Asia;2017;>95;>95;>95;440,
-Kyrgyzstan;Eastern Europe and Central Asia;2018;>95;>95;>95;450,
-Kyrgyzstan;Eastern Europe and Central Asia;2019;>95;94.3;>95;430,
-Cambodia;East Asia and Pacific;2010;68.6;59.4;80.5;4,1
-Cambodia;East Asia and Pacific;2011;78.0;67.4;91.6;4,4
-Cambodia;East Asia and Pacific;2012;85.6;73.9;>95;4,6
-Cambodia;East Asia and Pacific;2013;80.9;69.4;>95;4,1
-Cambodia;East Asia and Pacific;2014;86.1;73.2;>95;4,
-Cambodia;East Asia and Pacific;2015;94.0;79.7;>95;4,
-Cambodia;East Asia and Pacific;2016;92.7;78.1;>95;3,6
-Cambodia;East Asia and Pacific;2017;>95;80.1;>95;3,4
-Cambodia;East Asia and Pacific;2018;92.1;76.5;>95;3,
-Cambodia;East Asia and Pacific;2019;87.5;71.8;>95;2,5
-Lao People's Democratic Republic;East Asia and Pacific;2010;31.5;27.6;35.5;120,
-Lao People's Democratic Republic;East Asia and Pacific;2011;33.2;28.9;37.1;130,
-Lao People's Democratic Republic;East Asia and Pacific;2012;38.2;33.7;42.7;160,
-Lao People's Democratic Republic;East Asia and Pacific;2013;42.0;37.0;47.0;190,
-Lao People's Democratic Republic;East Asia and Pacific;2014;45.1;39.7;50.5;210,
-Lao People's Democratic Republic;East Asia and Pacific;2015;44.7;39.4;50.0;220,
-Lao People's Democratic Republic;East Asia and Pacific;2016;46.2;40.6;51.8;240,
-Lao People's Democratic Republic;East Asia and Pacific;2017;53.6;47.0;60.3;280,
-Lao People's Democratic Republic;East Asia and Pacific;2018;53.7;47.1;60.6;280,
-Lao People's Democratic Republic;East Asia and Pacific;2019;56.9;50.0;64.5;300,
-Liberia;West and Central Africa;2010;5.1;4.0;6.2;310,
-Liberia;West and Central Africa;2011;9.6;7.5;11.9;570,
-Liberia;West and Central Africa;2012;7.6;5.9;9.4;430,
-Liberia;West and Central Africa;2013;6.9;5.4;8.6;380,
-Liberia;West and Central Africa;2014;7.7;5.9;9.7;410,
-Liberia;West and Central Africa;2015;7.9;6.0;10.1;390,
-Liberia;West and Central Africa;2016;9.6;7.2;12.5;440,
-Liberia;West and Central Africa;2017;13.8;10.3;18.2;590,
-Liberia;West and Central Africa;2018;17.3;12.8;23.1;680,
-Liberia;West and Central Africa;2019;21.0;15.4;28.0;760,
-Libya;Middle East and North Africa;2010;<1;<1;<1;0,
-Libya;Middle East and North Africa;2011;<1;<1;<1;0,
-Libya;Middle East and North Africa;2012;<1;<1;<1;0,
-Libya;Middle East and North Africa;2013;32.1;23.3;43.9;70,
-Libya;Middle East and North Africa;2014;30.7;22.3;41.5;70,
-Libya;Middle East and North Africa;2015;31.0;22.8;41.4;80,
-Libya;Middle East and North Africa;2016;31.1;22.7;41.5;80,
-Libya;Middle East and North Africa;2017;32.5;23.8;43.6;90,
-Libya;Middle East and North Africa;2018;32.3;23.7;43.1;80,
-Libya;Middle East and North Africa;2019;42.0;30.4;55.4;110,
-Lesotho;Eastern and Southern Africa;2010;23.1;20.0;25.7;4,8
-Lesotho;Eastern and Southern Africa;2011;25.0;21.6;27.8;5,
-Lesotho;Eastern and Southern Africa;2012;26.9;23.1;30.2;5,2
-Lesotho;Eastern and Southern Africa;2013;28.1;23.7;31.4;5,2
-Lesotho;Eastern and Southern Africa;2014;32.8;27.4;37.0;5,7
-Lesotho;Eastern and Southern Africa;2015;46.9;38.8;53.4;7,5
-Lesotho;Eastern and Southern Africa;2016;61.8;49.8;70.3;9,2
-Lesotho;Eastern and Southern Africa;2017;62.1;49.0;70.4;8,6
-Lesotho;Eastern and Southern Africa;2018;66.0;51.2;75.5;8,4
-Lesotho;Eastern and Southern Africa;2019;70.7;54.0;82.1;8,3
-Morocco;Middle East and North Africa;2010;36.8;29.4;47.7;160,
-Morocco;Middle East and North Africa;2011;45.6;36.5;59.4;210,
-Morocco;Middle East and North Africa;2012;53.6;42.9;70.5;240,
-Morocco;Middle East and North Africa;2013;71.5;57.7;>95;330,
-Morocco;Middle East and North Africa;2014;94.0;76.2;>95;450,
-Morocco;Middle East and North Africa;2015;>95;78.3;>95;490,
-Morocco;Middle East and North Africa;2016;>95;85.3;>95;550,
-Morocco;Middle East and North Africa;2017;>95;91.1;>95;610,
-Morocco;Middle East and North Africa;2018;>95;>95;>95;670,
-Morocco;Middle East and North Africa;2019;>95;>95;>95;760,
-Republic of Moldova;Eastern Europe and Central Asia;2010;22.9;18.8;28.3;40,
-Republic of Moldova;Eastern Europe and Central Asia;2011;27.8;23.0;34.5;50,
-Republic of Moldova;Eastern Europe and Central Asia;2012;32.6;26.9;40.4;60,
-Republic of Moldova;Eastern Europe and Central Asia;2013;41.2;33.9;50.9;80,
-Republic of Moldova;Eastern Europe and Central Asia;2014;47.8;39.2;58.9;100,
-Republic of Moldova;Eastern Europe and Central Asia;2015;50.7;41.6;62.6;110,
-Republic of Moldova;Eastern Europe and Central Asia;2016;58.1;47.8;71.9;120,
-Republic of Moldova;Eastern Europe and Central Asia;2017;61.6;50.5;76.0;130,
-Republic of Moldova;Eastern Europe and Central Asia;2018;58.3;47.9;72.1;130,
-Republic of Moldova;Eastern Europe and Central Asia;2019;61.8;50.6;76.1;130,
-Madagascar;Eastern and Southern Africa;2010;3.6;2.7;4.7;20,
-Madagascar;Eastern and Southern Africa;2011;2.2;1.7;2.9;10,
-Madagascar;Eastern and Southern Africa;2012;2.1;1.6;2.7;10,
-Madagascar;Eastern and Southern Africa;2013;2.2;1.7;2.7;20,
-Madagascar;Eastern and Southern Africa;2014;3.2;2.6;4.0;30,
-Madagascar;Eastern and Southern Africa;2015;1.5;1.3;1.8;20,
-Madagascar;Eastern and Southern Africa;2016;3.4;2.8;4.1;40,
-Madagascar;Eastern and Southern Africa;2017;4.0;3.4;4.8;60,
-Madagascar;Eastern and Southern Africa;2018;5.9;5.0;7.2;90,
-Madagascar;Eastern and Southern Africa;2019;8.8;7.4;11.0;150,
-Mali;West and Central Africa;2010;8.2;7.0;9.8;1,4
-Mali;West and Central Africa;2011;10.4;8.7;12.4;1,7
-Mali;West and Central Africa;2012;11.5;9.6;13.9;1,9
-Mali;West and Central Africa;2013;12.0;9.9;14.5;2,
-Mali;West and Central Africa;2014;14.1;11.7;17.1;2,4
-Mali;West and Central Africa;2015;16.1;13.3;19.4;2,7
-Mali;West and Central Africa;2016;17.1;14.1;20.7;2,8
-Mali;West and Central Africa;2017;18.4;15.0;22.5;3,
-Mali;West and Central Africa;2018;21.1;16.9;26.0;3,4
-Mali;West and Central Africa;2019;23.2;18.1;28.6;3,8
-Myanmar;East Asia and Pacific;2010;21.1;18.1;24.6;2,1
-Myanmar;East Asia and Pacific;2011;29.4;25.3;34.4;3,
-Myanmar;East Asia and Pacific;2012;38.2;33.1;44.7;4,
-Myanmar;East Asia and Pacific;2013;45.3;39.3;52.5;4,9
-Myanmar;East Asia and Pacific;2014;51.3;44.5;59.3;5,7
-Myanmar;East Asia and Pacific;2015;61.5;53.4;71.0;6,9
-Myanmar;East Asia and Pacific;2016;64.8;56.2;74.6;7,3
-Myanmar;East Asia and Pacific;2017;68.2;59.1;78.7;7,7
-Myanmar;East Asia and Pacific;2018;71.2;61.5;82.0;7,9
-Myanmar;East Asia and Pacific;2019;73.4;63.0;84.4;7,9
-Mozambique;Eastern and Southern Africa;2010;11.1;8.3;15.2;17,4
-Mozambique;Eastern and Southern Africa;2011;14.3;10.7;19.7;23,1
-Mozambique;Eastern and Southern Africa;2012;16.1;12.1;22.2;25,9
-Mozambique;Eastern and Southern Africa;2013;23.5;17.6;32.4;37,8
-Mozambique;Eastern and Southern Africa;2014;34.8;26.1;47.9;55,6
-Mozambique;Eastern and Southern Africa;2015;37.2;27.9;51.2;58,9
-Mozambique;Eastern and Southern Africa;2016;43.3;32.5;59.6;68,5
-Mozambique;Eastern and Southern Africa;2017;50.8;38.1;69.9;79,2
-Mozambique;Eastern and Southern Africa;2018;56.7;42.5;78.1;86,9
-Mozambique;Eastern and Southern Africa;2019;63.2;47.4;87.0;95,1
-Mauritania;West and Central Africa;2010;4.0;3.4;4.8;30,
-Mauritania;West and Central Africa;2011;<1;<1;<1;0,
-Mauritania;West and Central Africa;2012;<1;<1;<1;0,
-Mauritania;West and Central Africa;2013;16.3;13.7;19.6;100,
-Mauritania;West and Central Africa;2014;22.5;18.8;27.8;130,
-Mauritania;West and Central Africa;2015;30.1;24.5;38.0;160,
-Mauritania;West and Central Africa;2016;32.1;25.9;41.2;160,
-Mauritania;West and Central Africa;2017;33.6;26.3;44.3;160,
-Mauritania;West and Central Africa;2018;38.4;29.0;51.2;180,
-Mauritania;West and Central Africa;2019;39.1;29.2;54.1;170,
-Mauritius;Eastern and Southern Africa;2010;7.8;6.2;9.5;10,
-Mauritius;Eastern and Southern Africa;2011;9.9;7.9;12.1;10,
-Mauritius;Eastern and Southern Africa;2012;10.1;8.2;12.0;10,
-Mauritius;Eastern and Southern Africa;2013;12.2;10.1;14.4;10,
-Mauritius;Eastern and Southern Africa;2014;22.9;19.1;26.5;20,
-Mauritius;Eastern and Southern Africa;2015;26.1;22.4;30.1;20,
-Mauritius;Eastern and Southern Africa;2016;42.0;36.3;47.3;40,
-Mauritius;Eastern and Southern Africa;2017;52.4;46.1;59.2;40,
-Mauritius;Eastern and Southern Africa;2018;55.0;48.1;61.2;40,
-Mauritius;Eastern and Southern Africa;2019;68.0;59.8;76.2;50,
-Malawi;Eastern and Southern Africa;2010;13.1;10.8;14.7;15,7
-Malawi;Eastern and Southern Africa;2011;17.7;14.5;20.0;20,3
-Malawi;Eastern and Southern Africa;2012;23.1;18.6;26.3;24,9
-Malawi;Eastern and Southern Africa;2013;28.9;23.0;33.2;29,5
-Malawi;Eastern and Southern Africa;2014;33.6;26.4;38.7;32,5
-Malawi;Eastern and Southern Africa;2015;39.5;30.7;46.2;35,9
-Malawi;Eastern and Southern Africa;2016;48.5;37.5;57.1;41,
-Malawi;Eastern and Southern Africa;2017;58.6;45.4;69.2;45,5
-Malawi;Eastern and Southern Africa;2018;63.5;49.3;75.7;45,1
-Malawi;Eastern and Southern Africa;2019;74.1;57.3;89.9;48,
-Malaysia;East Asia and Pacific;2010;85.2;70.8;>95;390,
-Malaysia;East Asia and Pacific;2011;86.4;71.8;>95;410,
-Malaysia;East Asia and Pacific;2012;84.5;70.6;>95;400,
-Malaysia;East Asia and Pacific;2013;85.6;71.8;>95;400,
-Malaysia;East Asia and Pacific;2014;83.6;69.6;>95;390,
-Malaysia;East Asia and Pacific;2015;84.5;70.6;>95;370,
-Malaysia;East Asia and Pacific;2016;86.2;72.5;>95;350,
-Malaysia;East Asia and Pacific;2017;86.8;72.8;>95;330,
-Malaysia;East Asia and Pacific;2018;89.2;74.8;>95;310,
-Malaysia;East Asia and Pacific;2019;92.3;77.3;>95;300,
-Namibia;Eastern and Southern Africa;2010;48.1;41.5;52.7;8,1
-Namibia;Eastern and Southern Africa;2011;54.5;46.8;59.8;9,1
-Namibia;Eastern and Southern Africa;2012;60.7;52.0;66.4;10,
-Namibia;Eastern and Southern Africa;2013;56.4;48.1;61.7;9,2
-Namibia;Eastern and Southern Africa;2014;57.2;48.2;62.8;8,9
-Namibia;Eastern and Southern Africa;2015;60.4;50.3;67.2;8,8
-Namibia;Eastern and Southern Africa;2016;59.7;49.4;66.7;8,1
-Namibia;Eastern and Southern Africa;2017;62.0;51.0;69.7;7,8
-Namibia;Eastern and Southern Africa;2018;65.6;54.0;74.6;7,6
-Namibia;Eastern and Southern Africa;2019;>95;80.2;>95;10,2
-Niger;West and Central Africa;2010;6.8;5.8;7.9;340,
-Niger;West and Central Africa;2011;10.5;9.0;12.3;500,
-Niger;West and Central Africa;2012;14.9;12.7;17.4;670,
-Niger;West and Central Africa;2013;12.9;11.0;15.3;550,
-Niger;West and Central Africa;2014;16.3;13.9;19.3;650,
-Niger;West and Central Africa;2015;24.3;20.6;29.0;920,
-Niger;West and Central Africa;2016;29.1;24.4;35.0;1,
-Niger;West and Central Africa;2017;39.3;33.3;46.8;1,3
-Niger;West and Central Africa;2018;42.1;35.6;50.0;1,3
-Niger;West and Central Africa;2019;42.3;36.0;50.5;1,3
-Nigeria;West and Central Africa;2010;11.2;7.2;17.0;18,5
-Nigeria;West and Central Africa;2011;15.0;9.7;22.8;24,9
-Nigeria;West and Central Africa;2012;18.8;12.1;28.6;30,8
-Nigeria;West and Central Africa;2013;21.2;13.6;32.2;34,1
-Nigeria;West and Central Africa;2014;24.3;15.6;37.0;38,2
-Nigeria;West and Central Africa;2015;28.4;18.3;43.2;43,9
-Nigeria;West and Central Africa;2016;32.2;20.7;48.9;48,7
-Nigeria;West and Central Africa;2017;33.2;21.4;50.5;49,7
-Nigeria;West and Central Africa;2018;33.7;21.7;51.2;50,2
-Nigeria;West and Central Africa;2019;36.3;23.3;55.1;53,5
-Nicaragua;Latin America and Caribbean;2010;24.3;18.9;32.5;60,
-Nicaragua;Latin America and Caribbean;2011;35.0;27.3;45.4;90,
-Nicaragua;Latin America and Caribbean;2012;39.8;31.1;51.9;100,
-Nicaragua;Latin America and Caribbean;2013;22.1;17.2;29.0;60,
-Nicaragua;Latin America and Caribbean;2014;43.4;33.6;57.5;120,
-Nicaragua;Latin America and Caribbean;2015;48.2;37.4;64.2;120,
-Nicaragua;Latin America and Caribbean;2016;51.9;40.2;70.4;130,
-Nicaragua;Latin America and Caribbean;2017;52.2;39.5;71.9;120,
-Nicaragua;Latin America and Caribbean;2018;56.5;41.6;78.7;120,
-Nicaragua;Latin America and Caribbean;2019;68.7;50.2;>95;140,
-Netherlands;Western Europe;2010;>95;>95;>95;140,
-Netherlands;Western Europe;2011;>95;>95;>95;150,
-Netherlands;Western Europe;2012;>95;>95;>95;170,
-Netherlands;Western Europe;2013;>95;>95;>95;170,
-Netherlands;Western Europe;2014;>95;>95;>95;170,
-Netherlands;Western Europe;2015;>95;>95;>95;170,
-Netherlands;Western Europe;2016;>95;>95;>95;170,
-Netherlands;Western Europe;2017;>95;>95;>95;160,
-Netherlands;Western Europe;2018;>95;>95;>95;150,
-Netherlands;Western Europe;2019;>95;>95;>95;150,
-Nepal;South Asia;2010;16.9;14.7;20.0;290,
-Nepal;South Asia;2011;25.4;22.0;30.0;430,
-Nepal;South Asia;2012;32.9;28.6;39.0;550,
-Nepal;South Asia;2013;39.2;34.2;46.5;640,
-Nepal;South Asia;2014;50.2;43.9;59.2;780,
-Nepal;South Asia;2015;60.3;52.9;70.9;890,
-Nepal;South Asia;2016;70.3;61.4;82.9;980,
-Nepal;South Asia;2017;>95;85.8;>95;1,3
-Nepal;South Asia;2018;>95;89.7;>95;1,3
-Nepal;South Asia;2019;>95;>95;>95;1,3
-Pakistan;South Asia;2010;3.1;2.7;3.7;60,
-Pakistan;South Asia;2011;2.3;2.0;2.7;50,
-Pakistan;South Asia;2012;3.3;2.8;3.7;90,
-Pakistan;South Asia;2013;3.5;3.0;4.1;110,
-Pakistan;South Asia;2014;3.8;3.2;4.4;130,
-Pakistan;South Asia;2015;6.6;5.7;7.6;260,
-Pakistan;South Asia;2016;7.4;6.4;8.5;330,
-Pakistan;South Asia;2017;8.9;7.6;10.1;450,
-Pakistan;South Asia;2018;11.1;9.5;12.6;610,
+Country;Region;Year;Percentage;Lower;Upper;Number
+Afghanistan;South Asia;2010;0;0;1.8;0
+Afghanistan;South Asia;2011;1.8;0.5;4.3;10
+Afghanistan;South Asia;2012;2.0;0.5;4.7;10
+Afghanistan;South Asia;2013;3.4;1.7;8.1;10
+Afghanistan;South Asia;2014;4.6;2.2;11.1;20
+Afghanistan;South Asia;2015;6.9;3.3;17.7;30
+Afghanistan;South Asia;2016;9.2;4.2;23.5;40
+Afghanistan;South Asia;2017;13.0;5.8;35.9;60
+Afghanistan;South Asia;2018;13.3;5.9;36.1;60
+Afghanistan;South Asia;2019;12.3;5.2;35.9;60
+Angola;Eastern and Southern Africa;2010;6.0;5.0;7.4;1500
+Angola;Eastern and Southern Africa;2011;6.8;5.7;8.4;1800
+Angola;Eastern and Southern Africa;2012;8.3;6.9;10.2;2300
+Angola;Eastern and Southern Africa;2013;9.5;7.9;11.6;2700
+Angola;Eastern and Southern Africa;2014;11.2;9.2;13.7;3300
+Angola;Eastern and Southern Africa;2015;14.1;11.5;17.4;4200
+Angola;Eastern and Southern Africa;2016;10.3;8.3;12.7;3200
+Angola;Eastern and Southern Africa;2017;12.1;9.9;15.0;3800
+Angola;Eastern and Southern Africa;2018;15.2;12.1;19.1;4800
+Angola;Eastern and Southern Africa;2019;16.3;12.8;20.6;5100
+Australia;East Asia and Pacific;2010;68.8;60.2;77.3;10
+Australia;East Asia and Pacific;2011;73.3;58.7;83.1;10
+Australia;East Asia and Pacific;2012;76.9;65.1;94.7;10
+Australia;East Asia and Pacific;2013;83.3;69.4;>95;10
+Australia;East Asia and Pacific;2014;90.9;66.1;>95;10
+Australia;East Asia and Pacific;2015;85.0;75.0;>95;10
+Australia;East Asia and Pacific;2016;85.0;76.9;>95;10
+Australia;East Asia and Pacific;2017;92.9;66.3;>95;10
+Australia;East Asia and Pacific;2018;87.00;78.6;>95;10
+Australia;East Asia and Pacific;2019;87.0;73.3;>95;20
+Azerbaijan;Eastern Europe and Central Asia;2010;7.2;4.7;10.6;10
+Azerbaijan;Eastern Europe and Central Asia;2011;11.0;7.4;15.9;20
+Azerbaijan;Eastern Europe and Central Asia;2012;18.5;13.1;26.6;30
+Azerbaijan;Eastern Europe and Central Asia;2013;27.4;19.2;38.9;40
+Azerbaijan;Eastern Europe and Central Asia;2014;41.3;28.8;57.3;60
+Azerbaijan;Eastern Europe and Central Asia;2015;48.7;34.2;68.0;80
+Azerbaijan;Eastern Europe and Central Asia;2016;53.2;37.3;73.6;80
+Azerbaijan;Eastern Europe and Central Asia;2017;61.6;43.6;84.8;90
+Azerbaijan;Eastern Europe and Central Asia;2018;70.9;51.3;>95;110
+Azerbaijan;Eastern Europe and Central Asia;2019;75.8;54.0;>95;110
+Burundi;Eastern and Southern Africa;2010;10.8;8.6;13.2;1800
+Burundi;Eastern and Southern Africa;2011;12.1;9.6;15.0;1900
+Burundi;Eastern and Southern Africa;2012;13.5;10.7;16.9;2000
+Burundi;Eastern and Southern Africa;2013;15.4;12.2;19.5;2200
+Burundi;Eastern and Southern Africa;2014;18.2;14.4;23.2;2400
+Burundi;Eastern and Southern Africa;2015;21.3;16.5;26.8;2700
+Burundi;Eastern and Southern Africa;2016;26.3;20.2;33.2;3100
+Burundi;Eastern and Southern Africa;2017;31.0;23.6;40.0;3300
+Burundi;Eastern and Southern Africa;2018;33.4;25.2;43.4;3400
+Burundi;Eastern and Southern Africa;2019;38.6;29.0;50.9;3600
+Benin;West and Central Africa;2010;16.3;9.7;28.2;1300
+Benin;West and Central Africa;2011;20.3;12.1;35.0;1600
+Benin;West and Central Africa;2012;23.9;14.3;41.3;1900
+Benin;West and Central Africa;2013;17.7;10.6;30.6;1400
+Benin;West and Central Africa;2014;21.4;12.7;36.9;1600
+Benin;West and Central Africa;2015;25.8;15.4;44.6;1800
+Benin;West and Central Africa;2016;29.9;17.8;51.7;2000
+Benin;West and Central Africa;2017;28.7;17.1;49.6;1800
+Benin;West and Central Africa;2018;33.9;20.2;58.6;2000
+Benin;West and Central Africa;2019;40.9;24.4;70.6;2300
+Burkina Faso;West and Central Africa;2010;7.4;5.6;9.2;1400
+Burkina Faso;West and Central Africa;2011;9.8;7.3;12.5;1800
+Burkina Faso;West and Central Africa;2012;10.2;7.4;13.0;1700
+Burkina Faso;West and Central Africa;2013;11.5;8.2;14.7;1900
+Burkina Faso;West and Central Africa;2014;14.8;10.4;19.1;2200
+Burkina Faso;West and Central Africa;2015;12.2;8.5;15.9;1700
+Burkina Faso;West and Central Africa;2016;20.1;13.9;26.4;2500
+Burkina Faso;West and Central Africa;2017;22.7;15.7;30.2;2600
+Burkina Faso;West and Central Africa;2018;19.7;13.5;26.9;2100
+Burkina Faso;West and Central Africa;2019;28.7;19.6;39.4;2800
+Belarus;Eastern Europe and Central Asia;2010;82.0;72.4;>95;120
+Belarus;Eastern Europe and Central Asia;2011;81.0;71.4;>95;140
+Belarus;Eastern Europe and Central Asia;2012;83.0;69.2;>95;150
+Belarus;Eastern Europe and Central Asia;2013;85.0;75.7;>95;170
+Belarus;Eastern Europe and Central Asia;2014;77.5;76.5;>95;190
+Belarus;Eastern Europe and Central Asia;2015;90.0;81.5;>95;220
+Belarus;Eastern Europe and Central Asia;2016;87.0;83.7;>95;240
+Belarus;Eastern Europe and Central Asia;2017;84.0;72.2;>95;220
+Belarus;Eastern Europe and Central Asia;2018;86.0;71.3;>95;220
+Belarus;Eastern Europe and Central Asia;2019;87.9;67.0;>95;200
+Bolivia (Plurinational State of);Latin America and Caribbean;2010;5.5;4.4;6.8;60
+Bolivia (Plurinational State of);Latin America and Caribbean;2011;5.8;4.7;7.1;60
+Bolivia (Plurinational State of);Latin America and Caribbean;2012;9.5;7.7;11.3;90
+Bolivia (Plurinational State of);Latin America and Caribbean;2013;12.6;10.3;15.3;100
+Bolivia (Plurinational State of);Latin America and Caribbean;2014;15.0;12.1;18.2;110
+Bolivia (Plurinational State of);Latin America and Caribbean;2015;25.7;21.0;31.0;170
+Bolivia (Plurinational State of);Latin America and Caribbean;2016;33.1;27.1;40.2;200
+Bolivia (Plurinational State of);Latin America and Caribbean;2017;39.7;32.1;49.5;220
+Bolivia (Plurinational State of);Latin America and Caribbean;2018;48.5;38.7;60.8;250
+Bolivia (Plurinational State of);Latin America and Caribbean;2019;58.7;46.0;74.1;280
+Central African Republic;West and Central Africa;2010;6.6;5.4;8.0;830
+Central African Republic;West and Central Africa;2011;5.9;4.7;7.0;700
+Central African Republic;West and Central Africa;2012;7.2;5.7;8.7;820
+Central African Republic;West and Central Africa;2013;8.5;6.7;10.3;920
+Central African Republic;West and Central Africa;2014;15.4;12.1;18.7;1600
+Central African Republic;West and Central Africa;2015;25.7;19.9;31.8;2400
+Central African Republic;West and Central Africa;2016;18.8;14.5;23.9;1600
+Central African Republic;West and Central Africa;2017;27.1;20.6;35.1;2200
+Central African Republic;West and Central Africa;2018;33.3;24.8;43.3;2500
+Central African Republic;West and Central Africa;2019;45.8;33.8;60.6;3200
+Chile;Latin America and Caribbean;2010;94.1;85.9;>95;210
+Chile;Latin America and Caribbean;2011;86.9;78.6;>95;200
+Chile;Latin America and Caribbean;2012;73.3;65.5;81.7;170
+Chile;Latin America and Caribbean;2013;72.1;64.4;79.8;170
+Chile;Latin America and Caribbean;2014;74.0;65.4;82.7;170
+Chile;Latin America and Caribbean;2015;61.5;53.9;69.2;140
+Chile;Latin America and Caribbean;2016;70.4;61.6;79.9;160
+Chile;Latin America and Caribbean;2017;64.0;55.0;73.6;150
+Chile;Latin America and Caribbean;2018;60.7;52.6;69.4;140
+Chile;Latin America and Caribbean;2019;68.5;59.2;78.0;150
+Cote d'Ivoire;West and Central Africa;2010;7.0;5.9;8.0;4300
+Cote d'Ivoire;West and Central Africa;2011;8.7;7.2;9.9;5100
+Cote d'Ivoire;West and Central Africa;2012;10.1;8.3;11.5;5600
+Cote d'Ivoire;West and Central Africa;2013;13.1;10.6;15.1;6800
+Cote d'Ivoire;West and Central Africa;2014;14.4;11.6;16.6;6900
+Cote d'Ivoire;West and Central Africa;2015;17.2;13.8;20.1;7700
+Cote d'Ivoire;West and Central Africa;2016;22.3;17.5;26.2;9200
+Cote d'Ivoire;West and Central Africa;2017;39.9;30.8;47.4;14900
+Cote d'Ivoire;West and Central Africa;2018;35.9;27.1;43.2;12300
+Cote d'Ivoire;West and Central Africa;2019;35.7;26.3;43.5;11300
+Cameroon;West and Central Africa;2010;8.1;6.7;9.1;4000
+Cameroon;West and Central Africa;2011;9.1;7.4;10.2;4400
+Cameroon;West and Central Africa;2012;10.5;8.4;11.9;5000
+Cameroon;West and Central Africa;2013;12.3;9.8;14.0;5600
+Cameroon;West and Central Africa;2014;13.9;11.0;16.0;6100
+Cameroon;West and Central Africa;2015;17.3;13.7;20.0;7100
+Cameroon;West and Central Africa;2016;22.1;17.5;25.8;8500
+Cameroon;West and Central Africa;2017;27.5;21.7;32.4;9800
+Cameroon;West and Central Africa;2018;30.9;24.1;37.0;10300
+Cameroon;West and Central Africa;2019;33.0;25.2;40.0;10400
+Democratic Republic of the Congo;West and Central Africa;2010;2.6;2.1;3.1;2200
+Democratic Republic of the Congo;West and Central Africa;2011;7.3;5.8;8.7;6100
+Democratic Republic of the Congo;West and Central Africa;2012;6.1;4.8;7.3;5000
+Democratic Republic of the Congo;West and Central Africa;2013;6.2;4.9;7.4;5000
+Democratic Republic of the Congo;West and Central Africa;2014;11.0;8.6;13.3;8500
+Democratic Republic of the Congo;West and Central Africa;2015;14.0;10.9;17.0;10400
+Democratic Republic of the Congo;West and Central Africa;2016;19.8;15.2;24.3;14300
+Democratic Republic of the Congo;West and Central Africa;2017;24.6;18.6;30.5;17500
+Democratic Republic of the Congo;West and Central Africa;2018;22.8;17.2;28.4;16000
+Democratic Republic of the Congo;West and Central Africa;2019;27.8;20.9;34.9;19000
+Congo;West and Central Africa;2010;11.9;9.7;14.0;970
+Congo;West and Central Africa;2011;13.1;10.6;15.5;1100
+Congo;West and Central Africa;2012;14.3;11.5;16.8;1100
+Congo;West and Central Africa;2013;14.7;11.7;17.4;1200
+Congo;West and Central Africa;2014;18.3;14.5;22.1;1500
+Congo;West and Central Africa;2015;18.3;14.3;22.2;1400
+Congo;West and Central Africa;2016;19.0;14.8;22.9;1500
+Congo;West and Central Africa;2017;21.1;16.3;25.9;1700
+Congo;West and Central Africa;2018;25.0;18.8;31.4;2000
+Congo;West and Central Africa;2019;17.6;13.1;23.0;1400
+Costa Rica;Latin America and Caribbean;2010;41.1;30.7;51.7;60
+Costa Rica;Latin America and Caribbean;2011;39.6;29.7;49.8;60
+Costa Rica;Latin America and Caribbean;2012;38.0;28.6;47.6;60
+Costa Rica;Latin America and Caribbean;2013;36.2;27.2;44.3;60
+Costa Rica;Latin America and Caribbean;2014;33.9;25.9;41.3;60
+Costa Rica;Latin America and Caribbean;2015;33.7;25.8;41.0;70
+Costa Rica;Latin America and Caribbean;2016;33.5;25.6;40.7;70
+Costa Rica;Latin America and Caribbean;2017;32.9;25.2;39.8;70
+Costa Rica;Latin America and Caribbean;2018;39.4;30.4;47.8;80
+Costa Rica;Latin America and Caribbean;2019;42.6;32.7;51.9;90
+Cuba;Latin America and Caribbean;2010;23.9;12.0;35.1;20
+Cuba;Latin America and Caribbean;2011;25.6;13.1;38.6;20
+Cuba;Latin America and Caribbean;2012;26.4;13.9;42.0;20
+Cuba;Latin America and Caribbean;2013;27.3;13.5;43.3;30
+Cuba;Latin America and Caribbean;2014;26.2;12.2;41.8;30
+Cuba;Latin America and Caribbean;2015;26.7;12.7;44.2;30
+Cuba;Latin America and Caribbean;2016;26.4;12.7;44.9;30
+Cuba;Latin America and Caribbean;2017;27.6;12.9;48.1;30
+Cuba;Latin America and Caribbean;2018;27.0;13.0;48.3;30
+Cuba;Latin America and Caribbean;2019;34.4;16.8;62.7;30
+Djibouti;Eastern and Southern Africa;2010;2.7;2.1;3.6;40
+Djibouti;Eastern and Southern Africa;2011;2.8;2.1;3.8;40
+Djibouti;Eastern and Southern Africa;2012;3.0;2.2;4.1;40
+Djibouti;Eastern and Southern Africa;2013;3.7;2.7;5.2;50
+Djibouti;Eastern and Southern Africa;2014;4.6;3.3;6.7;50
+Djibouti;Eastern and Southern Africa;2015;7.4;5.1;10.8;70
+Djibouti;Eastern and Southern Africa;2016;8.7;6.0;13.3;80
+Djibouti;Eastern and Southern Africa;2017;10.2;6.9;15.9;80
+Djibouti;Eastern and Southern Africa;2018;11.4;7.6;18.5;80
+Djibouti;Eastern and Southern Africa;2019;13.8;9.0;22.7;90
+Dominican Republic;Latin America and Caribbean;2010;33.5;26.8;45.2;950
+Dominican Republic;Latin America and Caribbean;2011;38.6;31.0;52.3;1000
+Dominican Republic;Latin America and Caribbean;2012;43.7;35.6;58.2;1100
+Dominican Republic;Latin America and Caribbean;2013;43.6;35.5;58.2;1000
+Dominican Republic;Latin America and Caribbean;2014;42.7;34.5;56.4;900
+Dominican Republic;Latin America and Caribbean;2015;41.9;33.6;56.0;810
+Dominican Republic;Latin America and Caribbean;2016;44.2;35.3;59.9;780
+Dominican Republic;Latin America and Caribbean;2017;49.0;39.5;66.8;780
+Dominican Republic;Latin America and Caribbean;2018;54.0;43.9;73.7;780
+Dominican Republic;Latin America and Caribbean;2019;46.7;37.8;63.4;630
+Algeria;Middle East and North Africa;2010;53.3;32.1;74.9;110
+Algeria;Middle East and North Africa;2011;87.7;51.2;>95;200
+Algeria;Middle East and North Africa;2012;75.0;56.5;>95;260
+Algeria;Middle East and North Africa;2013;88.0;76.9;>95;440
+Algeria;Middle East and North Africa;2014;82.0;71.6;>95;510
+Algeria;Middle East and North Africa;2015;78.0;66.1;>95;580
+Algeria;Middle East and North Africa;2016;80.0;59.7;>95;640
+Algeria;Middle East and North Africa;2017;75.5;52.7;>95;700
+Algeria;Middle East and North Africa;2018;66.0;47.7;>95;770
+Algeria;Middle East and North Africa;2019;70.0;45.1;>95;890
+Ecuador;Latin America and Caribbean;2010;42.0;28.6;68.4;400
+Ecuador;Latin America and Caribbean;2011;32.3;22.3;51.9;310
+Ecuador;Latin America and Caribbean;2012;32.6;22.7;53.6;320
+Ecuador;Latin America and Caribbean;2013;36.6;25.9;62.3;350
+Ecuador;Latin America and Caribbean;2014;40.1;28.3;69.4;390
+Ecuador;Latin America and Caribbean;2015;46.0;32.7;81.2;450
+Ecuador;Latin America and Caribbean;2016;52.3;36.7;90.6;520
+Ecuador;Latin America and Caribbean;2017;56.5;39.5;>95;560
+Ecuador;Latin America and Caribbean;2018;54.4;37.8;94.8;540
+Ecuador;Latin America and Caribbean;2019;60.0;41.5;>95;580
+Egypt;Middle East and North Africa;2010;23.0;16.2;37.8;30
+Egypt;Middle East and North Africa;2011;25.2;18.4;39.1;40
+Egypt;Middle East and North Africa;2012;22.7;16.9;34.0;40
+Egypt;Middle East and North Africa;2013;25.2;19.1;38.0;50
+Egypt;Middle East and North Africa;2014;26.6;20.1;38.3;70
+Egypt;Middle East and North Africa;2015;25.6;19.4;35.8;70
+Egypt;Middle East and North Africa;2016;28.7;21.2;39.5;100
+Egypt;Middle East and North Africa;2017;37.0;26.9;50.0;140
+Egypt;Middle East and North Africa;2018;38.9;28.1;52.0;180
+Egypt;Middle East and North Africa;2019;47.6;34.2;63.5;260
+Eritrea;Eastern and Southern Africa;2010;10.6;7.8;14.5;230
+Eritrea;Eastern and Southern Africa;2011;13.6;10.0;18.8;280
+Eritrea;Eastern and Southern Africa;2012;17.1;12.3;23.8;340
+Eritrea;Eastern and Southern Africa;2013;20.4;14.4;28.9;380
+Eritrea;Eastern and Southern Africa;2014;24.0;16.9;34.1;410
+Eritrea;Eastern and Southern Africa;2015;27.5;19.2;39.0;440
+Eritrea;Eastern and Southern Africa;2016;34.2;23.9;49.1;520
+Eritrea;Eastern and Southern Africa;2017;31.7;21.6;46.2;450
+Eritrea;Eastern and Southern Africa;2018;38.1;25.3;56.4;500
+Eritrea;Eastern and Southern Africa;2019;36.7;23.9;55.2;440
+Spain;Western Europe;2010;78.9;66.5;92.2;80
+Spain;Western Europe;2011;81.1;68.3;94.7;80
+Spain;Western Europe;2012;84.2;70.9;>95;80
+Spain;Western Europe;2013;86.3;72.7;>95;80
+Spain;Western Europe;2014;88.4;74.5;>95;80
+Spain;Western Europe;2015;90.0;81.5;>95;90
+Spain;Western Europe;2016;92.0;84.0;>95;90
+Spain;Western Europe;2017;93.0;85.9;>95;90
+Spain;Western Europe;2018;92.5;83.9;>95;90
+Spain;Western Europe;2019;90.0;83.7;>95;90
+Ethiopia;Eastern and Southern Africa;2010;14.6;9.2;21.8;13000
+Ethiopia;Eastern and Southern Africa;2011;19.3;12.2;28.8;16000
+Ethiopia;Eastern and Southern Africa;2012;23.2;14.7;34.6;17700
+Ethiopia;Eastern and Southern Africa;2013;27.1;17.1;40.4;19000
+Ethiopia;Eastern and Southern Africa;2014;35.0;22.1;52.2;22600
+Ethiopia;Eastern and Southern Africa;2015;33.8;21.4;50.5;20100
+Ethiopia;Eastern and Southern Africa;2016;39.7;25.1;59.2;21900
+Ethiopia;Eastern and Southern Africa;2017;42.7;27.0;63.7;21900
+Ethiopia;Eastern and Southern Africa;2018;45.5;28.7;67.8;21500
+Ethiopia;Eastern and Southern Africa;2019;48.2;30.5;71.9;21300
+France;Western Europe;2010;79.4;69.6;89.2;150
+France;Western Europe;2011;80.2;70.7;90.1;160
+France;Western Europe;2012;83.3;74.1;93.6;170
+France;Western Europe;2013;86.5;77.7;>95;190
+France;Western Europe;2014;94.6;84.4;>95;210
+France;Western Europe;2015;94.0;91.0;>95;230
+France;Western Europe;2016;93.0;90.9;>95;240
+France;Western Europe;2017;92.5;89.8;>95;240
+France;Western Europe;2018;62.5;88.6;>95;240
+France;Western Europe;2019;91.6;88.6;>95;240
+Gabon;West and Central Africa;2010;11.2;8.3;14.7;370
+Gabon;West and Central Africa;2011;12.5;9.4;16.4;410
+Gabon;West and Central Africa;2012;15.1;11.2;19.9;490
+Gabon;West and Central Africa;2013;23.0;16.9;30.4;730
+Gabon;West and Central Africa;2014;35.1;25.7;46.3;1100
+Gabon;West and Central Africa;2015;45.3;32.6;60.1;1400
+Gabon;West and Central Africa;2016;48.6;33.8;64.6;1400
+Gabon;West and Central Africa;2017;54.4;36.0;73.6;1600
+Gabon;West and Central Africa;2018;63.9;40.3;86.5;1900
+Gabon;West and Central Africa;2019;22.6;13.9;31.1;640
+Ghana;West and Central Africa;2010;7.0;5.6;8.1;2400
+Ghana;West and Central Africa;2011;8.9;7.1;10.5;3000
+Ghana;West and Central Africa;2012;10.8;8.5;12.9;3500
+Ghana;West and Central Africa;2013;12.3;9.4;14.9;3500
+Ghana;West and Central Africa;2014;14.7;11.0;18.3;3900
+Ghana;West and Central Africa;2015;11.9;8.7;15.2;4600
+Ghana;West and Central Africa;2016;14.7;10.5;19.3;3700
+Ghana;West and Central Africa;2017;17.8;12.2;23.9;4400
+Ghana;West and Central Africa;2018;21.7;14.2;29.7;5000
+Ghana;West and Central Africa;2019;25.5;16.1;36.7;5900
+Guinea;West and Central Africa;2010;6.9;5.6;8.5;860
+Guinea;West and Central Africa;2011;7.0;5.7;8.6;860
+Guinea;West and Central Africa;2012;9.2;7.5;11.4;1100
+Guinea;West and Central Africa;2013;15.9;12.8;19.8;1800
+Guinea;West and Central Africa;2014;14.0;11.2;17.3;1500
+Guinea;West and Central Africa;2015;26.4;21.3;32.5;2800
+Guinea;West and Central Africa;2016;14.3;11.5;17.5;1500
+Guinea;West and Central Africa;2017;18.2;14.5;22.2;1900
+Guinea;West and Central Africa;2018;21.9;17.4;26.9;2100
+Guinea;West and Central Africa;2019;55.0;44.1;67.2;4900
+Gambia;West and Central Africa;2010;9.1;7.0;12.2;160
+Gambia;West and Central Africa;2011;12.7;9.9;17.1;230
+Gambia;West and Central Africa;2012;14.8;11.5;19.8;270
+Gambia;West and Central Africa;2013;15.2;11.9;20.2;290
+Gambia;West and Central Africa;2014;19.3;15.1;25.4;380
+Gambia;West and Central Africa;2015;22.0;17.1;28.7;440
+Gambia;West and Central Africa;2016;27.0;20.8;35.2;540
+Gambia;West and Central Africa;2017;23.5;18.0;30.9;480
+Gambia;West and Central Africa;2018;26.6;20.2;35.1;550
+Gambia;West and Central Africa;2019;28.0;21.1;37.3;590
+Guinea-Bissau;West and Central Africa;2010;4.9;4.3;5.5;180
+Guinea-Bissau;West and Central Africa;2011;6.9;6.1;7.8;260
+Guinea-Bissau;West and Central Africa;2012;9.7;8.5;11.0;370
+Guinea-Bissau;West and Central Africa;2013;11.4;9.9;12.9;430
+Guinea-Bissau;West and Central Africa;2014;10.8;9.3;12.2;400
+Guinea-Bissau;West and Central Africa;2015;13.0;11.1;14.9;470
+Guinea-Bissau;West and Central Africa;2016;17.4;14.6;19.9;610
+Guinea-Bissau;West and Central Africa;2017;20.3;16.6;23.6;680
+Guinea-Bissau;West and Central Africa;2018;10.6;8.7;12.5;350
+Guinea-Bissau;West and Central Africa;2019;15.8;12.9;18.6;500
+Equatorial Guinea;West and Central Africa;2010;1.9;1.5;2.5;40
+Equatorial Guinea;West and Central Africa;2011;3.8;3.0;4.8;90
+Equatorial Guinea;West and Central Africa;2012;6.7;5.2;8.4;160
+Equatorial Guinea;West and Central Africa;2013;8.0;6.3;10.0;190
+Equatorial Guinea;West and Central Africa;2014;8.2;6.4;10.4;200
+Equatorial Guinea;West and Central Africa;2015;9.6;7.5;12.1;250
+Equatorial Guinea;West and Central Africa;2016;14.7;11.1;18.8;380
+Equatorial Guinea;West and Central Africa;2017;21.8;16.0;28.6;560
+Equatorial Guinea;West and Central Africa;2018;28.9;21.2;38.9;770
+Equatorial Guinea;West and Central Africa;2019;32.4;23.1;45.2;900
+Guatemala;Latin America and Caribbean;2010;35.6;28.3;44.8;660
+Guatemala;Latin America and Caribbean;2011;51.7;41.0;65.2;940
+Guatemala;Latin America and Caribbean;2012;57.9;45.6;74.1;1
+Guatemala;Latin America and Caribbean;2013;55.3;43.0;70.8;950
+Guatemala;Latin America and Caribbean;2014;60.2;47.5;77.6;990
+Guatemala;Latin America and Caribbean;2015;54.1;42.8;70.3;860
+Guatemala;Latin America and Caribbean;2016;50.2;39.5;65.5;760
+Guatemala;Latin America and Caribbean;2017;51.1;40.7;67.5;720
+Guatemala;Latin America and Caribbean;2018;57.1;45.5;75.4;730
+Guatemala;Latin America and Caribbean;2019;58.3;46.0;77.1;680
+Guyana;Latin America and Caribbean;2010;59.4;50.0;68.4;180
+Guyana;Latin America and Caribbean;2011;60.5;52.0;69.1;200
+Guyana;Latin America and Caribbean;2012;56.1;48.9;64.5;200
+Guyana;Latin America and Caribbean;2013;50.0;43.8;56.9;180
+Guyana;Latin America and Caribbean;2014;46.3;40.5;52.3;170
+Guyana;Latin America and Caribbean;2015;42.6;37.5;48.2;160
+Guyana;Latin America and Caribbean;2016;42.7;37.5;48.4;160
+Guyana;Latin America and Caribbean;2017;35.1;30.7;39.8;130
+Guyana;Latin America and Caribbean;2018;29.9;26.0;34.0;110
+Guyana;Latin America and Caribbean;2019;34.0;29.8;38.9;110
+Honduras;Latin America and Caribbean;2010;70.0;58.0;80.6;820
+Honduras;Latin America and Caribbean;2011;66.5;54.7;76.5;740
+Honduras;Latin America and Caribbean;2012;75.5;61.9;86.7;780
+Honduras;Latin America and Caribbean;2013;74.3;60.6;85.5;730
+Honduras;Latin America and Caribbean;2014;76.5;62.4;88.2;700
+Honduras;Latin America and Caribbean;2015;66.8;54.6;77.7;570
+Honduras;Latin America and Caribbean;2016;67.5;55.5;79.2;540
+Honduras;Latin America and Caribbean;2017;72.4;59.2;86.0;530
+Honduras;Latin America and Caribbean;2018;53.3;43.9;63.4;360
+Honduras;Latin America and Caribbean;2019;53.1;43.6;63.1;330
+Haiti;Latin America and Caribbean;2010;12.7;10.4;14.9;1500
+Haiti;Latin America and Caribbean;2011;16.3;13.2;19.2;1900
+Haiti;Latin America and Caribbean;2012;20.0;16.2;23.4;2200
+Haiti;Latin America and Caribbean;2013;24.7;20.1;29.1;2600
+Haiti;Latin America and Caribbean;2014;27.9;22.3;32.9;2900
+Haiti;Latin America and Caribbean;2015;29.0;22.9;34.6;2900
+Haiti;Latin America and Caribbean;2016;36.5;28.2;43.7;3500
+Haiti;Latin America and Caribbean;2017;41.5;31.3;49.9;3800
+Haiti;Latin America and Caribbean;2018;39.4;29.6;48.3;3400
+Haiti;Latin America and Caribbean;2019;45.1;33.9;55.8;3700
+Iran (Islamic Republic of);Middle East and North Africa;2010;7.4;5.0;11.0;60
+Iran (Islamic Republic of);Middle East and North Africa;2011;11.4;7.7;16.0;100
+Iran (Islamic Republic of);Middle East and North Africa;2012;14.8;10.4;20.0;130
+Iran (Islamic Republic of);Middle East and North Africa;2013;18.5;12.6;25.1;160
+Iran (Islamic Republic of);Middle East and North Africa;2014;25.8;17.2;36.3;230
+Iran (Islamic Republic of);Middle East and North Africa;2015;33.6;21.9;50.3;300
+Iran (Islamic Republic of);Middle East and North Africa;2016;41.9;27.2;67.0;380
+Iran (Islamic Republic of);Middle East and North Africa;2017;51.4;32.2;88.5;460
+Iran (Islamic Republic of);Middle East and North Africa;2018;58.3;35.6;>95;510
+Iran (Islamic Republic of);Middle East and North Africa;2019;64.4;38.2;>95;570
+Italy;Western Europe;2010;84.6;51.7;>95;140
+Italy;Western Europe;2011;86.0;50.5;>95;150
+Italy;Western Europe;2012;86.7;48.6;>95;160
+Italy;Western Europe;2013;88.3;47.4;>95;170
+Italy;Western Europe;2014;88.8;45.3;>95;170
+Italy;Western Europe;2015;88.7;43.7;>95;180
+Italy;Western Europe;2016;87.6;41.7;>95;180
+Italy;Western Europe;2017;87.4;40.0;>95;190
+Italy;Western Europe;2018;83.5;36.8;>95;180
+Italy;Western Europe;2019;82.6;37.9;>95;170
+Jamaica;Latin America and Caribbean;2010;50.8;41.5;71.6;440
+Jamaica;Latin America and Caribbean;2011;54.7;44.9;77.6;460
+Jamaica;Latin America and Caribbean;2012;43.2;35.5;61.3;360
+Jamaica;Latin America and Caribbean;2013;44.0;36.0;62.4;350
+Jamaica;Latin America and Caribbean;2014;44.1;35.6;62.3;320
+Jamaica;Latin America and Caribbean;2015;43.1;34.5;62.1;290
+Jamaica;Latin America and Caribbean;2016;41.3;32.6;60.7;260
+Jamaica;Latin America and Caribbean;2017;37.7;29.3;55.1;220
+Jamaica;Latin America and Caribbean;2018;38.8;29.6;57.2;220
+Jamaica;Latin America and Caribbean;2019;41.3;31.3;61.3;220
+Kazakhstan;Eastern Europe and Central Asia;2010;97.0;96;>95;210
+Kazakhstan;Eastern Europe and Central Asia;2011;97.1;96;>95;240
+Kazakhstan;Eastern Europe and Central Asia;2012;97.2;96;>95;290
+Kazakhstan;Eastern Europe and Central Asia;2013;97.3;96;>95;330
+Kazakhstan;Eastern Europe and Central Asia;2014;97.4;96;>95;360
+Kazakhstan;Eastern Europe and Central Asia;2015;97.5;96;>95;380
+Kazakhstan;Eastern Europe and Central Asia;2016;97.6;96;>95;420
+Kazakhstan;Eastern Europe and Central Asia;2017;97.7;96;>95;450
+Kazakhstan;Eastern Europe and Central Asia;2018;97.8;96;>95;430
+Kazakhstan;Eastern Europe and Central Asia;2019;97.9;96;>95;400
+Kenya;Eastern and Southern Africa;2010;17.7;13.6;22.3;36100
+Kenya;Eastern and Southern Africa;2011;25.6;19.6;32.3;48500
+Kenya;Eastern and Southern Africa;2012;31.1;23.8;39.2;55400
+Kenya;Eastern and Southern Africa;2013;35.7;27.3;45.0;60100
+Kenya;Eastern and Southern Africa;2014;41.6;31.8;52.4;66100
+Kenya;Eastern and Southern Africa;2015;48.6;37.2;61.2;71500
+Kenya;Eastern and Southern Africa;2016;57.5;44.0;72.4;78700
+Kenya;Eastern and Southern Africa;2017;67.3;51.5;84.8;86300
+Kenya;Eastern and Southern Africa;2018;62.1;47.5;78.2;74300
+Kenya;Eastern and Southern Africa;2019;62.9;48.1;79.2;70100
+Kyrgyzstan;Eastern Europe and Central Asia;2010;83.7;81.3;86.6;140
+Kyrgyzstan;Eastern Europe and Central Asia;2011;77.5;75.4;79.2;170
+Kyrgyzstan;Eastern Europe and Central Asia;2012;73.3;72.1;74.6;220
+Kyrgyzstan;Eastern Europe and Central Asia;2013;96.0;92.1;>95;300
+Kyrgyzstan;Eastern Europe and Central Asia;2014;96.1;>95;>95;370
+Kyrgyzstan;Eastern Europe and Central Asia;2015;96.2;>95;>95;390
+Kyrgyzstan;Eastern Europe and Central Asia;2016;96.3;>95;>95;420
+Kyrgyzstan;Eastern Europe and Central Asia;2017;96.4;>95;>95;440
+Kyrgyzstan;Eastern Europe and Central Asia;2018;96.5;>95;>95;450
+Kyrgyzstan;Eastern Europe and Central Asia;2019;96.0;94.3;>95;430
+Cambodia;East Asia and Pacific;2010;68.6;59.4;80.5;4100
+Cambodia;East Asia and Pacific;2011;78.0;67.4;91.6;4400
+Cambodia;East Asia and Pacific;2012;85.6;73.9;>95;4600
+Cambodia;East Asia and Pacific;2013;80.9;69.4;>95;4100
+Cambodia;East Asia and Pacific;2014;86.1;73.2;>95;4000
+Cambodia;East Asia and Pacific;2015;94.0;79.7;>95;4000
+Cambodia;East Asia and Pacific;2016;92.7;78.1;>95;3600
+Cambodia;East Asia and Pacific;2017;90.0;80.1;>95;3400
+Cambodia;East Asia and Pacific;2018;92.1;76.5;>95;3000
+Cambodia;East Asia and Pacific;2019;87.5;71.8;>95;2500
+Lao People's Democratic Republic;East Asia and Pacific;2010;31.5;27.6;35.5;120
+Lao People's Democratic Republic;East Asia and Pacific;2011;33.2;28.9;37.1;130
+Lao People's Democratic Republic;East Asia and Pacific;2012;38.2;33.7;42.7;160
+Lao People's Democratic Republic;East Asia and Pacific;2013;42.0;37.0;47.0;190
+Lao People's Democratic Republic;East Asia and Pacific;2014;45.1;39.7;50.5;210
+Lao People's Democratic Republic;East Asia and Pacific;2015;44.7;39.4;50.0;220
+Lao People's Democratic Republic;East Asia and Pacific;2016;46.2;40.6;51.8;240
+Lao People's Democratic Republic;East Asia and Pacific;2017;53.6;47.0;60.3;280
+Lao People's Democratic Republic;East Asia and Pacific;2018;53.7;47.1;60.6;280
+Lao People's Democratic Republic;East Asia and Pacific;2019;56.9;50.0;64.5;300
+Liberia;West and Central Africa;2010;5.1;4.0;6.2;310
+Liberia;West and Central Africa;2011;9.6;7.5;11.9;570
+Liberia;West and Central Africa;2012;7.6;5.9;9.4;430
+Liberia;West and Central Africa;2013;6.9;5.4;8.6;380
+Liberia;West and Central Africa;2014;7.7;5.9;9.7;410
+Liberia;West and Central Africa;2015;7.9;6.0;10.1;390
+Liberia;West and Central Africa;2016;9.6;7.2;12.5;440
+Liberia;West and Central Africa;2017;13.8;10.3;18.2;590
+Liberia;West and Central Africa;2018;17.3;12.8;23.1;680
+Liberia;West and Central Africa;2019;21.0;15.4;28.0;760
+Libya;Middle East and North Africa;2010;0;<1;<1;0
+Libya;Middle East and North Africa;2011;0;<1;<1;0
+Libya;Middle East and North Africa;2012;0;<1;<1;0
+Libya;Middle East and North Africa;2013;32.1;23.3;43.9;70
+Libya;Middle East and North Africa;2014;30.7;22.3;41.5;70
+Libya;Middle East and North Africa;2015;31.0;22.8;41.4;80
+Libya;Middle East and North Africa;2016;31.1;22.7;41.5;80
+Libya;Middle East and North Africa;2017;32.5;23.8;43.6;90
+Libya;Middle East and North Africa;2018;32.3;23.7;43.1;80
+Libya;Middle East and North Africa;2019;42.0;30.4;55.4;110
+Lesotho;Eastern and Southern Africa;2010;23.1;20.0;25.7;4800
+Lesotho;Eastern and Southern Africa;2011;25.0;21.6;27.8;5000
+Lesotho;Eastern and Southern Africa;2012;26.9;23.1;30.2;5200
+Lesotho;Eastern and Southern Africa;2013;28.1;23.7;31.4;5200
+Lesotho;Eastern and Southern Africa;2014;32.8;27.4;37.0;5700
+Lesotho;Eastern and Southern Africa;2015;46.9;38.8;53.4;7500
+Lesotho;Eastern and Southern Africa;2016;61.8;49.8;70.3;9200
+Lesotho;Eastern and Southern Africa;2017;62.1;49.0;70.4;8600
+Lesotho;Eastern and Southern Africa;2018;66.0;51.2;75.5;8400
+Lesotho;Eastern and Southern Africa;2019;70.7;54.0;82.1;8300
+Morocco;Middle East and North Africa;2010;36.8;29.4;47.7;160
+Morocco;Middle East and North Africa;2011;45.6;36.5;59.4;210
+Morocco;Middle East and North Africa;2012;53.6;42.9;70.5;240
+Morocco;Middle East and North Africa;2013;71.5;57.7;>95;330
+Morocco;Middle East and North Africa;2014;94.0;76.2;>95;450
+Morocco;Middle East and North Africa;2015;85.0;78.3;>95;490
+Morocco;Middle East and North Africa;2016;88.0;85.3;>95;550
+Morocco;Middle East and North Africa;2017;93.0;91.1;>95;610
+Morocco;Middle East and North Africa;2018;96.0;>95;>95;670
+Morocco;Middle East and North Africa;2019;96.0;>95;>95;760
+Republic of Moldova;Eastern Europe and Central Asia;2010;22.9;18.8;28.3;40
+Republic of Moldova;Eastern Europe and Central Asia;2011;27.8;23.0;34.5;50
+Republic of Moldova;Eastern Europe and Central Asia;2012;32.6;26.9;40.4;60
+Republic of Moldova;Eastern Europe and Central Asia;2013;41.2;33.9;50.9;80
+Republic of Moldova;Eastern Europe and Central Asia;2014;47.8;39.2;58.9;100
+Republic of Moldova;Eastern Europe and Central Asia;2015;50.7;41.6;62.6;110
+Republic of Moldova;Eastern Europe and Central Asia;2016;58.1;47.8;71.9;120
+Republic of Moldova;Eastern Europe and Central Asia;2017;61.6;50.5;76.0;130
+Republic of Moldova;Eastern Europe and Central Asia;2018;58.3;47.9;72.1;130
+Republic of Moldova;Eastern Europe and Central Asia;2019;61.8;50.6;76.1;130
+Madagascar;Eastern and Southern Africa;2010;3.6;2.7;4.7;20
+Madagascar;Eastern and Southern Africa;2011;2.2;1.7;2.9;10
+Madagascar;Eastern and Southern Africa;2012;2.1;1.6;2.7;10
+Madagascar;Eastern and Southern Africa;2013;2.2;1.7;2.7;20
+Madagascar;Eastern and Southern Africa;2014;3.2;2.6;4.0;30
+Madagascar;Eastern and Southern Africa;2015;1.5;1.3;1.8;20
+Madagascar;Eastern and Southern Africa;2016;3.4;2.8;4.1;40
+Madagascar;Eastern and Southern Africa;2017;4.0;3.4;4.8;60
+Madagascar;Eastern and Southern Africa;2018;5.9;5.0;7.2;90
+Madagascar;Eastern and Southern Africa;2019;8.8;7.4;11.0;150
+Mali;West and Central Africa;2010;8.2;7.0;9.8;1400
+Mali;West and Central Africa;2011;10.4;8.7;12.4;1700
+Mali;West and Central Africa;2012;11.5;9.6;13.9;1900
+Mali;West and Central Africa;2013;12.0;9.9;14.5;2000
+Mali;West and Central Africa;2014;14.1;11.7;17.1;2400
+Mali;West and Central Africa;2015;16.1;13.3;19.4;2700
+Mali;West and Central Africa;2016;17.1;14.1;20.7;2800
+Mali;West and Central Africa;2017;18.4;15.0;22.5;3000
+Mali;West and Central Africa;2018;21.1;16.9;26.0;3400
+Mali;West and Central Africa;2019;23.2;18.1;28.6;3800
+Myanmar;East Asia and Pacific;2010;21.1;18.1;24.6;2100
+Myanmar;East Asia and Pacific;2011;29.4;25.3;34.4;3000
+Myanmar;East Asia and Pacific;2012;38.2;33.1;44.7;4000
+Myanmar;East Asia and Pacific;2013;45.3;39.3;52.5;4900
+Myanmar;East Asia and Pacific;2014;51.3;44.5;59.3;5700
+Myanmar;East Asia and Pacific;2015;61.5;53.4;71.0;6900
+Myanmar;East Asia and Pacific;2016;64.8;56.2;74.6;7300
+Myanmar;East Asia and Pacific;2017;68.2;59.1;78.7;7700
+Myanmar;East Asia and Pacific;2018;71.2;61.5;82.0;7900
+Myanmar;East Asia and Pacific;2019;73.4;63.0;84.4;7900
+Mozambique;Eastern and Southern Africa;2010;11.1;8.3;15.2;17400
+Mozambique;Eastern and Southern Africa;2011;14.3;10.7;19.7;23100
+Mozambique;Eastern and Southern Africa;2012;16.1;12.1;22.2;25900
+Mozambique;Eastern and Southern Africa;2013;23.5;17.6;32.4;37800
+Mozambique;Eastern and Southern Africa;2014;34.8;26.1;47.9;55600
+Mozambique;Eastern and Southern Africa;2015;37.2;27.9;51.2;58900
+Mozambique;Eastern and Southern Africa;2016;43.3;32.5;59.6;68500
+Mozambique;Eastern and Southern Africa;2017;50.8;38.1;69.9;79200
+Mozambique;Eastern and Southern Africa;2018;56.7;42.5;78.1;86200
+Mozambique;Eastern and Southern Africa;2019;63.2;47.4;87.0;95100
+Mauritania;West and Central Africa;2010;4.0;3.4;4.8;30
+Mauritania;West and Central Africa;2011;0;0.5;<1;0
+Mauritania;West and Central Africa;2012;0;0.5;<1;0
+Mauritania;West and Central Africa;2013;16.3;13.7;19.6;100
+Mauritania;West and Central Africa;2014;22.5;18.8;27.8;130
+Mauritania;West and Central Africa;2015;30.1;24.5;38.0;160
+Mauritania;West and Central Africa;2016;32.1;25.9;41.2;160
+Mauritania;West and Central Africa;2017;33.6;26.3;44.3;160
+Mauritania;West and Central Africa;2018;38.4;29.0;51.2;180
+Mauritania;West and Central Africa;2019;39.1;29.2;54.1;170
+Mauritius;Eastern and Southern Africa;2010;7.8;6.2;9.5;10
+Mauritius;Eastern and Southern Africa;2011;9.9;7.9;12.1;10
+Mauritius;Eastern and Southern Africa;2012;10.1;8.2;12.0;10
+Mauritius;Eastern and Southern Africa;2013;12.2;10.1;14.4;10
+Mauritius;Eastern and Southern Africa;2014;22.9;19.1;26.5;20
+Mauritius;Eastern and Southern Africa;2015;26.1;22.4;30.1;20
+Mauritius;Eastern and Southern Africa;2016;42.0;36.3;47.3;40
+Mauritius;Eastern and Southern Africa;2017;52.4;46.1;59.2;40
+Mauritius;Eastern and Southern Africa;2018;55.0;48.1;61.2;40
+Mauritius;Eastern and Southern Africa;2019;68.0;59.8;76.2;50
+Malawi;Eastern and Southern Africa;2010;13.1;10.8;14.7;15700
+Malawi;Eastern and Southern Africa;2011;17.7;14.5;20.0;20300
+Malawi;Eastern and Southern Africa;2012;23.1;18.6;26.3;24900
+Malawi;Eastern and Southern Africa;2013;28.9;23.0;33.2;29500
+Malawi;Eastern and Southern Africa;2014;33.6;26.4;38.7;32500
+Malawi;Eastern and Southern Africa;2015;39.5;30.7;46.2;35900
+Malawi;Eastern and Southern Africa;2016;48.5;37.5;57.1;41000
+Malawi;Eastern and Southern Africa;2017;58.6;45.4;69.2;45500
+Malawi;Eastern and Southern Africa;2018;63.5;49.3;75.7;45100
+Malawi;Eastern and Southern Africa;2019;74.1;57.3;89.9;48000
+Malaysia;East Asia and Pacific;2010;85.2;70.8;>95;390
+Malaysia;East Asia and Pacific;2011;86.4;71.8;>95;410
+Malaysia;East Asia and Pacific;2012;84.5;70.6;>95;400
+Malaysia;East Asia and Pacific;2013;85.6;71.8;>95;400
+Malaysia;East Asia and Pacific;2014;83.6;69.6;>95;390
+Malaysia;East Asia and Pacific;2015;84.5;70.6;>95;370
+Malaysia;East Asia and Pacific;2016;86.2;72.5;>95;350
+Malaysia;East Asia and Pacific;2017;86.8;72.8;>95;330
+Malaysia;East Asia and Pacific;2018;89.2;74.8;>95;310
+Malaysia;East Asia and Pacific;2019;92.3;77.3;>95;300
+Namibia;Eastern and Southern Africa;2010;48.1;41.5;52.7;8100
+Namibia;Eastern and Southern Africa;2011;54.5;46.8;59.8;9100
+Namibia;Eastern and Southern Africa;2012;60.7;52.0;66.4;10000
+Namibia;Eastern and Southern Africa;2013;56.4;48.1;61.7;9200
+Namibia;Eastern and Southern Africa;2014;57.2;48.2;62.8;8900
+Namibia;Eastern and Southern Africa;2015;60.4;50.3;67.2;8800
+Namibia;Eastern and Southern Africa;2016;59.7;49.4;66.7;8100
+Namibia;Eastern and Southern Africa;2017;62.0;51.0;69.7;7800
+Namibia;Eastern and Southern Africa;2018;65.6;54.0;74.6;7600
+Namibia;Eastern and Southern Africa;2019;>95;80.2;>95;10200
+Niger;West and Central Africa;2010;6.8;5.8;7.9;340
+Niger;West and Central Africa;2011;10.5;9.0;12.3;500
+Niger;West and Central Africa;2012;14.9;12.7;17.4;670
+Niger;West and Central Africa;2013;12.9;11.0;15.3;550
+Niger;West and Central Africa;2014;16.3;13.9;19.3;650
+Niger;West and Central Africa;2015;24.3;20.6;29.0;920
+Niger;West and Central Africa;2016;29.1;24.4;35.0;1000
+Niger;West and Central Africa;2017;39.3;33.3;46.8;1300
+Niger;West and Central Africa;2018;42.1;35.6;50.0;1300
+Niger;West and Central Africa;2019;42.3;36.0;50.5;1300
+Nigeria;West and Central Africa;2010;11.2;7.2;17.0;18500
+Nigeria;West and Central Africa;2011;15.0;9.7;22.8;24900
+Nigeria;West and Central Africa;2012;18.8;12.1;28.6;30800
+Nigeria;West and Central Africa;2013;21.2;13.6;32.2;34100
+Nigeria;West and Central Africa;2014;24.3;15.6;37.0;38200
+Nigeria;West and Central Africa;2015;28.4;18.3;43.2;43900
+Nigeria;West and Central Africa;2016;32.2;20.7;48.9;48700
+Nigeria;West and Central Africa;2017;33.2;21.4;50.5;49700
+Nigeria;West and Central Africa;2018;33.7;21.7;51.2;50200
+Nigeria;West and Central Africa;2019;36.3;23.3;55.1;53500
+Nicaragua;Latin America and Caribbean;2010;24.3;18.9;32.5;60
+Nicaragua;Latin America and Caribbean;2011;35.0;27.3;45.4;90
+Nicaragua;Latin America and Caribbean;2012;39.8;31.1;51.9;100
+Nicaragua;Latin America and Caribbean;2013;22.1;17.2;29.0;60
+Nicaragua;Latin America and Caribbean;2014;43.4;33.6;57.5;120
+Nicaragua;Latin America and Caribbean;2015;48.2;37.4;64.2;120
+Nicaragua;Latin America and Caribbean;2016;51.9;40.2;70.4;130
+Nicaragua;Latin America and Caribbean;2017;52.2;39.5;71.9;120
+Nicaragua;Latin America and Caribbean;2018;56.5;41.6;78.7;120
+Nicaragua;Latin America and Caribbean;2019;68.7;50.2;>95;140
+Netherlands;Western Europe;2010;97.0;96;>95;140
+Netherlands;Western Europe;2011;97.1;96;>95;150
+Netherlands;Western Europe;2012;97.2;96;>95;170
+Netherlands;Western Europe;2013;97.3;96;>95;170
+Netherlands;Western Europe;2014;97.4;96;>95;170
+Netherlands;Western Europe;2015;97.5;96;>95;170
+Netherlands;Western Europe;2016;97.6;96;>95;170
+Netherlands;Western Europe;2017;97.7;96;>95;160
+Netherlands;Western Europe;2018;97.8;96;>95;150
+Netherlands;Western Europe;2019;97.9;96;>95;150
+Nepal;South Asia;2010;16.9;14.7;20.0;290
+Nepal;South Asia;2011;25.4;22.0;30.0;430
+Nepal;South Asia;2012;32.9;28.6;39.0;550
+Nepal;South Asia;2013;39.2;34.2;46.5;640
+Nepal;South Asia;2014;50.2;43.9;59.2;780
+Nepal;South Asia;2015;60.3;52.9;70.9;890
+Nepal;South Asia;2016;70.3;61.4;82.9;980
+Nepal;South Asia;2017;92.0;85.8;>95;1300
+Nepal;South Asia;2018;92.0;89.7;>95;1300
+Nepal;South Asia;2019;97.0;96;>95;1300
+Pakistan;South Asia;2010;3.1;2.7;3.7;60
+Pakistan;South Asia;2011;2.3;2.0;2.7;50
+Pakistan;South Asia;2012;3.3;2.8;3.7;90
+Pakistan;South Asia;2013;3.5;3.0;4.1;110
+Pakistan;South Asia;2014;3.8;3.2;4.4;130
+Pakistan;South Asia;2015;6.6;5.7;7.6;260
+Pakistan;South Asia;2016;7.4;6.4;8.5;330
+Pakistan;South Asia;2017;8.9;7.6;10.1;450
+Pakistan;South Asia;2018;11.1;9.5;12.6;610
 Pakistan;South Asia;2019;31.1;27.0;35.4;1,9
-Peru;Latin America and Caribbean;2010;32.2;28.4;38.1;540,
-Peru;Latin America and Caribbean;2011;31.9;28.1;37.7;540,
-Peru;Latin America and Caribbean;2012;34.4;30.1;40.4;580,
-Peru;Latin America and Caribbean;2013;44.4;39.0;52.4;730,
-Peru;Latin America and Caribbean;2014;49.2;43.2;58.0;800,
-Peru;Latin America and Caribbean;2015;56.1;49.4;66.8;890,
-Peru;Latin America and Caribbean;2016;46.9;40.6;55.7;730,
-Peru;Latin America and Caribbean;2017;50.5;42.8;59.8;770,
-Peru;Latin America and Caribbean;2018;57.3;47.9;68.7;830,
-Peru;Latin America and Caribbean;2019;65.3;53.7;79.0;900,
-Philippines;East Asia and Pacific;2010;23.0;18.8;27.5;20,
-Philippines;East Asia and Pacific;2011;17.8;14.4;21.4;20,
-Philippines;East Asia and Pacific;2012;25.6;20.8;30.7;30,
-Philippines;East Asia and Pacific;2013;13.9;11.4;16.6;20,
-Philippines;East Asia and Pacific;2014;12.6;10.3;15.3;20,
-Philippines;East Asia and Pacific;2015;16.7;13.5;20.2;40,
-Philippines;East Asia and Pacific;2016;15.1;12.1;18.2;40,
-Philippines;East Asia and Pacific;2017;19.8;15.8;24.2;70,
-Philippines;East Asia and Pacific;2018;20.7;16.5;25.2;90,
-Philippines;East Asia and Pacific;2019;25.5;20.1;31.3;120,
-Papua New Guinea;East Asia and Pacific;2010;18.3;15.2;21.0;480,
-Papua New Guinea;East Asia and Pacific;2011;20.5;16.9;23.8;570,
-Papua New Guinea;East Asia and Pacific;2012;25.1;20.6;29.2;740,
-Papua New Guinea;East Asia and Pacific;2013;29.4;24.1;34.5;890,
-Papua New Guinea;East Asia and Pacific;2014;33.8;27.3;39.8;1,
-Papua New Guinea;East Asia and Pacific;2015;37.0;29.7;43.5;1,2
-Papua New Guinea;East Asia and Pacific;2016;39.4;31.3;46.8;1,3
-Papua New Guinea;East Asia and Pacific;2017;41.3;32.5;49.0;1,3
-Papua New Guinea;East Asia and Pacific;2018;44.9;34.9;53.6;1,4
-Papua New Guinea;East Asia and Pacific;2019;48.6;37.4;58.1;1,5
-Paraguay;Latin America and Caribbean;2010;23.8;16.8;32.4;110,
-Paraguay;Latin America and Caribbean;2011;38.6;27.3;52.3;170,
-Paraguay;Latin America and Caribbean;2012;42.4;29.5;58.5;180,
-Paraguay;Latin America and Caribbean;2013;46.0;31.5;64.8;200,
-Paraguay;Latin America and Caribbean;2014;44.7;30.1;64.4;190,
-Paraguay;Latin America and Caribbean;2015;42.6;28.2;61.8;180,
-Paraguay;Latin America and Caribbean;2016;47.7;32.0;71.9;190,
-Paraguay;Latin America and Caribbean;2017;50.3;33.3;78.9;190,
-Paraguay;Latin America and Caribbean;2018;49.1;32.6;78.5;170,
-Paraguay;Latin America and Caribbean;2019;52.3;34.9;83.0;170,
-Romania;Eastern Europe and Central Asia;2010;16.5;15.6;17.3;190,
-Romania;Eastern Europe and Central Asia;2011;21.5;20.2;22.5;190,
-Romania;Eastern Europe and Central Asia;2012;32.3;30.5;33.5;210,
-Romania;Eastern Europe and Central Asia;2013;48.5;46.2;50.4;220,
-Romania;Eastern Europe and Central Asia;2014;78.7;75.7;82.6;220,
-Romania;Eastern Europe and Central Asia;2015;>95;>95;>95;240,
-Romania;Eastern Europe and Central Asia;2016;>95;>95;>95;200,
-Romania;Eastern Europe and Central Asia;2017;>95;>95;>95;200,
-Romania;Eastern Europe and Central Asia;2018;>95;>95;>95;170,
-Romania;Eastern Europe and Central Asia;2019;>95;>95;>95;190,
-Rwanda;Eastern and Southern Africa;2010;27.8;22.9;31.4;7,5
-Rwanda;Eastern and Southern Africa;2011;29.5;24.2;33.4;7,6
-Rwanda;Eastern and Southern Africa;2012;32.5;26.6;37.3;8,
-Rwanda;Eastern and Southern Africa;2013;35.1;28.6;40.5;8,1
-Rwanda;Eastern and Southern Africa;2014;37.8;30.6;43.9;8,1
-Rwanda;Eastern and Southern Africa;2015;41.6;33.6;48.5;8,3
-Rwanda;Eastern and Southern Africa;2016;47.1;37.7;55.8;8,7
-Rwanda;Eastern and Southern Africa;2017;47.7;38.0;56.4;8,1
-Rwanda;Eastern and Southern Africa;2018;48.8;38.1;58.9;7,5
-Rwanda;Eastern and Southern Africa;2019;50.4;38.9;62.4;6,9
-Sudan;Eastern and Southern Africa;2010;6.3;5.0;7.7;230,
-Sudan;Eastern and Southern Africa;2011;3.7;2.9;4.4;140,
-Sudan;Eastern and Southern Africa;2012;4.3;3.6;5.1;170,
-Sudan;Eastern and Southern Africa;2013;6.3;5.2;7.4;250,
-Sudan;Eastern and Southern Africa;2014;9.7;8.0;11.3;390,
-Sudan;Eastern and Southern Africa;2015;9.7;8.0;11.2;390,
-Sudan;Eastern and Southern Africa;2016;11.7;9.7;13.5;480,
-Sudan;Eastern and Southern Africa;2017;14.0;11.6;16.2;570,
-Sudan;Eastern and Southern Africa;2018;15.3;12.6;17.9;620,
-Sudan;Eastern and Southern Africa;2019;16.6;13.6;19.7;670,
-Senegal;West and Central Africa;2010;<1;<1;<1;50,
-Senegal;West and Central Africa;2011;<1;<1;1.0;50,
-Senegal;West and Central Africa;2012;<1;<1;1.1;50,
-Senegal;West and Central Africa;2013;1.0;<1;1.2;50,
-Senegal;West and Central Africa;2014;12.8;11.3;14.6;640,
-Senegal;West and Central Africa;2015;24.9;22.1;28.6;1,2
-Senegal;West and Central Africa;2016;26.9;24.0;31.4;1,2
-Senegal;West and Central Africa;2017;28.7;25.4;33.8;1,2
-Senegal;West and Central Africa;2018;34.1;29.9;40.4;1,4
-Senegal;West and Central Africa;2019;38.5;33.5;46.1;1,5
-Sierra Leone;West and Central Africa;2010;4.0;3.2;4.7;430,
-Sierra Leone;West and Central Africa;2011;5.0;4.0;5.9;540,
-Sierra Leone;West and Central Africa;2012;4.3;3.4;5.0;460,
-Sierra Leone;West and Central Africa;2013;4.6;3.6;5.4;490,
-Sierra Leone;West and Central Africa;2014;4.6;3.6;5.4;490,
-Sierra Leone;West and Central Africa;2015;7.0;5.5;8.3;730,
-Sierra Leone;West and Central Africa;2016;7.8;5.9;9.3;790,
-Sierra Leone;West and Central Africa;2017;10.0;7.6;12.2;980,
-Sierra Leone;West and Central Africa;2018;11.9;8.8;14.6;1,1
-Sierra Leone;West and Central Africa;2019;12.7;9.2;15.8;1,2
-El Salvador;Latin America and Caribbean;2010;51.1;44.7;58.2;340,
-El Salvador;Latin America and Caribbean;2011;58.5;50.9;66.8;390,
-El Salvador;Latin America and Caribbean;2012;50.2;44.0;57.4;340,
-El Salvador;Latin America and Caribbean;2013;46.7;40.4;53.6;310,
-El Salvador;Latin America and Caribbean;2014;54.5;46.9;62.9;340,
-El Salvador;Latin America and Caribbean;2015;45.2;38.4;52.8;270,
-El Salvador;Latin America and Caribbean;2016;38.2;32.0;44.6;220,
-El Salvador;Latin America and Caribbean;2017;32.1;26.6;37.7;180,
-El Salvador;Latin America and Caribbean;2018;27.4;22.7;32.5;150,
-El Salvador;Latin America and Caribbean;2019;23.7;19.6;28.5;120,
-Somalia;Eastern and Southern Africa;2010;<1;<1;<1;10,
-Somalia;Eastern and Southern Africa;2011;2.9;2.6;3.2;50,
-Somalia;Eastern and Southern Africa;2012;2.7;2.4;3.0;40,
-Somalia;Eastern and Southern Africa;2013;4.1;3.6;4.6;60,
-Somalia;Eastern and Southern Africa;2014;6.3;5.5;7.0;90,
-Somalia;Eastern and Southern Africa;2015;7.9;6.9;8.9;110,
-Somalia;Eastern and Southern Africa;2016;9.4;8.2;10.6;130,
-Somalia;Eastern and Southern Africa;2017;11.8;10.2;13.4;150,
-Somalia;Eastern and Southern Africa;2018;15.9;13.7;18.1;190,
-Somalia;Eastern and Southern Africa;2019;17.2;14.7;19.7;190,
-South Sudan;Eastern and Southern Africa;2010;<1;<1;<1;90,
-South Sudan;Eastern and Southern Africa;2011;<1;<1;1.0;140,
-South Sudan;Eastern and Southern Africa;2012;<1;<1;1.2;160,
-South Sudan;Eastern and Southern Africa;2013;1.6;1.2;2.1;290,
-South Sudan;Eastern and Southern Africa;2014;3.0;2.3;3.9;540,
-South Sudan;Eastern and Southern Africa;2015;4.2;3.2;5.4;730,
-South Sudan;Eastern and Southern Africa;2016;5.5;4.2;7.2;940,
-South Sudan;Eastern and Southern Africa;2017;7.3;5.4;9.7;1,2
-South Sudan;Eastern and Southern Africa;2018;9.2;6.6;12.1;1,5
-South Sudan;Eastern and Southern Africa;2019;12.0;8.7;15.7;1,9
-Suriname;Latin America and Caribbean;2010;42.7;36.5;50.8;80,
-Suriname;Latin America and Caribbean;2011;46.9;39.2;55.9;80,
-Suriname;Latin America and Caribbean;2012;49.7;40.9;60.3;80,
-Suriname;Latin America and Caribbean;2013;48.1;38.9;58.8;80,
-Suriname;Latin America and Caribbean;2014;50.6;40.1;62.2;80,
-Suriname;Latin America and Caribbean;2015;63.4;49.4;79.2;90,
-Suriname;Latin America and Caribbean;2016;61.9;46.7;77.0;90,
-Suriname;Latin America and Caribbean;2017;53.7;39.3;67.8;70,
-Suriname;Latin America and Caribbean;2018;39.8;28.3;50.4;50,
-Suriname;Latin America and Caribbean;2019;36.1;24.8;46.4;40,
-Eswatini;Eastern and Southern Africa;2010;37.4;32.8;41.5;5,7
-Eswatini;Eastern and Southern Africa;2011;44.2;38.6;48.8;6,6
-Eswatini;Eastern and Southern Africa;2012;50.6;44.2;55.7;7,4
-Eswatini;Eastern and Southern Africa;2013;55.0;48.1;60.7;7,9
-Eswatini;Eastern and Southern Africa;2014;56.0;48.6;61.7;7,9
-Eswatini;Eastern and Southern Africa;2015;63.9;55.0;70.8;8,7
-Eswatini;Eastern and Southern Africa;2016;74.0;63.1;82.5;9,5
-Eswatini;Eastern and Southern Africa;2017;81.7;68.7;91.3;9,9
-Eswatini;Eastern and Southern Africa;2018;76.7;64.2;86.6;8,6
-Eswatini;Eastern and Southern Africa;2019;83.6;69.4;94.4;8,6
-Chad;West and Central Africa;2010;5.8;4.3;7.5;1,1
-Chad;West and Central Africa;2011;8.3;6.0;10.5;1,5
-Chad;West and Central Africa;2012;8.3;6.0;10.5;1,5
-Chad;West and Central Africa;2013;8.5;6.1;10.7;1,5
-Chad;West and Central Africa;2014;9.0;6.3;11.3;1,5
-Chad;West and Central Africa;2015;9.3;6.6;11.8;1,5
-Chad;West and Central Africa;2016;9.8;6.9;12.6;1,5
-Chad;West and Central Africa;2017;13.7;9.6;17.8;2,1
-Chad;West and Central Africa;2018;17.7;12.3;23.1;2,6
-Chad;West and Central Africa;2019;22.1;14.9;28.9;3,1
-Togo;West and Central Africa;2010;<1;<1;<1;0,
-Togo;West and Central Africa;2011;<1;<1;<1;0,
-Togo;West and Central Africa;2012;14.9;11.8;18.3;2,1
-Togo;West and Central Africa;2013;17.7;14.0;22.1;2,4
-Togo;West and Central Africa;2014;22.2;17.4;27.6;2,9
-Togo;West and Central Africa;2015;24.9;19.3;31.3;3,1
-Togo;West and Central Africa;2016;28.4;21.6;36.0;3,3
-Togo;West and Central Africa;2017;33.0;24.3;42.4;3,7
-Togo;West and Central Africa;2018;40.1;28.9;52.2;4,2
-Togo;West and Central Africa;2019;47.6;33.7;62.7;4,7
-Thailand;East Asia and Pacific;2010;61.8;51.9;71.9;7,
-Thailand;East Asia and Pacific;2011;62.4;52.2;72.7;6,6
-Thailand;East Asia and Pacific;2012;61.2;51.1;71.2;5,9
-Thailand;East Asia and Pacific;2013;58.9;48.9;68.7;5,1
-Thailand;East Asia and Pacific;2014;58.1;48.0;67.6;4,5
-Thailand;East Asia and Pacific;2015;56.6;47.0;66.4;3,8
-Thailand;East Asia and Pacific;2016;60.5;50.5;71.5;3,5
-Thailand;East Asia and Pacific;2017;59.8;50.1;70.4;2,9
-Thailand;East Asia and Pacific;2018;64.8;54.4;77.1;2,6
-Thailand;East Asia and Pacific;2019;65.6;55.4;77.6;2,2
-Tajikistan;Eastern Europe and Central Asia;2010;18.5;15.2;27.5;20,
-Tajikistan;Eastern Europe and Central Asia;2011;36.6;31.0;48.9;60,
-Tajikistan;Eastern Europe and Central Asia;2012;58.6;51.5;72.5;130,
-Tajikistan;Eastern Europe and Central Asia;2013;86.8;78.9;>95;250,
-Tajikistan;Eastern Europe and Central Asia;2014;>95;91.5;>95;370,
-Tajikistan;Eastern Europe and Central Asia;2015;>95;90.8;>95;480,
-Tajikistan;Eastern Europe and Central Asia;2016;>95;93.0;>95;580,
-Tajikistan;Eastern Europe and Central Asia;2017;>95;>95;>95;660,
-Tajikistan;Eastern Europe and Central Asia;2018;>95;>95;>95;750,
-Tajikistan;Eastern Europe and Central Asia;2019;>95;90.7;>95;890,
-Tunisia;Middle East and North Africa;2010;69.0;42.8;>95;20,
-Tunisia;Middle East and North Africa;2011;57.6;36.6;>95;20,
-Tunisia;Middle East and North Africa;2012;30.8;19.7;60.0;10,
-Tunisia;Middle East and North Africa;2013;47.7;32.5;81.4;20,
-Tunisia;Middle East and North Africa;2014;38.3;26.1;61.1;20,
-Tunisia;Middle East and North Africa;2015;37.7;25.6;55.5;20,
-Tunisia;Middle East and North Africa;2016;33.9;24.1;47.7;20,
-Tunisia;Middle East and North Africa;2017;31.8;22.2;44.4;20,
-Tunisia;Middle East and North Africa;2018;40.5;29.0;57.0;30,
-Tunisia;Middle East and North Africa;2019;51.9;36.5;73.6;40,
-United Republic of Tanzania;Eastern and Southern Africa;2010;14.1;11.8;16.2;19,3
-United Republic of Tanzania;Eastern and Southern Africa;2011;15.2;12.7;17.4;19,9
-United Republic of Tanzania;Eastern and Southern Africa;2012;26.4;22.2;30.2;32,6
-United Republic of Tanzania;Eastern and Southern Africa;2013;33.0;27.8;38.1;38,8
-United Republic of Tanzania;Eastern and Southern Africa;2014;37.2;31.3;43.1;42,1
-United Republic of Tanzania;Eastern and Southern Africa;2015;47.3;39.4;55.3;51,8
-United Republic of Tanzania;Eastern and Southern Africa;2016;51.8;42.3;60.9;55,2
-United Republic of Tanzania;Eastern and Southern Africa;2017;54.4;44.3;64.5;55,6
-United Republic of Tanzania;Eastern and Southern Africa;2018;61.1;49.7;72.9;59,6
-United Republic of Tanzania;Eastern and Southern Africa;2019;66.0;53.0;79.4;61,2
-Uganda;Eastern and Southern Africa;2010;13.7;12.0;15.1;21,8
-Uganda;Eastern and Southern Africa;2011;15.9;14.0;17.6;24,7
-Uganda;Eastern and Southern Africa;2012;24.1;21.3;26.6;35,5
-Uganda;Eastern and Southern Africa;2013;30.9;27.5;34.1;43,5
-Uganda;Eastern and Southern Africa;2014;40.6;36.3;44.7;54,7
-Uganda;Eastern and Southern Africa;2015;46.9;42.2;51.6;60,
-Uganda;Eastern and Southern Africa;2016;52.1;47.1;57.5;63,9
-Uganda;Eastern and Southern Africa;2017;55.7;50.5;61.7;65,1
-Uganda;Eastern and Southern Africa;2018;61.3;55.7;68.5;67,1
-Uganda;Eastern and Southern Africa;2019;64.7;58.8;72.9;66,2
-Ukraine;Eastern Europe and Central Asia;2010;67.3;58.9;77.2;2,
-Ukraine;Eastern Europe and Central Asia;2011;73.5;64.7;84.2;2,3
-Ukraine;Eastern Europe and Central Asia;2012;79.5;70.0;91.2;2,5
-Ukraine;Eastern Europe and Central Asia;2013;86.4;76.0;>95;2,7
-Ukraine;Eastern Europe and Central Asia;2014;88.0;77.4;>95;2,7
-Ukraine;Eastern Europe and Central Asia;2015;85.9;75.7;>95;2,6
-Ukraine;Eastern Europe and Central Asia;2016;90.6;79.8;>95;2,8
-Ukraine;Eastern Europe and Central Asia;2017;>95;85.1;>95;2,9
-Ukraine;Eastern Europe and Central Asia;2018;>95;85.7;>95;2,9
-Ukraine;Eastern Europe and Central Asia;2019;>95;85.1;>95;2,8
-Uzbekistan;Eastern Europe and Central Asia;2010;43.2;42.5;44.2;930,
-Uzbekistan;Eastern Europe and Central Asia;2011;50.4;49.2;51.6;1,2
-Uzbekistan;Eastern Europe and Central Asia;2012;60.2;58.5;61.8;1,7
-Uzbekistan;Eastern Europe and Central Asia;2013;74.9;72.3;77.2;2,4
-Uzbekistan;Eastern Europe and Central Asia;2014;87.3;83.6;90.9;3,1
-Uzbekistan;Eastern Europe and Central Asia;2015;>95;90.9;>95;3,9
-Uzbekistan;Eastern Europe and Central Asia;2016;>95;94.0;>95;4,6
-Uzbekistan;Eastern Europe and Central Asia;2017;>95;94.5;>95;5,1
-Uzbekistan;Eastern Europe and Central Asia;2018;>95;93.7;>95;5,5
-Uzbekistan;Eastern Europe and Central Asia;2019;90.7;84.0;94.2;5,3
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2010;26.1;22.6;29.9;1,1
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2011;19.9;17.2;22.9;840,
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2012;22.3;19.2;25.9;970,
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2013;22.2;18.9;25.7;980,
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2014;22.8;19.3;26.6;1,
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2015;30.5;25.6;35.8;1,3
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2016;30.8;25.7;36.6;1,3
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2017;28.7;23.8;34.2;1,2
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2018;24.6;20.2;29.4;980,
-Venezuela (Bolivarian Republic of);Latin America and Caribbean;2019;27.5;22.5;33.1;1,1
-Viet Nam;East Asia and Pacific;2010;53.6;45.8;64.6;2,7
-Viet Nam;East Asia and Pacific;2011;63.0;53.8;75.1;3,3
-Viet Nam;East Asia and Pacific;2012;71.9;61.9;85.6;3,8
-Viet Nam;East Asia and Pacific;2013;76.8;65.8;91.1;4,2
-Viet Nam;East Asia and Pacific;2014;80.9;69.5;>95;4,5
-Viet Nam;East Asia and Pacific;2015;86.9;73.9;>95;4,9
-Viet Nam;East Asia and Pacific;2016;87.1;74.0;>95;4,9
-Viet Nam;East Asia and Pacific;2017;86.4;73.0;>95;4,8
-Viet Nam;East Asia and Pacific;2018;84.3;70.6;>95;4,6
-Viet Nam;East Asia and Pacific;2019;85.1;71.0;>95;4,5
-Yemen;Middle East and North Africa;2010;18.8;12.4;30.2;40,
-Yemen;Middle East and North Africa;2011;23.6;16.1;35.9;50,
-Yemen;Middle East and North Africa;2012;23.0;16.5;34.2;50,
-Yemen;Middle East and North Africa;2013;24.2;17.8;35.1;60,
-Yemen;Middle East and North Africa;2014;55.1;40.8;79.0;140,
-Yemen;Middle East and North Africa;2015;32.7;24.9;45.8;90,
-Yemen;Middle East and North Africa;2016;34.6;26.8;48.9;100,
-Yemen;Middle East and North Africa;2017;38.0;29.2;54.2;120,
-Yemen;Middle East and North Africa;2018;39.1;29.1;55.9;130,
-Yemen;Middle East and North Africa;2019;43.2;30.7;62.9;140,
-South Africa;Eastern and Southern Africa;2010;27.6;21.5;32.8;104,
-South Africa;Eastern and Southern Africa;2011;34.5;26.9;41.1;133,
-South Africa;Eastern and Southern Africa;2012;37.7;29.5;45.0;148,
-South Africa;Eastern and Southern Africa;2013;41.7;32.4;49.7;165,
-South Africa;Eastern and Southern Africa;2014;44.0;34.0;52.5;175,
-South Africa;Eastern and Southern Africa;2015;46.5;35.8;55.7;182,
-South Africa;Eastern and Southern Africa;2016;48.2;36.9;57.7;184,
-South Africa;Eastern and Southern Africa;2017;49.1;37.6;59.6;182,
-South Africa;Eastern and Southern Africa;2018;50.1;38.3;61.6;178,
-South Africa;Eastern and Southern Africa;2019;46.6;35.7;58.3;157,
-Zambia;Eastern and Southern Africa;2010;29.8;25.7;33.3;24,2
-Zambia;Eastern and Southern Africa;2011;35.2;30.3;39.4;28,2
-Zambia;Eastern and Southern Africa;2012;42.8;36.9;47.9;33,7
-Zambia;Eastern and Southern Africa;2013;50.6;43.6;56.7;39,1
-Zambia;Eastern and Southern Africa;2014;58.1;50.0;65.0;44,2
-Zambia;Eastern and Southern Africa;2015;69.5;59.9;77.9;51,9
-Zambia;Eastern and Southern Africa;2016;68.0;58.5;76.1;49,8
-Zambia;Eastern and Southern Africa;2017;65.3;56.2;73.1;46,5
-Zambia;Eastern and Southern Africa;2018;71.5;61.6;80.1;49,1
-Zambia;Eastern and Southern Africa;2019;76.0;65.4;85.1;50,3
-Zimbabwe;Eastern and Southern Africa;2010;24.6;19.5;30.2;32,9
-Zimbabwe;Eastern and Southern Africa;2011;31.2;24.8;38.3;40,
-Zimbabwe;Eastern and Southern Africa;2012;38.8;30.8;47.6;46,9
-Zimbabwe;Eastern and Southern Africa;2013;40.3;32.0;49.5;46,3
-Zimbabwe;Eastern and Southern Africa;2014;50.4;40.0;61.8;55,1
-Zimbabwe;Eastern and Southern Africa;2015;58.6;46.6;72.0;61,
-Zimbabwe;Eastern and Southern Africa;2016;67.0;53.2;82.2;66,2
-Zimbabwe;Eastern and Southern Africa;2017;72.8;57.8;89.3;68,1
-Zimbabwe;Eastern and Southern Africa;2018;58.9;46.8;72.3;52,4
-Zimbabwe;Eastern and Southern Africa;2019;71.0;56.4;87.1;59,8
+Peru;Latin America and Caribbean;2010;32.2;28.4;38.1;540
+Peru;Latin America and Caribbean;2011;31.9;28.1;37.7;540
+Peru;Latin America and Caribbean;2012;34.4;30.1;40.4;580
+Peru;Latin America and Caribbean;2013;44.4;39.0;52.4;730
+Peru;Latin America and Caribbean;2014;49.2;43.2;58.0;800
+Peru;Latin America and Caribbean;2015;56.1;49.4;66.8;890
+Peru;Latin America and Caribbean;2016;46.9;40.6;55.7;730
+Peru;Latin America and Caribbean;2017;50.5;42.8;59.8;770
+Peru;Latin America and Caribbean;2018;57.3;47.9;68.7;830
+Peru;Latin America and Caribbean;2019;65.3;53.7;79.0;900
+Philippines;East Asia and Pacific;2010;23.0;18.8;27.5;20
+Philippines;East Asia and Pacific;2011;17.8;14.4;21.4;20
+Philippines;East Asia and Pacific;2012;25.6;20.8;30.7;30
+Philippines;East Asia and Pacific;2013;13.9;11.4;16.6;20
+Philippines;East Asia and Pacific;2014;12.6;10.3;15.3;20
+Philippines;East Asia and Pacific;2015;16.7;13.5;20.2;40
+Philippines;East Asia and Pacific;2016;15.1;12.1;18.2;40
+Philippines;East Asia and Pacific;2017;19.8;15.8;24.2;70
+Philippines;East Asia and Pacific;2018;20.7;16.5;25.2;90
+Philippines;East Asia and Pacific;2019;25.5;20.1;31.3;120
+Papua New Guinea;East Asia and Pacific;2010;18.3;15.2;21.0;480
+Papua New Guinea;East Asia and Pacific;2011;20.5;16.9;23.8;570
+Papua New Guinea;East Asia and Pacific;2012;25.1;20.6;29.2;740
+Papua New Guinea;East Asia and Pacific;2013;29.4;24.1;34.5;890
+Papua New Guinea;East Asia and Pacific;2014;33.8;27.3;39.8;1000
+Papua New Guinea;East Asia and Pacific;2015;37.0;29.7;43.5;1200
+Papua New Guinea;East Asia and Pacific;2016;39.4;31.3;46.8;1300
+Papua New Guinea;East Asia and Pacific;2017;41.3;32.5;49.0;1300
+Papua New Guinea;East Asia and Pacific;2018;44.9;34.9;53.6;1400
+Papua New Guinea;East Asia and Pacific;2019;48.6;37.4;58.1;1500
+Paraguay;Latin America and Caribbean;2010;23.8;16.8;32.4;110
+Paraguay;Latin America and Caribbean;2011;38.6;27.3;52.3;170
+Paraguay;Latin America and Caribbean;2012;42.4;29.5;58.5;180
+Paraguay;Latin America and Caribbean;2013;46.0;31.5;64.8;200
+Paraguay;Latin America and Caribbean;2014;44.7;30.1;64.4;190
+Paraguay;Latin America and Caribbean;2015;42.6;28.2;61.8;180
+Paraguay;Latin America and Caribbean;2016;47.7;32.0;71.9;190
+Paraguay;Latin America and Caribbean;2017;50.3;33.3;78.9;190
+Paraguay;Latin America and Caribbean;2018;49.1;32.6;78.5;170
+Paraguay;Latin America and Caribbean;2019;52.3;34.9;83.0;170
+Romania;Eastern Europe and Central Asia;2010;16.5;15.6;17.3;190
+Romania;Eastern Europe and Central Asia;2011;21.5;20.2;22.5;190
+Romania;Eastern Europe and Central Asia;2012;32.3;30.5;33.5;210
+Romania;Eastern Europe and Central Asia;2013;48.5;46.2;50.4;220
+Romania;Eastern Europe and Central Asia;2014;78.7;75.7;82.6;220
+Romania;Eastern Europe and Central Asia;2015;96.0;>95;>95;240
+Romania;Eastern Europe and Central Asia;2016;96.1;>95;>95;200
+Romania;Eastern Europe and Central Asia;2017;96.2;>95;>95;200
+Romania;Eastern Europe and Central Asia;2018;96.3;>95;>95;170
+Romania;Eastern Europe and Central Asia;2019;96.4;>95;>95;190
+Rwanda;Eastern and Southern Africa;2010;27.8;22.9;31.4;7500
+Rwanda;Eastern and Southern Africa;2011;29.5;24.2;33.4;7600
+Rwanda;Eastern and Southern Africa;2012;32.5;26.6;37.3;8000
+Rwanda;Eastern and Southern Africa;2013;35.1;28.6;40.5;8100
+Rwanda;Eastern and Southern Africa;2014;37.8;30.6;43.9;8100
+Rwanda;Eastern and Southern Africa;2015;41.6;33.6;48.5;8300
+Rwanda;Eastern and Southern Africa;2016;47.1;37.7;55.8;8700
+Rwanda;Eastern and Southern Africa;2017;47.7;38.0;56.4;8100
+Rwanda;Eastern and Southern Africa;2018;48.8;38.1;58.9;7500
+Rwanda;Eastern and Southern Africa;2019;50.4;38.9;62.4;6900
+Sudan;Eastern and Southern Africa;2010;6.3;5.0;7.7;230
+Sudan;Eastern and Southern Africa;2011;3.7;2.9;4.4;140
+Sudan;Eastern and Southern Africa;2012;4.3;3.6;5.1;170
+Sudan;Eastern and Southern Africa;2013;6.3;5.2;7.4;250
+Sudan;Eastern and Southern Africa;2014;9.7;8.0;11.3;390
+Sudan;Eastern and Southern Africa;2015;9.7;8.0;11.2;390
+Sudan;Eastern and Southern Africa;2016;11.7;9.7;13.5;480
+Sudan;Eastern and Southern Africa;2017;14.0;11.6;16.2;570
+Sudan;Eastern and Southern Africa;2018;15.3;12.6;17.9;620
+Sudan;Eastern and Southern Africa;2019;16.6;13.6;19.7;670
+Senegal;West and Central Africa;2010;0.5;<1;<1;50
+Senegal;West and Central Africa;2011;0.5;<1;1.0;50
+Senegal;West and Central Africa;2012;0.5;<1;1.1;50
+Senegal;West and Central Africa;2013;1.0;<1;1.2;50
+Senegal;West and Central Africa;2014;12.8;11.3;14.6;640
+Senegal;West and Central Africa;2015;24.9;22.1;28.6;1200
+Senegal;West and Central Africa;2016;26.9;24.0;31.4;1200
+Senegal;West and Central Africa;2017;28.7;25.4;33.8;1200
+Senegal;West and Central Africa;2018;34.1;29.9;40.4;1400
+Senegal;West and Central Africa;2019;38.5;33.5;46.1;1500
+Sierra Leone;West and Central Africa;2010;4.0;3.2;4.7;430
+Sierra Leone;West and Central Africa;2011;5.0;4.0;5.9;540
+Sierra Leone;West and Central Africa;2012;4.3;3.4;5.0;460
+Sierra Leone;West and Central Africa;2013;4.6;3.6;5.4;490
+Sierra Leone;West and Central Africa;2014;4.6;3.6;5.4;490
+Sierra Leone;West and Central Africa;2015;7.0;5.5;8.3;730
+Sierra Leone;West and Central Africa;2016;7.8;5.9;9.3;790
+Sierra Leone;West and Central Africa;2017;10.0;7.6;12.2;980
+Sierra Leone;West and Central Africa;2018;11.9;8.8;14.6;1100
+Sierra Leone;West and Central Africa;2019;12.7;9.2;15.8;1200
+El Salvador;Latin America and Caribbean;2010;51.1;44.7;58.2;340
+El Salvador;Latin America and Caribbean;2011;58.5;50.9;66.8;390
+El Salvador;Latin America and Caribbean;2012;50.2;44.0;57.4;340
+El Salvador;Latin America and Caribbean;2013;46.7;40.4;53.6;310
+El Salvador;Latin America and Caribbean;2014;54.5;46.9;62.9;340
+El Salvador;Latin America and Caribbean;2015;45.2;38.4;52.8;270
+El Salvador;Latin America and Caribbean;2016;38.2;32.0;44.6;220
+El Salvador;Latin America and Caribbean;2017;32.1;26.6;37.7;180
+El Salvador;Latin America and Caribbean;2018;27.4;22.7;32.5;150
+El Salvador;Latin America and Caribbean;2019;23.7;19.6;28.5;120
+Somalia;Eastern and Southern Africa;2010;0.5;<1;<1;10
+Somalia;Eastern and Southern Africa;2011;2.9;2.6;3.2;50
+Somalia;Eastern and Southern Africa;2012;2.7;2.4;3.0;40
+Somalia;Eastern and Southern Africa;2013;4.1;3.6;4.6;60
+Somalia;Eastern and Southern Africa;2014;6.3;5.5;7.0;90
+Somalia;Eastern and Southern Africa;2015;7.9;6.9;8.9;110
+Somalia;Eastern and Southern Africa;2016;9.4;8.2;10.6;130
+Somalia;Eastern and Southern Africa;2017;11.8;10.2;13.4;150
+Somalia;Eastern and Southern Africa;2018;15.9;13.7;18.1;190
+Somalia;Eastern and Southern Africa;2019;17.2;14.7;19.7;190
+South Sudan;Eastern and Southern Africa;2010;0.8;<1;<1;90
+South Sudan;Eastern and Southern Africa;2011;0.9;<1;1.0;140
+South Sudan;Eastern and Southern Africa;2012;0.95;<1;1.2;160
+South Sudan;Eastern and Southern Africa;2013;1.6;1.2;2.1;290
+South Sudan;Eastern and Southern Africa;2014;3.0;2.3;3.9;540
+South Sudan;Eastern and Southern Africa;2015;4.2;3.2;5.4;730
+South Sudan;Eastern and Southern Africa;2016;5.5;4.2;7.2;940
+South Sudan;Eastern and Southern Africa;2017;7.3;5.4;9.7;1200
+South Sudan;Eastern and Southern Africa;2018;9.2;6.6;12.1;1500
+South Sudan;Eastern and Southern Africa;2019;12.0;8.7;15.7;1900
+Suriname;Latin America and Caribbean;2010;42.7;36.5;50.8;80
+Suriname;Latin America and Caribbean;2011;46.9;39.2;55.9;80
+Suriname;Latin America and Caribbean;2012;49.7;40.9;60.3;80
+Suriname;Latin America and Caribbean;2013;48.1;38.9;58.8;80
+Suriname;Latin America and Caribbean;2014;50.6;40.1;62.2;80
+Suriname;Latin America and Caribbean;2015;63.4;49.4;79.2;90
+Suriname;Latin America and Caribbean;2016;61.9;46.7;77.0;90
+Suriname;Latin America and Caribbean;2017;53.7;39.3;67.8;70
+Suriname;Latin America and Caribbean;2018;39.8;28.3;50.4;50
+Suriname;Latin America and Caribbean;2019;36.1;24.8;46.4;40
+Eswatini;Eastern and Southern Africa;2010;37.4;32.8;41.5;5700
+Eswatini;Eastern and Southern Africa;2011;44.2;38.6;48.8;6600
+Eswatini;Eastern and Southern Africa;2012;50.6;44.2;55.7;7400
+Eswatini;Eastern and Southern Africa;2013;55.0;48.1;60.7;7900
+Eswatini;Eastern and Southern Africa;2014;56.0;48.6;61.7;7900
+Eswatini;Eastern and Southern Africa;2015;63.9;55.0;70.8;8700
+Eswatini;Eastern and Southern Africa;2016;74.0;63.1;82.5;9500
+Eswatini;Eastern and Southern Africa;2017;81.7;68.7;91.3;9900
+Eswatini;Eastern and Southern Africa;2018;76.7;64.2;86.6;8600
+Eswatini;Eastern and Southern Africa;2019;83.6;69.4;94.4;8600
+Chad;West and Central Africa;2010;5.8;4.3;7.5;1100
+Chad;West and Central Africa;2011;8.3;6.0;10.5;1500
+Chad;West and Central Africa;2012;8.3;6.0;10.5;1500
+Chad;West and Central Africa;2013;8.5;6.1;10.7;1500
+Chad;West and Central Africa;2014;9.0;6.3;11.3;1500
+Chad;West and Central Africa;2015;9.3;6.6;11.8;1500
+Chad;West and Central Africa;2016;9.8;6.9;12.6;1500
+Chad;West and Central Africa;2017;13.7;9.6;17.8;2100
+Chad;West and Central Africa;2018;17.7;12.3;23.1;2600
+Chad;West and Central Africa;2019;22.1;14.9;28.9;3100
+Togo;West and Central Africa;2010;0.0;<1;<1;0
+Togo;West and Central Africa;2011;0.0;<1;<1;0
+Togo;West and Central Africa;2012;14.9;11.8;18.3;2100
+Togo;West and Central Africa;2013;17.7;14.0;22.1;2400
+Togo;West and Central Africa;2014;22.2;17.4;27.6;2900
+Togo;West and Central Africa;2015;24.9;19.3;31.3;3100
+Togo;West and Central Africa;2016;28.4;21.6;36.0;3300
+Togo;West and Central Africa;2017;33.0;24.3;42.4;3700
+Togo;West and Central Africa;2018;40.1;28.9;52.2;4200
+Togo;West and Central Africa;2019;47.6;33.7;62.7;4700
+Thailand;East Asia and Pacific;2010;61.8;51.9;71.9;7000
+Thailand;East Asia and Pacific;2011;62.4;52.2;72.7;6600
+Thailand;East Asia and Pacific;2012;61.2;51.1;71.2;5900
+Thailand;East Asia and Pacific;2013;58.9;48.9;68.7;5100
+Thailand;East Asia and Pacific;2014;58.1;48.0;67.6;4500
+Thailand;East Asia and Pacific;2015;56.6;47.0;66.4;3800
+Thailand;East Asia and Pacific;2016;60.5;50.5;71.5;3500
+Thailand;East Asia and Pacific;2017;59.8;50.1;70.4;2900
+Thailand;East Asia and Pacific;2018;64.8;54.4;77.1;2600
+Thailand;East Asia and Pacific;2019;65.6;55.4;77.6;2200
+Tajikistan;Eastern Europe and Central Asia;2010;18.5;15.2;27.5;20
+Tajikistan;Eastern Europe and Central Asia;2011;36.6;31.0;48.9;60
+Tajikistan;Eastern Europe and Central Asia;2012;58.6;51.5;72.5;130
+Tajikistan;Eastern Europe and Central Asia;2013;86.8;78.9;>95;250
+Tajikistan;Eastern Europe and Central Asia;2014;93.5;91.5;>95;370
+Tajikistan;Eastern Europe and Central Asia;2015;92.8;90.8;>95;480
+Tajikistan;Eastern Europe and Central Asia;2016;94.0;93.0;>95;580
+Tajikistan;Eastern Europe and Central Asia;2017;96.0;>95;>95;660
+Tajikistan;Eastern Europe and Central Asia;2018;96.0;>95;>95;750
+Tajikistan;Eastern Europe and Central Asia;2019;92.5;90.7;>95;890
+Tunisia;Middle East and North Africa;2010;69.0;42.8;>95;20
+Tunisia;Middle East and North Africa;2011;57.6;36.6;>95;20
+Tunisia;Middle East and North Africa;2012;30.8;19.7;60.0;10
+Tunisia;Middle East and North Africa;2013;47.7;32.5;81.4;20
+Tunisia;Middle East and North Africa;2014;38.3;26.1;61.1;20
+Tunisia;Middle East and North Africa;2015;37.7;25.6;55.5;20
+Tunisia;Middle East and North Africa;2016;33.9;24.1;47.7;20
+Tunisia;Middle East and North Africa;2017;31.8;22.2;44.4;20
+Tunisia;Middle East and North Africa;2018;40.5;29.0;57.0;30
+Tunisia;Middle East and North Africa;2019;51.9;36.5;73.6;40
+United Republic of Tanzania;Eastern and Southern Africa;2010;14.1;11.8;16.2;19300
+United Republic of Tanzania;Eastern and Southern Africa;2011;15.2;12.7;17.4;19900
+United Republic of Tanzania;Eastern and Southern Africa;2012;26.4;22.2;30.2;32600
+United Republic of Tanzania;Eastern and Southern Africa;2013;33.0;27.8;38.1;38800
+United Republic of Tanzania;Eastern and Southern Africa;2014;37.2;31.3;43.1;42100
+United Republic of Tanzania;Eastern and Southern Africa;2015;47.3;39.4;55.3;51800
+United Republic of Tanzania;Eastern and Southern Africa;2016;51.8;42.3;60.9;55200
+United Republic of Tanzania;Eastern and Southern Africa;2017;54.4;44.3;64.5;55600
+United Republic of Tanzania;Eastern and Southern Africa;2018;61.1;49.7;72.9;59600
+United Republic of Tanzania;Eastern and Southern Africa;2019;66.0;53.0;79.4;61200
+Uganda;Eastern and Southern Africa;2010;13.7;12.0;15.1;21800
+Uganda;Eastern and Southern Africa;2011;15.9;14.0;17.6;24700
+Uganda;Eastern and Southern Africa;2012;24.1;21.3;26.6;35500
+Uganda;Eastern and Southern Africa;2013;30.9;27.5;34.1;43500
+Uganda;Eastern and Southern Africa;2014;40.6;36.3;44.7;54700
+Uganda;Eastern and Southern Africa;2015;46.9;42.2;51.6;60000
+Uganda;Eastern and Southern Africa;2016;52.1;47.1;57.5;63900
+Uganda;Eastern and Southern Africa;2017;55.7;50.5;61.7;65100
+Uganda;Eastern and Southern Africa;2018;61.3;55.7;68.5;67100
+Uganda;Eastern and Southern Africa;2019;64.7;58.8;72.9;66100
+Ukraine;Eastern Europe and Central Asia;2010;67.3;58.9;77.2;2000
+Ukraine;Eastern Europe and Central Asia;2011;73.5;64.7;84.2;2300
+Ukraine;Eastern Europe and Central Asia;2012;79.5;70.0;91.2;2500
+Ukraine;Eastern Europe and Central Asia;2013;86.4;76.0;>95;2700
+Ukraine;Eastern Europe and Central Asia;2014;88.0;77.4;>95;2700
+Ukraine;Eastern Europe and Central Asia;2015;85.9;75.7;>95;2600
+Ukraine;Eastern Europe and Central Asia;2016;90.6;79.8;>95;2800
+Ukraine;Eastern Europe and Central Asia;2017;87.5;85.1;>95;2900
+Ukraine;Eastern Europe and Central Asia;2018;87.0;85.7;>95;2900
+Ukraine;Eastern Europe and Central Asia;2019;88.0;85.1;>95;2800
+Uzbekistan;Eastern Europe and Central Asia;2010;43.2;42.5;44.2;930
+Uzbekistan;Eastern Europe and Central Asia;2011;50.4;49.2;51.6;1200
+Uzbekistan;Eastern Europe and Central Asia;2012;60.2;58.5;61.8;1700
+Uzbekistan;Eastern Europe and Central Asia;2013;74.9;72.3;77.2;2400
+Uzbekistan;Eastern Europe and Central Asia;2014;87.3;83.6;90.9;3100
+Uzbekistan;Eastern Europe and Central Asia;2015;92.5;90.9;>95;3900
+Uzbekistan;Eastern Europe and Central Asia;2016;94.5;94.0;>95;4600
+Uzbekistan;Eastern Europe and Central Asia;2017;95.0;94.5;>95;5100
+Uzbekistan;Eastern Europe and Central Asia;2018;94.5;93.7;>95;5500
+Uzbekistan;Eastern Europe and Central Asia;2019;90.7;84.0;94.2;5300
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2010;26.1;22.6;29.9;1100
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2011;19.9;17.2;22.9;840
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2012;22.3;19.2;25.9;970
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2013;22.2;18.9;25.7;980
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2014;22.8;19.3;26.6;1000
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2015;30.5;25.6;35.8;1300
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2016;30.8;25.7;36.6;1300
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2017;28.7;23.8;34.2;1200
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2018;24.6;20.2;29.4;980
+Venezuela (Bolivarian Republic of);Latin America and Caribbean;2019;27.5;22.5;33.1;1100
+Viet Nam;East Asia and Pacific;2010;53.6;45.8;64.6;2700
+Viet Nam;East Asia and Pacific;2011;63.0;53.8;75.1;3300
+Viet Nam;East Asia and Pacific;2012;71.9;61.9;85.6;3800
+Viet Nam;East Asia and Pacific;2013;76.8;65.8;91.1;4200
+Viet Nam;East Asia and Pacific;2014;80.9;69.5;>95;4500
+Viet Nam;East Asia and Pacific;2015;86.9;73.9;>95;4900
+Viet Nam;East Asia and Pacific;2016;87.1;74.0;>95;4900
+Viet Nam;East Asia and Pacific;2017;86.4;73.0;>95;4800
+Viet Nam;East Asia and Pacific;2018;84.3;70.6;>95;4600
+Viet Nam;East Asia and Pacific;2019;85.1;71.0;>95;4500
+Yemen;Middle East and North Africa;2010;18.8;12.4;30.2;40
+Yemen;Middle East and North Africa;2011;23.6;16.1;35.9;50
+Yemen;Middle East and North Africa;2012;23.0;16.5;34.2;50
+Yemen;Middle East and North Africa;2013;24.2;17.8;35.1;60
+Yemen;Middle East and North Africa;2014;55.1;40.8;79.0;140
+Yemen;Middle East and North Africa;2015;32.7;24.9;45.8;90
+Yemen;Middle East and North Africa;2016;34.6;26.8;48.9;100
+Yemen;Middle East and North Africa;2017;38.0;29.2;54.2;120
+Yemen;Middle East and North Africa;2018;39.1;29.1;55.9;130
+Yemen;Middle East and North Africa;2019;43.2;30.7;62.9;140
+South Africa;Eastern and Southern Africa;2010;27.6;21.5;32.8;104
+South Africa;Eastern and Southern Africa;2011;34.5;26.9;41.1;133
+South Africa;Eastern and Southern Africa;2012;37.7;29.5;45.0;148
+South Africa;Eastern and Southern Africa;2013;41.7;32.4;49.7;165
+South Africa;Eastern and Southern Africa;2014;44.0;34.0;52.5;175
+South Africa;Eastern and Southern Africa;2015;46.5;35.8;55.7;182
+South Africa;Eastern and Southern Africa;2016;48.2;36.9;57.7;184
+South Africa;Eastern and Southern Africa;2017;49.1;37.6;59.6;182
+South Africa;Eastern and Southern Africa;2018;50.1;38.3;61.6;178
+South Africa;Eastern and Southern Africa;2019;46.6;35.7;58.3;157
+Zambia;Eastern and Southern Africa;2010;29.8;25.7;33.3;24200
+Zambia;Eastern and Southern Africa;2011;35.2;30.3;39.4;28200
+Zambia;Eastern and Southern Africa;2012;42.8;36.9;47.9;33700
+Zambia;Eastern and Southern Africa;2013;50.6;43.6;56.7;39100
+Zambia;Eastern and Southern Africa;2014;58.1;50.0;65.0;44200
+Zambia;Eastern and Southern Africa;2015;69.5;59.9;77.9;51900
+Zambia;Eastern and Southern Africa;2016;68.0;58.5;76.1;49800
+Zambia;Eastern and Southern Africa;2017;65.3;56.2;73.1;46500
+Zambia;Eastern and Southern Africa;2018;71.5;61.6;80.1;49100
+Zambia;Eastern and Southern Africa;2019;76.0;65.4;85.1;50300
+Zimbabwe;Eastern and Southern Africa;2010;24.6;19.5;30.2;32900
+Zimbabwe;Eastern and Southern Africa;2011;31.2;24.8;38.3;40000
+Zimbabwe;Eastern and Southern Africa;2012;38.8;30.8;47.6;46900
+Zimbabwe;Eastern and Southern Africa;2013;40.3;32.0;49.5;46300
+Zimbabwe;Eastern and Southern Africa;2014;50.4;40.0;61.8;55100
+Zimbabwe;Eastern and Southern Africa;2015;58.6;46.6;72.0;61000
+Zimbabwe;Eastern and Southern Africa;2016;67.0;53.2;82.2;66200
+Zimbabwe;Eastern and Southern Africa;2017;72.8;57.8;89.3;68100
+Zimbabwe;Eastern and Southern Africa;2018;58.9;46.8;72.3;52400
+Zimbabwe;Eastern and Southern Africa;2019;71.0;56.4;87.1;59800
